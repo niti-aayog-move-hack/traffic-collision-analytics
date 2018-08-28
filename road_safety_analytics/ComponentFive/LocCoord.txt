@@ -1,0 +1,1346 @@
+Port Blair	11.67	92.76	Andaman and Nicobar Islands
+Adilabad	19.68	78.53	Andhra Pradesh
+Adoni	15.63	77.28	Andhra Pradesh
+Alwal	17.50	78.54	Andhra Pradesh
+Anakapalle	17.69	83.00	Andhra Pradesh
+Anantapur	14.70	77.59	Andhra Pradesh
+Bapatla	15.91	80.47	Andhra Pradesh
+Belampalli	19.06	79.49	Andhra Pradesh
+Bhimavaram	16.55	81.53	Andhra Pradesh
+Bhongir	17.52	78.88	Andhra Pradesh
+Bobbili	18.57	83.37	Andhra Pradesh
+Bodhan	18.66	77.88	Andhra Pradesh
+Chilakalurupet	16.10	80.16	Andhra Pradesh
+Chinna Chawk	14.47	78.83	Andhra Pradesh
+Chirala	15.84	80.35	Andhra Pradesh
+Chittur	13.22	79.10	Andhra Pradesh
+Cuddapah	14.48	78.81	Andhra Pradesh
+Dharmavaram	14.42	77.71	Andhra Pradesh
+Dhone	15.42	77.88	Andhra Pradesh
+Eluru	16.72	81.11	Andhra Pradesh
+Gaddiannaram	17.36	78.52	Andhra Pradesh
+Gadwal	16.23	77.80	Andhra Pradesh
+Gajuwaka	17.70	83.21	Andhra Pradesh
+Gudivada	16.44	81.00	Andhra Pradesh
+Gudur	14.15	79.84	Andhra Pradesh
+Guntakal	15.18	77.37	Andhra Pradesh
+Guntur	16.31	80.44	Andhra Pradesh
+Hindupur	13.83	77.48	Andhra Pradesh
+Hyderabad	17.40	78.48	Andhra Pradesh
+Jagtial	18.80	78.91	Andhra Pradesh
+Kadiri	14.12	78.16	Andhra Pradesh
+Kagaznagar	19.34	79.48	Andhra Pradesh
+Kakinada	16.96	82.24	Andhra Pradesh
+Kallur	15.69	77.77	Andhra Pradesh
+Kamareddi	18.32	78.35	Andhra Pradesh
+Kapra	17.37	78.48	Andhra Pradesh
+Karimnagar	18.45	79.13	Andhra Pradesh
+Karnul	15.83	78.03	Andhra Pradesh
+Kavali	14.92	79.99	Andhra Pradesh
+Khammam	17.25	80.15	Andhra Pradesh
+Kodar	16.98	79.97	Andhra Pradesh
+Kondukur	15.22	79.91	Andhra Pradesh
+Koratla	18.82	78.72	Andhra Pradesh
+Kottagudem	17.56	80.64	Andhra Pradesh
+Kukatpalle	17.49	78.41	Andhra Pradesh
+Lalbahadur Nagar	17.43	78.50	Andhra Pradesh
+Machilipatnam	16.19	81.14	Andhra Pradesh
+Mahbubnagar	16.74	77.98	Andhra Pradesh
+Malkajgiri	17.55	78.59	Andhra Pradesh
+Mancheral	18.88	79.45	Andhra Pradesh
+Mandamarri	18.97	79.47	Andhra Pradesh
+Mangalagiri	16.44	80.56	Andhra Pradesh
+Markapur	15.73	79.28	Andhra Pradesh
+Miryalaguda	16.87	79.57	Andhra Pradesh
+Nalgonda	17.06	79.26	Andhra Pradesh
+Nandyal	15.49	78.48	Andhra Pradesh
+Narasapur	16.45	81.70	Andhra Pradesh
+Narasaraopet	16.24	80.04	Andhra Pradesh
+Nellur	14.46	79.98	Andhra Pradesh
+Nirmal	19.12	78.35	Andhra Pradesh
+Nizamabad	18.68	78.10	Andhra Pradesh
+Nuzvid	16.78	80.85	Andhra Pradesh
+Ongole	15.50	80.05	Andhra Pradesh
+Palakollu	16.52	81.75	Andhra Pradesh
+Palasa	18.77	84.42	Andhra Pradesh
+Palwancha	17.60	80.68	Andhra Pradesh
+Patancheru	17.53	78.27	Andhra Pradesh
+Piduguralla	16.48	79.90	Andhra Pradesh
+Ponnur	16.07	80.56	Andhra Pradesh
+Proddatur	14.73	78.55	Andhra Pradesh
+Qutubullapur	17.43	78.47	Andhra Pradesh
+Rajamahendri	17.02	81.79	Andhra Pradesh
+Rajampet	14.18	79.17	Andhra Pradesh
+Rajendranagar	17.29	78.39	Andhra Pradesh
+Ramachandrapuram	17.56	78.04	Andhra Pradesh
+Ramagundam	18.80	79.45	Andhra Pradesh
+Rayachoti	14.05	78.75	Andhra Pradesh
+Rayadrug	14.70	76.87	Andhra Pradesh
+Samalkot	17.06	82.18	Andhra Pradesh
+Sangareddi	17.63	78.08	Andhra Pradesh
+Sattenapalle	16.40	80.18	Andhra Pradesh
+Serilungampalle	17.48	78.33	Andhra Pradesh
+Siddipet	18.11	78.84	Andhra Pradesh
+Sikandarabad	17.47	78.52	Andhra Pradesh
+Sirsilla	18.40	78.81	Andhra Pradesh
+Srikakulam	18.30	83.90	Andhra Pradesh
+Srikalahasti	13.76	79.70	Andhra Pradesh
+Suriapet	17.15	79.62	Andhra Pradesh
+Tadepalle	16.48	80.60	Andhra Pradesh
+Tadepallegudem	16.82	81.52	Andhra Pradesh
+Tadpatri	14.91	78.00	Andhra Pradesh
+Tandur	17.25	77.58	Andhra Pradesh
+Tanuku	16.75	81.69	Andhra Pradesh
+Tenali	16.24	80.65	Andhra Pradesh
+Tirupati	13.63	79.41	Andhra Pradesh
+Tuni	17.35	82.55	Andhra Pradesh
+Uppal Kalan	17.38	78.55	Andhra Pradesh
+Vijayawada	16.52	80.63	Andhra Pradesh
+Vinukonda	16.05	79.75	Andhra Pradesh
+Visakhapatnam	17.73	83.30	Andhra Pradesh
+Vizianagaram	18.12	83.40	Andhra Pradesh
+Vuyyuru	16.37	80.85	Andhra Pradesh
+Wanparti	16.37	78.07	Andhra Pradesh
+Warangal	18.01	79.58	Andhra Pradesh
+Yemmiganur	15.73	77.48	Andhra Pradesh
+Itanagar	27.14	93.61	Arunachal Pradesh
+Barpeta	26.32	91.00	Assam
+Bongaigaon	26.48	90.54	Assam
+Dhuburi	26.03	89.97	Assam
+Dibrugarh	27.49	94.91	Assam
+Diphu	25.84	93.43	Assam
+Guwahati	26.19	91.75	Assam
+Jorhat	26.76	94.20	Assam
+Karimganj	24.85	92.36	Assam
+Lakhimpur	27.24	94.10	Assam
+Lanka	25.93	92.95	Assam
+Nagaon	26.35	92.68	Assam
+Sibsagar	26.99	94.63	Assam
+Silchar	24.83	92.77	Assam
+Tezpur	26.63	92.79	Assam
+Tinsukia	27.50	95.36	Assam
+Alipur Duar	26.50	89.53	West Bengal
+Arambagh	22.88	87.78	West Bengal
+Asansol	23.69	86.98	West Bengal
+Ashoknagar Kalyangarh	22.84	88.63	West Bengal
+Baharampur	24.10	88.24	West Bengal
+Baidyabati	22.79	88.33	West Bengal
+Baj Baj	22.48	88.17	West Bengal
+Bally	22.65	88.35	West Bengal
+Bally Cantonment	22.65	88.36	West Bengal
+Balurghat	25.23	88.77	West Bengal
+Bangaon	23.05	88.83	West Bengal
+Bankra	22.58	88.31	West Bengal
+Bankura	23.24	87.07	West Bengal
+Bansbaria	22.95	88.40	West Bengal
+Baranagar	22.64	88.37	West Bengal
+Barddhaman	23.24	87.86	West Bengal
+Basirhat	22.66	88.86	West Bengal
+Bhadreswar	22.84	88.35	West Bengal
+Bhatpara	22.89	88.42	West Bengal
+Bidhannagar	22.57	88.42	West Bengal
+Binnaguri	26.74	89.037	West Bengal
+Bishnupur	23.08	87.33	West Bengal
+Bolpur	23.67	87.70	West Bengal
+Calcutta	22.57	88.36	West Bengal
+Chakdaha	22.48	88.35	West Bengal
+Champdani	22.81	88.34	West Bengal
+Chandannagar	22.89	88.37	West Bengal
+Contai	21.79	87.75	West Bengal
+Darjiling	27.05	88.26	West Bengal
+Dhulian	24.68	87.97	West Bengal
+Dinhata	26.13	89.47	West Bengal
+Dum Dum	22.63	88.42	West Bengal
+Durgapur	23.50	87.31	West Bengal
+Gangarampur	25.40	88.52	West Bengal
+Garulia	22.83	88.37	West Bengal
+Gayespur	22.98	88.51	West Bengal
+Ghatal	22.67	87.72	West Bengal
+Habra	22.84	88.62	West Bengal
+Halisahar	22.95	88.42	West Bengal
+Haora	22.58	88.33	West Bengal
+HugliChunchura	22.91	88.40	West Bengal
+Ingraj Bazar	25.01	88.14	West Bengal
+Islampur	26.27	88.20	West Bengal
+Jalpaiguri	26.53	88.71	West Bengal
+Jamuria	23.70	87.08	West Bengal
+Jangipur	24.47	88.07	West Bengal
+Jhargram	22.45	86.98	West Bengal
+Kaliyaganj	25.63	88.32	West Bengal
+Kalna	23.22	88.37	West Bengal
+Kalyani	22.98	88.48	West Bengal
+Kamarhati	22.67	88.37	West Bengal
+Kanchrapara	22.95	88.45	West Bengal
+Kandi	23.95	88.03	West Bengal
+Karsiyang	26.88	88.28	West Bengal
+Katwa	23.65	88.13	West Bengal
+Kharagpur	22.34	87.31	West Bengal
+Kharagpur Railway Settlement	22.34	87.26	West Bengal
+Khardaha	22.73	88.38	West Bengal
+Koch Bihar	26.33	89.46	West Bengal
+Konnagar	22.70	88.36	West Bengal
+Krishnanagar	23.41	88.51	West Bengal
+Kulti	23.72	86.89	West Bengal
+Madhyamgram	22.70	88.45	West Bengal
+Maheshtala	22.51	88.23	West Bengal
+Memari	23.20	88.12	West Bengal
+Midnapur	22.33	87.15	West Bengal
+Naihati	22.91	88.43	West Bengal
+Navadwip	23.42	88.37	West Bengal
+Ni Barakpur	22.77	88.36	West Bengal
+North Barakpur	22.78	88.37	West Bengal
+North Dum Dum	22.64	88.41	West Bengal
+Panihati	22.69	88.37	West Bengal
+Phulia	23.24	88.50	West Bengal
+Pujali	22.47	88.15	West Bengal
+Puruliya	23.34	86.36	West Bengal
+Raiganj	25.62	88.12	West Bengal
+Rajpur	22.44	88.44	West Bengal
+Rampur Hat	24.17	87.78	West Bengal
+Ranaghat	23.19	88.58	West Bengal
+Raniganj	23.62	87.11	West Bengal
+Rishra	22.71	88.36	West Bengal
+Shantipur	23.26	88.44	West Bengal
+Shiliguri	26.73	88.42	West Bengal
+Shrirampur	22.74	88.35	West Bengal
+Siuri	23.91	87.53	West Bengal
+South Dum Dum	22.61	88.41	West Bengal
+Titagarh	22.74	88.38	West Bengal
+Ulubaria	22.47	88.11	West Bengal
+UttarparaKotrung	22.66	88.35	West Bengal
+Araria	26.15	87.52	Bihar
+Arrah	25.56	84.66	Bihar
+Aurangabad	24.75	84.37	Bihar
+Bagaha	27.10	84.09	Bihar
+Begusarai	25.42	86.12	Bihar
+Bettiah	26.81	84.50	Bihar
+Bhabua	25.05	83.62	Bihar
+Bhagalpur	25.26	86.98	Bihar
+Bihar	25.21	85.52	Bihar
+Buxar	25.58	83.98	Bihar
+Chhapra	25.78	84.72	Bihar
+Darbhanga	26.16	85.88	Bihar
+Dehri	24.91	84.18	Bihar
+Dinapur	25.64	85.04	Bihar
+Dumraon	25.55	84.15	Bihar
+Gaya	24.81	85.00	Bihar
+Gopalganj	26.47	84.43	Bihar
+Jahanabad	25.22	84.98	Bihar
+Jamalpur	25.32	86.48	Bihar
+Jamui	24.92	86.22	Bihar
+Katihar	25.55	87.57	Bihar
+Khagaria	25.50	86.48	Bihar
+Khagaul	25.58	85.05	Bihar
+Kishanganj	26.11	87.95	Bihar
+Lakhisarai	25.18	86.09	Bihar
+Madhipura	25.92	86.78	Bihar
+Madhubani	26.37	86.06	Bihar
+Masaurhi	25.35	85.03	Bihar
+Mokama	25.40	85.92	Bihar
+Motihari	26.66	84.91	Bihar
+Munger	25.39	86.47	Bihar
+Muzaffarpur	26.13	85.38	Bihar
+Nawada	24.88	85.54	Bihar
+Patna	25.62	85.13	Bihar
+Phulwari	25.60	85.13	Bihar
+Purnia	25.78	87.47	Bihar
+Raxaul	26.98	84.85	Bihar
+Saharsa	25.88	86.59	Bihar
+Samastipur	25.85	85.78	Bihar
+Sasaram	24.96	84.01	Bihar
+Sitamarhi	26.61	85.48	Bihar
+Siwan	26.23	84.35	Bihar
+Supaul	26.12	86.60	Bihar
+Chandigarh	30.75	76.78	Chandigarh
+Ambikapur	23.13	83.20	Chhattisgarh
+Bhilai	21.21	81.38	Chhattisgarh
+Bilaspur	22.09	82.15	Chhattisgarh
+Charoda	21.23	81.50	Chhattisgarh
+Chirmiri	23.21	82.41	Chhattisgarh
+Dhamtari	20.71	81.55	Chhattisgarh
+Durg	21.20	81.28	Chhattisgarh
+Jagdalpur	19.09	82.03	Chhattisgarh
+Korba	22.35	82.69	Chhattisgarh
+Raigarh	21.90	83.39	Chhattisgarh
+Raipur	21.24	81.63	Chhattisgarh
+Rajnandgaon	21.10	81.04	Chhattisgarh
+Bhalswa Jahangirpur	28.74	77.17	Delhi
+Delhi	28.67	77.21	Delhi
+Deoli	28.49	77.22	Delhi
+Dilli Cantonment	28.57	77.16	Delhi
+Gokalpur	28.71	77.28	Delhi
+Nangloi Jat	28.68	77.07	Delhi
+Ni Dilli	28.60	77.22	Delhi
+Roshan Pura	28.60	76.99	Delhi
+Sultanpur Majra	28.76	77.06	Delhi
+Tigri	28.50	77.22	Delhi
+Madgaon	15.28	73.94	Goa
+Mormugao	15.42	73.78	Goa
+Panaji	15.50	73.81	Goa
+Ahmadabad	23.03	72.58	Gujarat
+Amreli	21.61	71.22	Gujarat
+Anand	22.56	72.95	Gujarat
+Anjar	23.12	70.02	Gujarat
+Bardoli	21.12	73.12	Gujarat
+Bharuch	21.71	72.97	Gujarat
+Bhavnagar	21.79	72.13	Gujarat
+Bhuj	23.26	69.66	Gujarat
+Borsad	22.42	72.90	Gujarat
+Botad	22.18	71.66	Gujarat
+Chandkheda	23.15	72.61	Gujarat
+Chandlodiya	23.10	72.56	Gujarat
+Dabhoi	22.13	73.41	Gujarat
+Dahod	22.84	74.25	Gujarat
+Dholka	22.74	72.44	Gujarat
+Dhoraji	21.74	70.44	Gujarat
+Dhrangadhra	23.00	71.46	Gujarat
+Disa	24.26	72.18	Gujarat
+Gandhidham	23.07	70.13	Gujarat
+Gandhinagar	23.30	72.63	Gujarat
+Ghatlodiya	23.05	72.55	Gujarat
+Godhra	22.77	73.60	Gujarat
+Gondal	21.97	70.80	Gujarat
+Himatnagar	23.60	72.96	Gujarat
+Jamnagar	22.47	70.07	Gujarat
+Jetpur	21.75	70.61	Gujarat
+Junagadh	21.52	70.45	Gujarat
+Kalol	23.25	72.49	Gujarat
+Keshod	21.31	70.23	Gujarat
+Khambhat	22.32	72.61	Gujarat
+Kundla	21.35	71.30	Gujarat
+Mahuva	21.10	71.75	Gujarat
+Mangrol	21.12	70.12	Gujarat
+Modasa	23.47	73.30	Gujarat
+Morvi	22.82	70.83	Gujarat
+Nadiad	22.70	72.85	Gujarat
+Navsari	20.96	72.92	Gujarat
+Palitana	21.52	71.83	Gujarat
+Patan	23.86	72.11	Gujarat
+Porbandar	21.65	69.60	Gujarat
+Rajkot	22.31	70.79	Gujarat
+Ranip	23.03	72.54	Gujarat
+Siddhapur	23.92	72.37	Gujarat
+Sihor	21.70	71.97	Gujarat
+Surat	21.20	72.82	Gujarat
+Surendranagar	22.71	71.67	Gujarat
+Una	20.82	71.03	Gujarat
+Unjha	23.81	72.38	Gujarat
+Upleta	21.75	70.27	Gujarat
+Vadodara	22.31	73.18	Gujarat
+Valsad	20.62	72.92	Gujarat
+Vapi	20.37	72.90	Gujarat
+Veraval	20.92	70.34	Gujarat
+Visnagar	23.71	72.54	Gujarat
+Wadhwan	22.73	71.72	Gujarat
+Ambala	30.38	76.77	Haryana
+Ambala Cantonment	30.39	76.86	Haryana
+Ambala Sadar	30.35	76.84	Haryana
+Bahadurgarh	28.69	76.92	Haryana
+Bhiwani	28.81	76.12	Haryana
+Charkhi Dadri	28.60	76.27	Haryana
+Dabwali	29.95	74.73	Haryana
+Faridabad	28.38	77.30	Haryana
+Gohana	29.13	76.70	Haryana
+Hisar	29.17	75.72	Haryana
+Jagadhri	30.18	77.29	Haryana
+Jind	29.31	76.30	Haryana
+Kaithal	29.81	76.40	Haryana
+Karnal	29.69	76.97	Haryana
+Narnaul	28.04	76.10	Haryana
+Narwana	29.62	76.12	Haryana
+Palwal	28.15	77.32	Haryana
+Panchkula	30.70	76.88	Haryana
+Panipat	29.39	76.96	Haryana
+Rewari	28.19	76.60	Haryana
+Rohtak	28.90	76.58	Haryana
+Sirsa	29.53	75.03	Haryana
+Sonipat	28.99	77.01	Haryana
+Thanesar	29.98	76.82	Haryana
+Tohana	29.70	75.90	Haryana
+Yamunanagar	30.14	77.28	Haryana
+Shimla	31.11	77.16	Himachal Pradesh
+Anantnag	33.73	75.15	Jammu and Kashmir
+Baramula	34.20	74.35	Jammu and Kashmir
+Jammu	32.71	74.85	Jammu and Kashmir
+Kathua	32.37	75.52	Jammu and Kashmir
+Sopur	34.30	74.47	Jammu and Kashmir
+Srinagar	34.09	74.79	Jammu and Kashmir
+Udhampur	32.93	75.13	Jammu and Kashmir
+Adityapur	22.80	86.04	Jharkhand
+Bagbahra	22.82	86.20	Jharkhand
+Bhuli	23.79	86.38	Jharkhand
+Bokaro	23.78	85.96	Jharkhand
+Chaibasa	22.56	85.80	Jharkhand
+Chas	23.65	86.17	Jharkhand
+Daltenganj	24.05	84.06	Jharkhand
+Devghar	24.49	86.69	Jharkhand
+Dhanbad	23.80	86.42	Jharkhand
+Hazaribag	24.01	85.36	Jharkhand
+Jamshedpur	22.79	86.20	Jharkhand
+Jharia	23.76	86.42	Jharkhand
+Jhumri Tilaiya	24.43	85.52	Jharkhand
+Jorapokhar	23.79	86.36	Jharkhand
+Katras	23.80	86.28	Jharkhand
+Lohardaga	23.43	84.68	Jharkhand
+Mango	22.85	86.21	Jharkhand
+Phusro	23.68	85.86	Jharkhand
+Ramgarh	23.63	85.51	Jharkhand
+Ranchi	23.36	85.33	Jharkhand
+Sahibganj	25.25	87.62	Jharkhand
+Saunda	23.64	85.37	Jharkhand
+Sindari	23.68	86.49	Jharkhand
+Bagalkot	16.19	75.69	Karnataka
+Bangalore	12.97	77.56	Karnataka
+Basavakalyan	17.87	76.95	Karnataka
+Belgaum	15.86	74.50	Karnataka
+Bellary	15.14	76.91	Karnataka
+Bhadravati	13.84	75.69	Karnataka
+Bidar	17.92	77.52	Karnataka
+Bijapur	16.83	75.71	Karnataka
+Bommanahalli	13.01	77.63	Karnataka
+Challakere	14.32	76.65	Karnataka
+Chamrajnagar	11.92	76.95	Karnataka
+Channapatna	12.66	77.19	Karnataka
+Chik Ballapur	13.47	77.73	Karnataka
+Chikmagalur	13.32	75.76	Karnataka
+Chintamani	13.40	78.05	Karnataka
+Chitradurga	14.23	76.39	Karnataka
+Dasarahalli	13.01	77.49	Karnataka
+Davanagere	14.46	75.92	Karnataka
+Dod Ballapur	13.30	77.52	Karnataka
+Gadag	15.44	75.63	Karnataka
+Gangawati	15.44	76.52	Karnataka
+Gokak	16.18	74.81	Karnataka
+Gulbarga	17.34	76.82	Karnataka
+Harihar	14.52	75.80	Karnataka
+Hassan	13.01	76.08	Karnataka
+Haveri	14.80	75.40	Karnataka
+Hiriyur	13.97	76.60	Karnataka
+Hospet	15.28	76.37	Karnataka
+Hubli	15.36	75.13	Karnataka
+Ilkal	15.97	76.13	Karnataka
+Jamkhandi	16.51	75.28	Karnataka
+Kanakapura	12.54	77.42	Karnataka
+Karwar	14.82	74.12	Karnataka
+Kolar	13.14	78.13	Karnataka
+Kollegal	12.15	77.12	Karnataka
+Koppal	15.35	76.15	Karnataka
+Krishnarajapura	12.97	77.74	Karnataka
+Maisuru	12.31	76.65	Karnataka
+Mandya	12.54	76.89	Karnataka
+Mangaluru	12.88	74.84	Karnataka
+Nipani	16.41	74.38	Karnataka
+Puttur	12.77	75.22	Karnataka
+Rabkavi	16.47	75.11	Karnataka
+Raichur	16.21	77.35	Karnataka
+Ramanagaram	12.72	77.27	Karnataka
+Ranibennur	14.62	75.61	Karnataka
+Robertsonpet	12.97	78.28	Karnataka
+Sagar	14.17	75.03	Karnataka
+Shahabad	17.13	76.93	Karnataka
+Shahpur	16.70	76.83	Karnataka
+Shimoga	13.93	75.57	Karnataka
+Shorapur	16.52	76.75	Karnataka
+Sidlaghatta	13.38	77.87	Karnataka
+Sira	13.75	76.90	Karnataka
+Sirsi	14.62	74.85	Karnataka
+Tiptur	13.27	76.48	Karnataka
+Tumkur	13.34	77.10	Karnataka
+Udupi	13.35	74.75	Karnataka
+Ullal	12.80	74.85	Karnataka
+Yadgir	16.77	77.13	Karnataka
+Yelahanka	13.10	77.60	Karnataka
+Alappuzha	9.50	76.33	Kerala
+Beypur	11.18	75.82	Kerala
+Cheruvannur	11.21	75.84	Kerala
+Edathala	10.03	76.32	Kerala
+Kalamassery	10.05	76.27	Kerala
+Kannangad	12.34	75.09	Kerala
+Kannur	11.86	75.35	Kerala
+Kayankulam	9.17	76.49	Kerala
+Kochi	10.02	76.22	Kerala
+Kollam	8.89	76.58	Kerala
+Kottayam	9.60	76.52	Kerala
+Koyilandi	11.43	75.70	Kerala
+Kozhikkod	11.26	75.78	Kerala
+Kunnamkulam	10.65	76.08	Kerala
+Malappuram	11.07	76.06	Kerala
+Manjeri	11.12	76.11	Kerala
+Nedumangad	8.61	77.00	Kerala
+Neyyattinkara	8.40	77.08	Kerala
+Palakkad	10.78	76.65	Kerala
+Payyannur	12.10	75.19	Kerala
+Ponnani	10.78	75.92	Kerala
+Talipparamba	12.03	75.36	Kerala
+Thalassery	11.75	75.49	Kerala
+Thiruvananthapuram	8.51	76.95	Kerala
+Thrippunithura	9.94	76.35	Kerala
+Thrissur	10.52	76.21	Kerala
+Tirur	10.91	75.92	Kerala
+Tiruvalla	9.39	76.57	Kerala
+Vadakara	11.61	75.58	Kerala
+Ashoknagar	24.57	77.72	Madhya Pradesh
+Balaghat	21.80	80.18	Madhya Pradesh
+Basoda	23.85	77.93	Madhya Pradesh
+Betul	21.92	77.90	Madhya Pradesh
+Bhind	26.57	78.77	Madhya Pradesh
+Bhopal	23.24	77.40	Madhya Pradesh
+BinaEtawa	24.20	78.20	Madhya Pradesh
+Burhanpur	21.33	76.22	Madhya Pradesh
+Chhatarpur	24.92	79.58	Madhya Pradesh
+Chhindwara	22.07	78.94	Madhya Pradesh
+Dabra	25.90	78.33	Madhya Pradesh
+Damoh	23.85	79.44	Madhya Pradesh
+Datia	25.67	78.45	Madhya Pradesh
+Dewas	22.97	76.05	Madhya Pradesh
+Dhar	22.60	75.29	Madhya Pradesh
+Gohad	26.43	78.45	Madhya Pradesh
+Guna	24.65	77.30	Madhya Pradesh
+Gwalior	26.23	78.17	Madhya Pradesh
+Harda	22.33	77.11	Madhya Pradesh
+Hoshangabad	22.75	77.71	Madhya Pradesh
+Indore	22.72	75.86	Madhya Pradesh
+Itarsi	22.62	77.76	Madhya Pradesh
+Jabalpur	23.17	79.94	Madhya Pradesh
+Jabalpur Cantonment	23.16	79.95	Madhya Pradesh
+Jaora	23.64	75.11	Madhya Pradesh
+Khandwa	21.83	76.35	Madhya Pradesh
+Khargone	21.83	75.60	Madhya Pradesh
+Mandidip	23.10	77.52	Madhya Pradesh
+Mandsaur	24.07	75.07	Madhya Pradesh
+Mau	22.56	75.75	Madhya Pradesh
+Morena	26.51	77.99	Madhya Pradesh
+Murwara	23.85	80.39	Madhya Pradesh
+Nagda	23.46	75.42	Madhya Pradesh
+Nimach	24.47	74.87	Madhya Pradesh
+Raghogarh	24.45	77.20	Madhya Pradesh
+Ratlam	23.35	75.03	Madhya Pradesh
+Rewa	24.53	81.29	Madhya Pradesh
+Sagar	23.85	78.75	Madhya Pradesh
+Sarni	22.04	78.27	Madhya Pradesh
+Satna	24.58	80.83	Madhya Pradesh
+Sehore	23.20	77.08	Madhya Pradesh
+Sendhwa	21.68	75.10	Madhya Pradesh
+Seoni	22.10	79.55	Madhya Pradesh
+Shahdol	23.30	81.36	Madhya Pradesh
+Shajapur	23.43	76.27	Madhya Pradesh
+Sheopur	25.67	76.70	Madhya Pradesh
+Shivapuri	25.43	77.65	Madhya Pradesh
+Sidhi	24.42	81.88	Madhya Pradesh
+Singrauli	23.84	82.27	Madhya Pradesh
+Tikamgarh	24.74	78.83	Madhya Pradesh
+Ujjain	23.19	75.78	Madhya Pradesh
+Vidisha	23.53	77.80	Madhya Pradesh
+Achalpur	21.26	77.50	Maharashtra
+Ahmadnagar	19.10	74.74	Maharashtra
+Akola	20.71	77.00	Maharashtra
+Akot	21.10	77.05	Maharashtra
+Amalner	21.05	75.06	Maharashtra
+Ambajogai	18.73	76.38	Maharashtra
+Amravati	20.95	77.76	Maharashtra
+Anjangaon	21.16	77.31	Maharashtra
+Aurangabad	19.89	75.32	Maharashtra
+Badlapur	19.15	73.27	Maharashtra
+Ballarpur	19.85	79.35	Maharashtra
+Baramati	18.15	74.58	Maharashtra
+Barsi	18.24	75.69	Maharashtra
+Basmat	19.32	77.17	Maharashtra
+Bhadravati	20.11	79.12	Maharashtra
+Bhandara	21.18	79.65	Maharashtra
+Bhiwandi	19.30	73.05	Maharashtra
+Bhusawal	21.05	75.78	Maharashtra
+Bid	18.99	75.76	Maharashtra
+Mumbai	18.96	72.82	Maharashtra
+Buldana	20.54	76.18	Maharashtra
+Chalisgaon	20.46	74.99	Maharashtra
+Chandrapur	19.96	79.30	Maharashtra
+Chikhli	20.35	76.25	Maharashtra
+Chiplun	17.53	73.52	Maharashtra
+Chopda	21.25	75.28	Maharashtra
+Dahanu	19.97	72.73	Maharashtra
+Deolali	19.95	73.84	Maharashtra
+Dhule	20.90	74.77	Maharashtra
+Diglur	18.55	77.60	Maharashtra
+Gadchiroli	20.17	80.00	Maharashtra
+Gondiya	21.47	80.20	Maharashtra
+Hinganghat	20.56	78.83	Maharashtra
+Hingoli	19.72	77.14	Maharashtra
+Ichalkaranji	16.69	74.46	Maharashtra
+Jalgaon	21.01	75.56	Maharashtra
+Jalna	19.85	75.88	Maharashtra
+Kalyan	19.25	73.16	Maharashtra
+Kamthi	21.23	79.20	Maharashtra
+Karanja	20.48	77.48	Maharashtra
+Khadki	18.57	73.83	Maharashtra
+Khamgaon	20.70	76.56	Maharashtra
+Khopoli	18.78	73.33	Maharashtra
+Kolhapur	16.70	74.22	Maharashtra
+Kopargaon	19.88	74.48	Maharashtra
+Latur	18.41	76.58	Maharashtra
+Lonavale	18.75	73.42	Maharashtra
+Malegaon	20.56	74.52	Maharashtra
+Malkapur	20.90	76.19	Maharashtra
+Manmad	20.26	74.43	Maharashtra
+Mira Bhayandar	19.29	72.85	Maharashtra
+Nagpur	21.16	79.08	Maharashtra
+Nalasopara	19.43	72.78	Maharashtra
+Nanded	19.17	77.29	Maharashtra
+Nandurbar	21.38	74.23	Maharashtra
+Nashik	20.01	73.78	Maharashtra
+Navghar	19.34	72.90	Maharashtra
+Navi Mumbai	19.11	73.06	Maharashtra
+Navi Mumbai	19.00	73.10	Maharashtra
+Osmanabad	18.17	76.03	Maharashtra
+Palghar	19.68	72.75	Maharashtra
+Pandharpur	17.68	75.31	Maharashtra
+Parbhani	19.27	76.76	Maharashtra
+Phaltan	17.98	74.43	Maharashtra
+Pimpri	18.62	73.80	Maharashtra
+Pune	18.53	73.84	Maharashtra
+Pune Cantonment	18.50	73.88	Maharashtra
+Pusad	19.91	77.57	Maharashtra
+Ratnagiri	17.00	73.29	Maharashtra
+SangliMiraj	16.86	74.57	Maharashtra
+Satara	17.70	74.00	Maharashtra
+Shahada	21.55	74.47	Maharashtra
+Shegaon	20.78	76.68	Maharashtra
+Shirpur	21.35	74.88	Maharashtra
+Sholapur	17.67	75.89	Maharashtra
+Shrirampur	19.63	74.64	Maharashtra
+Sillod	20.30	75.65	Maharashtra
+Thana	19.20	72.97	Maharashtra
+Udgir	18.40	77.11	Maharashtra
+Ulhasnagar	19.23	73.15	Maharashtra
+Uran Islampur	17.05	74.27	Maharashtra
+Vasai	19.36	72.80	Maharashtra
+Virar	19.47	72.79	Maharashtra
+Wani	20.07	78.95	Maharashtra
+Wardha	20.75	78.60	Maharashtra
+Warud	21.47	78.27	Maharashtra
+Washim	20.10	77.13	Maharashtra
+Yavatmal	20.41	78.13	Maharashtra
+Imphal	24.79	93.94	Manipur
+Shillong	25.57	91.87	Meghalaya
+Tura	25.52	90.22	Meghalaya
+Aizawl	23.71	92.71	Mizoram
+Lunglei	22.88	92.73	Mizoram
+Dimapur	25.92	93.73	Nagaland
+Kohima	25.67	94.11	Nagaland
+Wokha	26.10	94.27	Nagaland
+Balangir	20.71	83.50	Orissa
+Baleshwar	21.49	86.95	Orissa
+Barbil	22.12	85.40	Orissa
+Bargarh	21.34	83.61	Orissa
+Baripada	21.95	86.73	Orissa
+Bhadrak	21.06	86.52	Orissa
+Bhawanipatna	19.91	83.17	Orissa
+Bhubaneswar	20.27	85.84	Orissa
+Brahmapur	19.32	84.80	Orissa
+Brajrajnagar	21.82	83.91	Orissa
+Dhenkanal	20.67	85.60	Orissa
+Jaypur	18.86	82.56	Orissa
+Jharsuguda	21.87	84.01	Orissa
+Kataka	20.47	85.88	Orissa
+Kendujhar	21.63	85.58	Orissa
+Paradwip	20.32	86.62	Orissa
+Puri	19.81	85.83	Orissa
+Raurkela	22.24	84.81	Orissa
+Rayagada	19.18	83.41	Orissa
+Sambalpur	21.47	83.97	Orissa
+Sunabeda	18.69	82.86	Orissa
+Karaikal	10.93	79.83	Pondicherry
+Ozhukarai	11.94	79.77	Pondicherry
+Pondicherry	11.94	79.83	Pondicherry
+Abohar	30.14	74.20	Punjab
+Amritsar	31.64	74.87	Punjab
+Barnala	30.39	75.54	Punjab
+Batala	31.82	75.21	Punjab
+Bathinda	30.17	74.97	Punjab
+Dhuri	30.37	75.87	Punjab
+Faridkot	30.68	74.74	Punjab
+Fazilka	30.41	74.02	Punjab
+Firozpur	30.92	74.61	Punjab
+Firozpur Cantonment	30.95	74.60	Punjab
+Gobindgarh	30.66	76.31	Punjab
+Gurdaspur	32.04	75.40	Punjab
+Hoshiarpur	31.53	75.91	Punjab
+Jagraon	30.78	75.48	Punjab
+Jalandhar	31.33	75.57	Punjab
+Kapurthala	31.38	75.38	Punjab
+Khanna	30.71	76.21	Punjab
+Kot Kapura	30.59	74.80	Punjab
+Ludhiana	30.91	75.84	Punjab
+Malaut	30.23	74.48	Punjab
+Maler Kotla	30.54	75.87	Punjab
+Mansa	29.98	75.39	Punjab
+Moga	30.82	75.17	Punjab
+Mohali	30.78	76.69	Punjab
+Pathankot	32.27	75.64	Punjab
+Patiala	30.32	76.39	Punjab
+Phagwara	31.22	75.76	Punjab
+Rajpura	30.48	76.59	Punjab
+Rupnagar	30.98	76.52	Punjab
+Samana	30.15	76.20	Punjab
+Sangrur	30.25	75.84	Punjab
+Sirhind	30.65	76.38	Punjab
+Sunam	30.13	75.80	Punjab
+Tarn Taran	31.45	74.92	Punjab
+Ajmer	26.45	74.64	Rajasthan
+Alwar	27.56	76.60	Rajasthan
+Balotra	25.83	72.23	Rajasthan
+Banswara	23.54	74.44	Rajasthan
+Baran	25.10	76.51	Rajasthan
+Bari	26.65	77.60	Rajasthan
+Barmer	25.75	71.39	Rajasthan
+Beawar	26.10	74.30	Rajasthan
+Bharatpur	27.23	77.49	Rajasthan
+Bhilwara	25.35	74.63	Rajasthan
+Bikaner	28.03	73.32	Rajasthan
+Bundi	25.45	75.63	Rajasthan
+Chittaurgarh	24.89	74.63	Rajasthan
+Chomun	27.17	75.72	Rajasthan
+Churu	28.31	74.96	Rajasthan
+Daosa	26.88	76.33	Rajasthan
+Dhaulpur	26.70	77.87	Rajasthan
+Didwana	27.39	74.57	Rajasthan
+Fatehpur	27.99	74.95	Rajasthan
+Ganganagar	29.93	73.86	Rajasthan
+Gangapur	26.47	76.72	Rajasthan
+Hanumangarh	29.62	74.29	Rajasthan
+Hindaun	26.74	77.02	Rajasthan
+Jaipur	26.92	75.80	Rajasthan
+Jaisalmer	26.92	70.90	Rajasthan
+Jalor	25.35	72.62	Rajasthan
+Jhalawar	24.60	76.15	Rajasthan
+Jhunjhunun	28.13	75.39	Rajasthan
+Jodhpur	26.29	73.02	Rajasthan
+Karauli	26.50	77.02	Rajasthan
+Kishangarh	26.58	74.86	Rajasthan
+Kota	25.18	75.83	Rajasthan
+Kuchaman	27.15	74.85	Rajasthan
+Ladnun	27.64	74.38	Rajasthan
+Makrana	27.05	74.72	Rajasthan
+Nagaur	27.21	73.73	Rajasthan
+Nawalgarh	27.85	75.27	Rajasthan
+Nimbahera	24.62	74.68	Rajasthan
+Nokha	27.60	73.42	Rajasthan
+Pali	25.79	73.32	Rajasthan
+Rajsamand	25.07	73.88	Rajasthan
+Ratangarh	28.09	74.60	Rajasthan
+Sardarshahr	28.45	74.48	Rajasthan
+Sawai Madhopur	26.03	76.34	Rajasthan
+Sikar	27.61	75.13	Rajasthan
+Sujangarh	27.70	74.46	Rajasthan
+Suratgarh	29.32	73.90	Rajasthan
+Tonk	26.17	75.78	Rajasthan
+Udaipur	24.58	73.69	Rajasthan
+Alandur	13.03	80.23	Tamil Nadu
+Ambattur	13.11	80.17	Tamil Nadu
+Ambur	12.80	78.72	Tamil Nadu
+Arakonam	13.08	79.67	Tamil Nadu
+Arani	12.68	79.28	Tamil Nadu
+Aruppukkottai	9.51	78.09	Tamil Nadu
+Attur	11.60	78.60	Tamil Nadu
+Avadi	13.12	80.11	Tamil Nadu
+Avaniapuram	9.86	78.12	Tamil Nadu
+Bodinayakkanur	10.01	77.35	Tamil Nadu
+Chengalpattu	12.70	79.97	Tamil Nadu
+Dharapuram	10.74	77.52	Tamil Nadu
+Dharmapuri	12.13	78.16	Tamil Nadu
+Dindigul	10.36	77.97	Tamil Nadu
+Erode	11.35	77.73	Tamil Nadu
+Gopichettipalaiyam	11.46	77.43	Tamil Nadu
+Gudalur	11.76	79.75	Tamil Nadu
+Gudiyattam	12.95	78.86	Tamil Nadu
+Hosur	12.72	77.82	Tamil Nadu
+Idappadi	11.58	77.85	Tamil Nadu
+Kadayanallur	9.08	77.35	Tamil Nadu
+Kambam	9.74	77.28	Tamil Nadu
+Kanchipuram	12.84	79.70	Tamil Nadu
+Karur	10.96	78.07	Tamil Nadu
+Kavundampalaiyam	11.05	76.92	Tamil Nadu
+Kovilpatti	9.19	77.86	Tamil Nadu
+Koyampattur	11.01	76.96	Tamil Nadu
+Krishnagiri	12.54	78.21	Tamil Nadu
+Kumarapalaiyam	11.44	77.73	Tamil Nadu
+Kumbakonam	10.97	79.38	Tamil Nadu
+Kuniyamuthur	10.98	76.95	Tamil Nadu
+Kurichi	10.92	76.96	Tamil Nadu
+Madhavaram	13.02	80.26	Tamil Nadu
+Madras	13.09	80.27	Tamil Nadu
+Madurai	9.92	78.12	Tamil Nadu
+Mannargudi	10.67	79.45	Tamil Nadu
+Mayiladuthurai	11.11	79.65	Tamil Nadu
+Mettupalayam	11.30	76.94	Tamil Nadu
+Mettur	11.80	77.80	Tamil Nadu
+Nagapattinam	10.80	79.84	Tamil Nadu
+Nagercoil	8.18	77.43	Tamil Nadu
+Namakkal	11.23	78.17	Tamil Nadu
+Nerkunram	13.04	80.26	Tamil Nadu
+Neyveli	11.62	79.48	Tamil Nadu
+Pallavaram	12.99	80.16	Tamil Nadu
+Pammal	12.97	80.11	Tamil Nadu
+Pannuratti	11.78	79.55	Tamil Nadu
+Paramakkudi	9.54	78.59	Tamil Nadu
+Pattukkottai	10.43	79.31	Tamil Nadu
+Pollachi	10.67	77.00	Tamil Nadu
+Pudukkottai	10.39	78.82	Tamil Nadu
+Puliyankudi	9.18	77.40	Tamil Nadu
+Punamalli	13.05	80.11	Tamil Nadu
+Rajapalaiyam	9.46	77.55	Tamil Nadu
+Ramanathapuram	9.37	78.83	Tamil Nadu
+Salem	11.67	78.16	Tamil Nadu
+Sankarankoil	9.17	77.54	Tamil Nadu
+Sivakasi	9.46	77.79	Tamil Nadu
+Srivilliputtur	9.52	77.63	Tamil Nadu
+Tambaram	12.93	80.12	Tamil Nadu
+Tenkasi	8.96	77.31	Tamil Nadu
+Thanjavur	10.79	79.13	Tamil Nadu
+Theni Allinagaram	10.02	77.48	Tamil Nadu
+Thiruthangal	9.48	77.83	Tamil Nadu
+Thiruvarur	10.78	79.64	Tamil Nadu
+Thuthukkudi	8.81	78.14	Tamil Nadu
+Tindivanam	12.24	79.65	Tamil Nadu
+Tiruchchirappalli	10.81	78.69	Tamil Nadu
+Tiruchengode	11.38	77.90	Tamil Nadu
+Tirunelveli	8.73	77.69	Tamil Nadu
+Tirupathur	12.50	78.57	Tamil Nadu
+Tiruppur	11.09	77.35	Tamil Nadu
+Tiruvannamalai	12.24	79.07	Tamil Nadu
+Tiruvottiyur	13.16	80.29	Tamil Nadu
+Udagamandalam	11.42	76.69	Tamil Nadu
+Udumalaipettai	10.58	77.24	Tamil Nadu
+Valparai	10.38	76.99	Tamil Nadu
+Vaniyambadi	12.69	78.60	Tamil Nadu
+Velluru	12.92	79.13	Tamil Nadu
+Viluppuram	11.95	79.49	Tamil Nadu
+Virappanchatram	11.40	77.70	Tamil Nadu
+Virudhachalam	11.51	79.32	Tamil Nadu
+Virudunagar	9.59	77.95	Tamil Nadu
+Agartala	23.84	91.27	Tripura
+Agra	27.19	78.01	Uttar Pradesh
+Aligarh	27.89	78.06	Uttar Pradesh
+Allahabad	25.45	81.84	Uttar Pradesh
+Amroha	28.91	78.46	Uttar Pradesh
+Aonla	28.28	79.15	Uttar Pradesh
+Auraiya	26.47	79.50	Uttar Pradesh
+Ayodhya	26.80	82.20	Uttar Pradesh
+Azamgarh	26.07	83.18	Uttar Pradesh
+Baheri	28.78	79.50	Uttar Pradesh
+Bahraich	27.58	81.59	Uttar Pradesh
+Ballia	25.76	84.15	Uttar Pradesh
+Balrampur	27.43	82.18	Uttar Pradesh
+Banda	25.48	80.33	Uttar Pradesh
+Baraut	29.10	77.26	Uttar Pradesh
+Bareli	28.36	79.41	Uttar Pradesh
+Basti	26.80	82.74	Uttar Pradesh
+Bela	25.92	81.99	Uttar Pradesh
+Bhadohi	25.40	82.56	Uttar Pradesh
+Bijnor	29.38	78.13	Uttar Pradesh
+Bisalpur	28.30	79.80	Uttar Pradesh
+Biswan	27.50	81.00	Uttar Pradesh
+Budaun	28.04	79.12	Uttar Pradesh
+Bulandshahr	28.41	77.85	Uttar Pradesh
+Chandausi	28.46	78.78	Uttar Pradesh
+Chandpur	29.14	78.27	Uttar Pradesh
+Chhibramau	27.15	79.52	Uttar Pradesh
+Chitrakut Dham	25.20	80.84	Uttar Pradesh
+Dadri	28.57	77.55	Uttar Pradesh
+Deoband	29.70	77.67	Uttar Pradesh
+Deoria	26.51	83.78	Uttar Pradesh
+Etah	27.57	78.64	Uttar Pradesh
+Etawah	26.78	79.01	Uttar Pradesh
+Faizabad	26.78	82.14	Uttar Pradesh
+Faridpur	28.22	79.53	Uttar Pradesh
+Farrukhabad	27.40	79.57	Uttar Pradesh
+Fatehpur	25.93	80.81	Uttar Pradesh
+Firozabad	27.15	78.39	Uttar Pradesh
+Gajraula	28.85	78.23	Uttar Pradesh
+Ganga Ghat	26.52	80.45	Uttar Pradesh
+Gangoh	29.77	77.25	Uttar Pradesh
+Ghaziabad	28.66	77.41	Uttar Pradesh
+Ghazipur	25.59	83.59	Uttar Pradesh
+Gola Gokarannath	28.08	80.47	Uttar Pradesh
+Gonda	27.14	81.95	Uttar Pradesh
+Gorakhpur	26.76	83.36	Uttar Pradesh
+Hapur	28.73	77.77	Uttar Pradesh
+Hardoi	27.42	80.12	Uttar Pradesh
+Hasanpur	28.72	78.28	Uttar Pradesh
+Hathras	27.60	78.04	Uttar Pradesh
+Jahangirabad	28.42	78.10	Uttar Pradesh
+Jalaun	26.15	79.35	Uttar Pradesh
+Jaunpur	25.76	82.69	Uttar Pradesh
+Jhansi	25.45	78.56	Uttar Pradesh
+Kadi	23.31	72.33	Uttar Pradesh
+Kairana	29.40	77.20	Uttar Pradesh
+Kannauj	27.06	79.91	Uttar Pradesh
+Kanpur	26.47	80.33	Uttar Pradesh
+Kanpur Cantonment	26.50	80.28	Uttar Pradesh
+Kasganj	27.81	78.63	Uttar Pradesh
+Khatauli	29.28	77.72	Uttar Pradesh
+Khurja	28.26	77.85	Uttar Pradesh
+Kiratpur	29.52	78.20	Uttar Pradesh
+Kosi Kalan	27.80	77.44	Uttar Pradesh
+Laharpur	27.72	80.90	Uttar Pradesh
+Lakhimpur	27.95	80.78	Uttar Pradesh
+Lakhnau	26.85	80.92	Uttar Pradesh
+Lakhnau Cantonment	26.81	80.97	Uttar Pradesh
+Lalitpur	24.70	78.41	Uttar Pradesh
+Loni	28.75	77.28	Uttar Pradesh
+Mahoba	25.30	79.87	Uttar Pradesh
+Mainpuri	27.24	79.02	Uttar Pradesh
+Mathura	27.50	77.68	Uttar Pradesh
+Mau	25.96	83.56	Uttar Pradesh
+Mauranipur	25.24	79.13	Uttar Pradesh
+Mawana	29.11	77.91	Uttar Pradesh
+Mirat	28.99	77.70	Uttar Pradesh
+Mirat Cantonment	29.02	77.67	Uttar Pradesh
+Mirzapur	25.16	82.56	Uttar Pradesh
+Modinagar	28.92	77.62	Uttar Pradesh
+Moradabad	28.84	78.76	Uttar Pradesh
+Mubarakpur	26.09	83.28	Uttar Pradesh
+Mughal Sarai	25.30	83.12	Uttar Pradesh
+Muradnagar	28.78	77.50	Uttar Pradesh
+Muzaffarnagar	29.48	77.69	Uttar Pradesh
+Nagina	29.45	78.43	Uttar Pradesh
+Najibabad	29.62	78.33	Uttar Pradesh
+Nawabganj	26.94	81.19	Uttar Pradesh
+Noida	28.58	77.33	Uttar Pradesh
+Obra	24.42	82.98	Uttar Pradesh
+Orai	25.99	79.45	Uttar Pradesh
+Pilibhit	28.64	79.81	Uttar Pradesh
+Pilkhuwa	28.72	77.65	Uttar Pradesh
+Rae Bareli	26.23	81.23	Uttar Pradesh
+Rampur	28.82	79.02	Uttar Pradesh
+Rath	25.58	79.57	Uttar Pradesh
+Renukut	24.20	83.03	Uttar Pradesh
+Saharanpur	29.97	77.54	Uttar Pradesh
+Sahaswan	28.08	78.74	Uttar Pradesh
+Sambhal	28.59	78.56	Uttar Pradesh
+Sandila	27.08	80.52	Uttar Pradesh
+Shahabad	27.65	79.95	Uttar Pradesh
+Shahjahanpur	27.88	79.90	Uttar Pradesh
+Shamli	29.46	77.31	Uttar Pradesh
+Sherkot	29.35	78.58	Uttar Pradesh
+Shikohabad	27.12	78.58	Uttar Pradesh
+Sikandarabad	28.44	77.69	Uttar Pradesh
+Sitapur	27.57	80.69	Uttar Pradesh
+Sultanpur	26.26	82.06	Uttar Pradesh
+Tanda	26.55	82.65	Uttar Pradesh
+Tilhar	27.98	79.73	Uttar Pradesh
+Tundla	27.20	78.28	Uttar Pradesh
+Ujhani	28.02	79.02	Uttar Pradesh
+Unnao	26.55	80.49	Uttar Pradesh
+Varanasi	25.32	83.01	Uttar Pradesh
+Vrindavan	27.58	77.70	Uttar Pradesh
+Dehra Dun	30.34	78.05	Uttaranchal
+Dehra Dun Cantonment	30.34	77.97	Uttaranchal
+Haldwani	29.23	79.52	Uttaranchal
+Haridwar	29.98	78.16	Uttaranchal
+Kashipur	29.22	78.96	Uttaranchal
+Pithoragarh	29.58	80.22	Uttaranchal
+Rishikesh	30.12	78.29	Uttaranchal
+Rurki	29.87	77.89	Uttaranchal
+Uttar Pradesh	27.45	79.65
+Punjab	30.81	75.51
+Uttaranchal	29.84	78.63
+Pondicherry	11.6	79.81
+Kerala	10.51	76.1
+Manipur	24.79	93.94
+Chandigarh	30.75	76.78
+West Bengal	23.48	88.19
+Nagaland	25.9	94.04
+Orissa	20.72	84.84
+Jammu and Kashmir	33.48	74.89
+Chhattisgarh	21.54	82.02
+Haryana	29.39	76.53
+Bihar	25.71	85.51
+Himachal Pradesh	31.11	77.16
+Jharkhand	23.65	85.95
+Andhra Pradesh	16.7	79.63
+Goa	15.4	73.84
+Meghalaya	25.55	91.05
+Arunachal Pradesh	27.14	93.61
+Delhi	28.63	77.16
+Mizoram	23.3	92.72
+Rajasthan	26.73	74.86
+Madhya Pradesh	23.7	77.85
+Maharashtra	19.62	75.57
+Tamil Nadu	11.19	78.49
+Gujarat	22.34	71.89
+Andaman and Nicobar Islands	11.67	92.76
+Karnataka	14.45	76.38
+Assam	26.36	92.9
+Tripura	23.84	91.27
+Afghanistan	33.0000866	64.9998468
+Kabul	34.5197058	69.1624302
+Albania	41.000028	19.9999619
+Tirana	41.31588575	19.9009121644611
+Algeria	28.0000272	2.9999825
+Algiers	28.0000272	2.9999825
+Andorra	42.5407167	1.5732033
+Andorra la Vella	42.5069391	1.5212467
+Angola	-11.8775767	17.5691241
+Luanda	-8.8271655	13.2436665
+Antigua and Barbuda	17.079128	-61.8222515
+St. John's	47.5614849	-52.7125838
+Argentina	-34.9964962	-64.9672816
+Buenos Aires	-34.6143904	-58.4460878
+Armenia	40.7696272	44.6736646
+Yerevan	40.1776121	44.5125849
+Australia	-24.7761085	134.755
+Canberra	-35.2819366	149.128894
+Austria	47.2000338	13.199959
+Vienna	48.2083537	16.3725042
+Azerbaijan	40.3936294	47.7872508
+Baku	40.3754289	49.8328549
+Bahamas	24.7736546	-78.0000546
+Nassau	40.7412643	-73.5877698
+Bahrain	26.1551249	50.5344606
+Manama	26.2235041	50.5822436
+Bangladesh	24.4768783	90.2932426
+Dhaka	23.7593572	90.3788136
+Barbados	13.1500331	-59.5250304
+Bridgetown	13.0977832	-59.6184183
+Belarus	53.4250605	27.6971358
+Minsk	53.902334	27.5618791
+Belgium	50.6407351	4.66696
+Brussels	50.8465565	4.351697
+Belize	16.8259793	-88.7600926
+Belmopan	17.250283	-88.7694262
+Benin	9.5293472	2.2584408
+Porto-Novo	6.4990718	2.6253361
+Bhutan	27.549511	90.5119273
+Thimphu	27.5626719	89.5724019168216
+Bolivia	-17.0568695	-64.9912285
+La Paz	-16.4956469	-68.1335419
+Sucre	-19.0478619	-65.2596022
+Bosnia and Herzegovina	44.3053476	17.5961467
+Sarajevo	43.8519774	18.3866868
+Botswana	-23.1681781	24.5928742
+Gaborone	-24.6553194	25.9087281
+Brazil	-10.3333332	-53.1999999
+Brasilia	-10.3333332	-53.1999999
+Brunei	4.4137155	114.5653908
+Bandar Seri Begawan	4.8895453	114.9417574
+Bulgaria	42.6073975	25.4856617
+Sofia	42.6977211	23.3225964
+Burkina Faso	12.0753083	-1.6880313
+Ouagadougou	12.3681481	-1.5270852
+Burundi	-3.3634356	29.8870575
+Bujumbura	-3.3638124	29.3675028
+Cabo Verde	16.0000552	-24.0083946
+Praia	14.9160169	-23.5096131
+Cambodia	13.5066394	104.869423
+Phnom Penh	11.5742555	104.82899544331
+Cameroon	4.6125522	13.1535811
+Yaounde	3.8689867	11.5213344
+Canada	61.0666922	-107.991707
+Ottawa	45.4210328	-75.6900218
+Bangui	4.3907153	18.5509126
+Chad	15.6134137	19.0156172
+N'Djamena	12.1191543	15.0502758
+Chile	-31.7613364	-71.3187696
+Santiago	-33.4377967	-70.650445
+China	35.000074	104.999927
+Beijing	39.9059631	116.391248
+Colombia	2.893108	-73.7845142
+Bogotá	4.5980478	-74.0760866
+Comoros	-12.2045175	44.2832964
+Moroni	-11.6931254	43.2543044
+Democratic Republic of the Congo	-2.9814343	23.8222636
+Kinshasa	-4.3217054	15.3125974
+Republic of the Congo	-0.7264326	15.6419155
+Brazzaville	-4.2694406	15.2712256
+Costa Rica	10.2735633	-84.0739101
+San Jose	37.3361905	-121.8905832
+Cote d'Ivoire	7.9897371	-5.5679457
+Yamoussoukro	6.8091068	-5.2732627
+Croatia	45.5643442	17.0118954
+Zagreb	45.8131545	15.9770298
+Cuba	23.0131338	-80.8328747
+Havana	23.1379911	-82.3658561
+Nicosia	35.1739302	33.364726
+Czech Republic	49.8167003	15.4749544
+Prague	50.0874654	14.4212503
+Denmark	55.670249	10.3333283
+Copenhagen	55.6867243	12.5700724
+Djibouti	11.85677545	42.7577845199437
+Dominica	15.4113138	-61.3653617
+Dominican Republic	19.0974031	-70.3028025
+Santo Domingo	18.4801972	-69.9421109
+Ecuador	-1.3397667	-79.3666964
+Quito	-0.155388	-78.4862308
+Egypt	26.2540493	29.2675469
+Cairo	30.0488185	31.2436663
+El Salvador	13.8000382	-88.9140682
+San Salvador	13.6977587	-89.1930099
+Equatorial Guinea	1.613172	10.5170357
+Malabo	3.7528278	8.780061
+Eritrea	15.9500319	37.9999668
+Asmara	15.3389974	38.9326725
+Estonia	58.7523778	25.3319078
+Tallinn	59.4372155	24.7453688
+Ethiopia	10.2116702	38.6521203
+Addis Ababa	9.0107934	38.7612525
+Fiji	-18.1239695	179.0122737
+Suva	-18.1415883	178.4421662
+Finland	63.2467777	25.9209164
+Helsinki	60.1666277	24.9435079
+France	46.603354	1.8883335
+Paris	48.8566101	2.3514992
+Gabon	-0.8999694	11.6899699
+Libreville	0.3900022	9.4540009
+Gambia	13.470062	-15.4900463
+Banjul	13.4553495	-16.5756456
+Georgia	32.3293809	-83.1137365
+Tbilisi	41.6935247	44.8015019
+Germany	51.0834196	10.4234469
+Berlin	52.5170365	13.3888599
+Ghana	8.0300284	-1.080027
+Accra	5.5600141	-0.2057436
+Greece	39.000041	21.9999569
+Athens	37.9841493	23.7279843
+Grenada	12.1360374	-61.6904044
+St. George's	12.0535331	-61.7518049
+Guatemala	15.6356088	-89.8988086
+Guatemala City	14.6417889	-90.5132238
+Guinea	10.7226226	-10.7083586
+Conakry	9.5171253	-13.6999234
+Guinea-Bissau	12.100035	-14.9000213
+Bissau	11.8613244	-15.5830553
+Guyana	4.8417097	-58.641689
+Georgetown	38.2097967	-84.558831
+Haiti	19.1399952	-72.3570971
+Port-au-Prince	18.547327	-72.3395927
+Honduras	15.0610686	-84.5978533
+Tegucigalpa	14.0931919	-87.201263
+Hungary	47.1817585	19.5060937
+Budapest	47.4983815	19.0404707
+Iceland	64.9841821	-18.1059012
+Reykjavik	64.145981	-21.9422366
+India	22.3511148	78.6677428
+New Delhi	28.6138967	77.2159562
+Indonesia	-4.7993355	114.5632032
+Jakarta	-6.1753941	106.8271826
+Iran	32.9407496	52.9471344
+Tehran	35.686172	51.4223519
+Iraq	33.0955793	44.1749775
+Baghdad	33.3024248	44.3787992
+Ireland	52.865196	-7.9794598
+Dublin	53.3497645	-6.2602731
+Israel	30.8760272	35.0015196
+Jerusalem	31.7791134	35.2266286
+Italy	42.6384261	12.674297
+Rome	41.8935085	12.4825526
+Jamaica	18.1850507	-77.3947692
+Kingston	17.9712148	-76.7928127
+Japan	36.5748441	139.2394179
+Tokyo	34.2255804	139.294774527387
+Jordan	31.1667049	36.941628
+Amman	31.9515694	35.9239625
+Kazakhstan	47.2286086	65.2093197
+Astana	51.15092055	71.4388595154859
+Kenya	1.4419683	38.4313975
+Nairobi	-1.2832532	36.8172449
+Kosovo	42.5622969	20.9146812240317
+Pristina	42.6639939	21.1638351
+Kuwait	29.2733964	47.4979476
+Kuwait City	29.3797091	47.9735629
+Kyrgyzstan	41.5089324	74.724091
+Bishkek	42.8767446	74.6069949
+Laos	20.0171109	103.378253
+Vientiane	17.9640988	102.6133707
+Latvia	56.8666904	24.5999717
+Riga	56.9493977	24.1051846
+Lebanon	33.8750629	35.843409
+Beirut	33.8959203	35.47843
+Lesotho	-29.6039266	28.3350193
+Maseru	-29.3100535	27.4782219
+Liberia	5.7499721	-9.3658523
+Monrovia	6.3280343	-10.7977881
+Libya	26.8234472	18.1236723
+Tripoli	32.77325405	13.4141472054133
+Liechtenstein	47.1416307	9.5531527
+Vaduz	47.1392862	9.5227962
+Lithuania	55.3500003	23.7499998
+Vilnius	54.6843135	25.2853984
+Macedonia	41.6171214	21.7168387
+Skopje	41.9960424	21.4316707
+Madagascar	-18.9249603	46.4416422
+Antananarivo	-18.9100121	47.5255809
+Malawi	-13.2687203	33.9301963
+Lilongwe	-13.9734559	33.7878122
+Maldives	4.2218417	73.4867968
+Male	16.3700359	-2.2900238
+Mali	16.3700359	-2.2900238
+Bamako	12.6493194	-8.000337
+Malta	27.5015719	85.2451666
+Valletta	35.8987546	14.5134889
+Majuro	7.0909924	171.3816354
+Mauritania	20.2540382	-9.2399262
+Nouakchott	18.0794011	-15.9780392
+Mauritius	-20.275945	57.5703566
+Port Louis	-20.163728	57.5045331
+Mexico	19.4325301	-99.1332101
+Mexico City	19.4325301	-99.1332101
+Micronesia	5.5600565	150.1982846
+Moldova	47.286747	28.5110236
+Chisinau	47.0122737	28.8605936
+Monaco	43.7311424	7.4197576
+Monaco	43.7311424	7.4197576
+Mongolia	46.8250388	103.8499736
+Ulaanbaatar	47.949809	106.966724193881
+Montenegro	43.0285558	19.291739
+Podgorica	42.4415238	19.2621081
+Morocco	31.1728192	-7.3366042
+Rabat	34.0226709	-6.8391104
+Mozambique	-19.3022329	34.9144977
+Maputo	-25.9662132	32.5674498
+Myanmar	17.1750495	95.9999652
+Naypyidaw	19.7540045	96.1344976
+Namibia	-23.2335498	17.3231107
+Windhoek	-22.5530385	17.0543787928491
+Nauru	-0.5249623	166.9333009
+Nepal	28.1082107	84.0917515
+Kathmandu	27.7087963	85.3202438
+Netherlands	52.2379891	5.53460738161551
+Amsterdam	52.374436	4.8979956033677
+New Zealand	-41.500083	172.8344077
+Wellington	-41.2887638	174.7772239
+Nicaragua	12.3724928	-84.8700307
+Managua	12.1461244	-86.2737169
+Niger	17.7356214	9.3238432
+Niamey	13.4998139	2.10948597212168
+Nigeria	9.6000359	7.9999721
+Abuja	9.0643305	7.4892974
+North Korea	40.3123959	127.399971
+Pyongyang	39.07984925	125.801457340332
+Norway	64.574131	11.5270102892405
+Oslo	59.9132694	10.7391112
+Oman	21.0000287	57.0036901
+Muscat	23.5997857	58.5451305
+Pakistan	30.3308401	71.247499
+Islamabad	33.6945756	73.0643744
+Palau	6.097367	133.313631
+Ngerulmud	7.5006379	134.624265
+Palestine	31.94693485	35.2743202958033
+Ramallah	31.9030821	35.1951741
+Panama	8.3096067	-81.3066245
+Panama City	30.1600827	-85.6545728
+Port Moresby	-9.47433	147.1599504
+Paraguay	-23.3165934	-58.1693444
+Asunción	-25.2959915	-57.6311195
+Peru	-6.8699696	-75.0458514
+Lima	-12.0616419	-77.0367111
+Philippines	12.7503486	122.7312101
+Manila	14.5906216	120.9799696
+Poland	52.0977181	19.0258159
+Warsaw	52.2319237	21.0067265
+Lisbon	38.7077926	-9.1365069
+Qatar	25.3336984	51.2295295
+Doha	25.3014957	51.4996673988223
+Romania	45.9852129	24.6859225
+Bucharest	44.4361414	26.1027202
+Russia	64.6863136	97.7453061
+Moscow	55.7516335	37.6187042
+Rwanda	-1.964663	30.0644358
+Kigali	-1.92982035	30.1345381884548
+Saint Kitts and Nevis	17.3462278	-62.7687276
+Saint Lucia	13.8250489	-60.9750359
+Saint Vincent and the Grenadines	12.90447	-61.2765568
+Kingstown	13.1561864	-61.227962
+Samoa	-13.7693894	-172.1200507
+Apia	-13.834369	-171.7692792
+San Marino	43.9458623	12.458306
+San Marino	43.9458623	12.458306
+Sao Tome and Principe	0.8875498	6.9648718
+São Tomé	0.3389242	6.7313031
+Saudi Arabia	25.6242618	42.3528328
+Riyadh	24.6319692	46.7150648
+Senegal	14.4750607	-14.4529611
+Dakar	14.6934248	-17.4479376
+Serbia	44.1534121	20.55144
+Belgrade	44.8178787	20.4568089
+Seychelles	-4.6574976	55.4540146
+Victoria	-36.5986095	144.6780052
+Sierra Leone	8.6400349	-11.8400268
+Freetown	8.4790017	-13.2680157
+Singapore	1.2904527	103.852038
+Singapore	1.2904527	103.852038
+Slovakia	48.7411522	19.4528646
+Bratislava	48.1359085	17.1597440625
+Slovenia	45.8133113	14.4808369
+Ljubljana	46.049865	14.5068921
+Solomon Islands	-9.7354343	162.8288542
+Honiara	-9.431297	159.9552773
+Somalia	8.3676771	49.083416
+Mogadishu	2.0427779	45.3385636
+South Africa	-28.8166235	24.991639
+Pretoria	-25.7451737	28.18707
+Cape Town	-33.9289916	18.417396
+Bloemfontein	-29.1163946	26.2154956
+South Korea	35.3985008	127.937111
+Seoul	37.5666791	126.9782914
+South Sudan	7.8699431	29.6667897
+Juba	4.8472017	31.5951655
+Spain	40.0028028	-4.0031039
+Madrid	40.4167047	-3.7035824
+Sri Lanka	7.878	80.7038245875
+Sudan	15.45374395	29.7951525192217
+Khartoum	15.5933247	32.5356502
+Suriname	4.1413025	-56.0771186
+Paramaribo	5.8216198	-55.1771973
+Swaziland	-26.5624805	31.3991317
+Mbabane	-26.3257446	31.144663
+Sweden	59.6749712	14.5208584
+Stockholm	59.3251172	18.0710935
+Switzerland	46.7985624	8.2319736
+Bern	46.9482713	7.4514512
+Damascus	33.5130695	36.3095814
+Taiwan	23.9739374	120.9820179
+Taipei	25.0375167	121.5637
+Tajikistan	38.6281733	70.8156541
+Dushanbe	38.5762757	68.786394
+Tanzania	-6.5247122	35.7878438
+Dodoma	-6.179118	35.7468174
+Thailand	14.8971921	100.83273
+Bangkok	13.5859219	100.416086601645
+Timor-Leste	-8.5151978	125.8375756
+Dili	28.6517178	77.2219388
+Togo	8.7800265	1.0199765
+Lomé	6.1258459	1.2249327
+Tonga	-19.9160818	-175.2026423
+Trinidad and Tobago	10.8677845	-60.9821066
+Port of Spain	10.6572678	-61.5180172
+Turkey	38.9597594	34.9249653
+Ankara	39.9220732	32.853758
+Turkmenistan	39.3763807	59.3924609
+Ashgabat	37.9396678	58.3874263
+Tuvalu	-7.7689589	178.1167698
+Uganda	1.5333554	32.2166578
+Kampala	0.3177137	32.5813539
+Ukraine	49.4871968	31.2718321
+Kyiv	50.4501071	30.5240501
+United Arab Emirates	24.0002488	53.9994829
+Abu Dhabi	24.4747961	54.3705762
+United Kingdom	54.7023545	-3.2765752
+London	51.5073219	-0.1276473
+United States of America	39.7837304	-100.4458824
+Uruguay	-32.8755547	-56.0201524
+Montevideo	-34.9059038	-56.1913568
+Uzbekistan	41.32373	63.9528098
+Tashkent	41.3123363	69.2787079
+Vanuatu	-16.5255068	168.1069154
+Port Vila	-17.7414971	168.3150163
+Vatican City	41.9034912	12.4528349
+Venezuela	8.0018709	-66.1109317
+Vietnam	13.2904027	108.4265113
+Hanoi	20.9749006	105.675563063679
+Yemen	16.3471243	47.8915271
+Sana'a	15.342101	44.2005197
+Zambia	-14.5186238	27.5599164
+Lusaka	-15.4166966	28.2813812
+Zimbabwe	-18.4554962	29.7468414
+Harare	-17.8317725	31.0456859
+Washington DC	38.8949549	-77.0366455
