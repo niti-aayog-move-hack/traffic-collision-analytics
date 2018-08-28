@@ -1,0 +1,38 @@
+<link rel="stylesheet" type="text/css" href="/css/srch-res.css" />
+
+
+<script type = "text/javascript">
+    politician_list = {{{politician_list}}};
+    $(".navbar-default").css('background-color', '#000');
+  </script>
+
+    <div class="actual" id= "actual">
+      <div class="container">
+        <div class = "content" id = "content">
+              <h2 class = "capo toph" id = "res">Results FOR the query: <strong>{{searched}}</strong></h2>
+              <hr />
+          <div class="content-wrap">
+                  <ul class = "lop" id = "lop">
+                  </ul>
+
+            </div><!-- /content -->
+        </div><!-- /container -->
+      </div>
+    </div>
+    <script>
+
+    function dispit(){
+    if(politician_list.length){
+      document.getElementById('lop').innerHTML = politician_list.map(function(politician) {
+              return '<li class = "lcont"><form action = "/demo/result" method = "POST"><h2>'+ politician.name + '</h2><input class= "lnk-std" type = "submit" value = "GET INSIGHTS"><h4 class = "capo">ASSOCIATED WITH: <strong>' + politician.party + '</strong></h4><p>' + politician.intro + '</p></input><input style = "display:none" name = "pol_name" type="text" id="input-1" value = "' + politician.name +'"/></form></li><hr />';
+      }).join(''); 
+    }
+    else{
+      document.getElementById('res').innerHTML = '<h2 class = "capo"> NO RESULTS for {{searched}}</h2>'
+    }
+    
+    }
+    window.onload = function(){
+      dispit();
+    }
+    </script>

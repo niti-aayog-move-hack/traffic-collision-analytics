@@ -1,0 +1,3782 @@
+[
+ {
+   "Sno": 1,
+   "Candidate": "GODAM NAGESH",
+   "Constituency": "ADILABAD",
+   "Party": "TRS",
+   "Expenditure":  2215311
+ },
+ {
+   "Sno": 2,
+   "Candidate": "DR. RAMSHANKAR KATHERIA",
+   "Constituency": "AGRA",
+   "Party": "BJP",
+   "Expenditure":  2622939
+ },
+ {
+   "Sno": 3,
+   "Candidate": "PARESH DAHYALAL RAWAL",
+   "Constituency": "AHMEDABAD EAST",
+   "Party": "BJP",
+   "Expenditure":  3114331
+ },
+ {
+   "Sno": 4,
+   "Candidate": "DR. SOLANKI KIRITBHAI PREMJIBHAI",
+   "Constituency": "AHMEDABAD WEST",
+   "Party": "BJP",
+   "Expenditure":  2912109
+ },
+ {
+   "Sno": 5,
+   "Candidate": "GANDHI DILIPKUMAR MANSUKHLAL",
+   "Constituency": "AHMEDNAGAR",
+   "Party": "BJP",
+   "Expenditure":  5757033
+ },
+ {
+   "Sno": 6,
+   "Candidate": "SANWAR LAL JAT",
+   "Constituency": "AJMER",
+   "Party": "BJP",
+   "Expenditure":  6127854
+ },
+ {
+   "Sno": 7,
+   "Candidate": "DEVENDRA SINGH URF BHOLE SINGH",
+   "Constituency": "AKBARPUR",
+   "Party": "BJP",
+   "Expenditure":  3893712
+ },
+ {
+   "Sno": 8,
+   "Candidate": "Dhotre Sanjay Shyamrao",
+   "Constituency": "AKOLA",
+   "Party": "BJP",
+   "Expenditure":  3944490
+ },
+ {
+   "Sno": 9,
+   "Candidate": "K C VENUGOPAL",
+   "Constituency": "ALAPPUZHA",
+   "Party": "INC",
+   "Expenditure":  6174447
+ },
+ {
+   "Sno": 10,
+   "Candidate": "P.K.BIJU",
+   "Constituency": "ALATHUR",
+   "Party": "CPI(M)",
+   "Expenditure":  4759108
+ },
+ {
+   "Sno": 11,
+   "Candidate": "SATISH KUMAR",
+   "Constituency": "ALIGARH",
+   "Party": "BJP",
+   "Expenditure":  4768116
+ },
+ {
+   "Sno": 12,
+   "Candidate": "DASRATH TIRKEY",
+   "Constituency": "ALIPURDUARS",
+   "Party": "AITC",
+   "Expenditure":  4876165
+ },
+ {
+   "Sno": 13,
+   "Candidate": "SHYAMA CHARAN GUPTA",
+   "Constituency": "ALLAHABAD",
+   "Party": "BJP",
+   "Expenditure":  39369
+ },
+ {
+   "Sno": 14,
+   "Candidate": "AJAY TAMTA",
+   "Constituency": "ALMORA",
+   "Party": "BJP",
+   "Expenditure":  3121404
+ },
+ {
+   "Sno": 15,
+   "Candidate": "MAHANT CHAND NATH YOGI",
+   "Constituency": "ALWAR",
+   "Party": "BJP",
+   "Expenditure":  2878499
+ },
+ {
+   "Sno": 16,
+   "Candidate": "PANDULA RAVINDRA BABU",
+   "Constituency": "AMALAPURAM",
+   "Party": "TDP",
+   "Expenditure":  3363499
+ },
+ {
+   "Sno": 17,
+   "Candidate": "RATTAN LAL KATARIA",
+   "Constituency": "AMBALA",
+   "Party": "BJP",
+   "Expenditure":  3688844
+ },
+ {
+   "Sno": 18,
+   "Candidate": "HARIOM",
+   "Constituency": "AMBEDKAR NAGAR",
+   "Party": "BJP",
+   "Expenditure":  3768838
+ },
+ {
+   "Sno": 19,
+   "Candidate": "RAHUL GANDHI",
+   "Constituency": "AMETHI",
+   "Party": "INC",
+   "Expenditure":  3911123
+ },
+ {
+   "Sno": 20,
+   "Candidate": "ADSUL ANANDRAO VITHOBA",
+   "Constituency": "AMRAVATI",
+   "Party": "SHS",
+   "Expenditure":  4762267
+ },
+ {
+   "Sno": 21,
+   "Candidate": "KACHHADIYA NARANBHAI BHIKHABHAI",
+   "Constituency": "AMRELI",
+   "Party": "BJP",
+   "Expenditure":  5212852
+ },
+ {
+   "Sno": 22,
+   "Candidate": "CAPTAIN AMARINDER SINGH",
+   "Constituency": "AMRITSAR",
+   "Party": "INC",
+   "Expenditure":  2815474
+ },
+ {
+   "Sno": 23,
+   "Candidate": "KANWAR SINGH TANWAR",
+   "Constituency": "AMROHA",
+   "Party": "BJP",
+   "Expenditure":  3820742
+ },
+ {
+   "Sno": 24,
+   "Candidate": "Muttamsetti Srinivasa Rao",
+   "Constituency": "ANAKAPALLE",
+   "Party": "TDP",
+   "Expenditure":  2748902
+ },
+ {
+   "Sno": 25,
+   "Candidate": "PATEL DILIPBHAI MANIBHAI",
+   "Constituency": "ANAND",
+   "Party": "BJP",
+   "Expenditure":  4533324
+ },
+ {
+   "Sno": 26,
+   "Candidate": "PREM SINGH CHANDUMAJRA",
+   "Constituency": "ANANDPUR SAHIB",
+   "Party": "SAD",
+   "Expenditure":  5869469
+ },
+ {
+   "Sno": 27,
+   "Candidate": "JUTUR CHINNA REDDY DIVAKAR REDDY",
+   "Constituency": "ANANTAPUR",
+   "Party": "TDP",
+   "Expenditure":  1892831
+ },
+ {
+   "Sno": 28,
+   "Candidate": "MEHBOOBA MUFTI",
+   "Constituency": "ANANTNAG",
+   "Party": "JKPDP",
+   "Expenditure":  2926200
+ },
+ {
+   "Sno": 29,
+   "Candidate": "BISHNU PADA RAY",
+   "Constituency": "ANDAMAN & NICOBAR ISLANDS",
+   "Party": "BJP",
+   "Expenditure":  3815373
+ },
+ {
+   "Sno": 30,
+   "Candidate": "DHARMENDRA KUMAR",
+   "Constituency": "AONLA",
+   "Party": "BJP",
+   "Expenditure":  5939591
+ },
+ {
+   "Sno": 31,
+   "Candidate": "HARI G",
+   "Constituency": "ARAKKONAM",
+   "Party": "AIADMK",
+   "Expenditure":  2653050
+ },
+ {
+   "Sno": 32,
+   "Candidate": "KOTHAPALLI GEETHA",
+   "Constituency": "ARAKU",
+   "Party": "Yuvajana Sramika Rythu Congress Party",
+   "Expenditure":  1179536
+ },
+ {
+   "Sno": 33,
+   "Candidate": "APARUPA PODDAR (AFRIN ALI)",
+   "Constituency": "ARAMBAG",
+   "Party": "AITC",
+   "Expenditure":  6231337
+ },
+ {
+   "Sno": 34,
+   "Candidate": "V.ELUMALAI",
+   "Constituency": "ARANI",
+   "Party": "AIADMK",
+   "Expenditure":  2074696
+ },
+ {
+   "Sno": 35,
+   "Candidate": "TASLIM UDDIN",
+   "Constituency": "ARARIA",
+   "Party": "RJD",
+   "Expenditure":  2554275
+ },
+ {
+   "Sno": 36,
+   "Candidate": "RAJ KUMAR SINGH",
+   "Constituency": "ARRAH",
+   "Party": "BJP",
+   "Expenditure":  4086332
+ },
+ {
+   "Sno": 37,
+   "Candidate": "NINONG ERING",
+   "Constituency": "ARUNACHAL EAST",
+   "Party": "INC",
+   "Expenditure":  4226374
+ },
+ {
+   "Sno": 38,
+   "Candidate": "KIREN RIJIJU",
+   "Constituency": "ARUNACHAL WEST",
+   "Party": "BJP",
+   "Expenditure":  1370049
+ },
+ {
+   "Sno": 39,
+   "Candidate": "BABUL SUPRIYA BORAL (BABUL SUPRIYO)",
+   "Constituency": "ASANSOL",
+   "Party": "BJP",
+   "Expenditure":  3586332
+ },
+ {
+   "Sno": 40,
+   "Candidate": "LADU KISHORE SWAIN",
+   "Constituency": "ASKA",
+   "Party": "BJD",
+   "Expenditure":  2572368
+ },
+ {
+   "Sno": 41,
+   "Candidate": "A SAMPATH",
+   "Constituency": "ATTINGAL",
+   "Party": "CPI(M)",
+   "Expenditure":  4544870
+ },
+ {
+   "Sno": 42,
+   "Candidate": "CHANDRAKANT BHAURAO KHAIRE",
+   "Constituency": "AURANGABAD",
+   "Party": "SHS",
+   "Expenditure":  5066673
+ },
+ {
+   "Sno": 43,
+   "Candidate": "SUSHIL KUMAR SINGH",
+   "Constituency": "AURANGABAD",
+   "Party": "BJP",
+   "Expenditure":  5627408
+ },
+ {
+   "Sno": 44,
+   "Candidate": "BIREN SINGH ENGTI",
+   "Constituency": "AUTONOMOUS DISTRICT",
+   "Party": "INC",
+   "Expenditure":  5274552
+ },
+ {
+   "Sno": 45,
+   "Candidate": "Mulayam Singh Yadav",
+   "Constituency": "AZAMGARH",
+   "Party": "SP",
+   "Expenditure":  4878225
+ },
+ {
+   "Sno": 46,
+   "Candidate": "DHARMANDRA YADAV",
+   "Constituency": "BADAUN",
+   "Party": "SP",
+   "Expenditure":  3463869
+ },
+ {
+   "Sno": 47,
+   "Candidate": "P.C. Gaddigoudar",
+   "Constituency": "BAGALKOT",
+   "Party": "BJP",
+   "Expenditure":  3744434
+ },
+ {
+   "Sno": 48,
+   "Candidate": "DR. SATYAPAL SINGH",
+   "Constituency": "BAGHPAT",
+   "Party": "BJP",
+   "Expenditure":  4996331
+ },
+ {
+   "Sno": 49,
+   "Candidate": "ADHIR RANJAN CHOWDHURY",
+   "Constituency": "BAHARAMPUR",
+   "Party": "INC",
+   "Expenditure":  3130585
+ },
+ {
+   "Sno": 50,
+   "Candidate": "SAVITRI BAI FOOLE",
+   "Constituency": "BAHRAICH",
+   "Party": "BJP",
+   "Expenditure":  3877128
+ },
+ {
+   "Sno": 51,
+   "Candidate": "BODHSINGH BHAGAT",
+   "Constituency": "BALAGHAT",
+   "Party": "BJP",
+   "Expenditure":  6064362
+ },
+ {
+   "Sno": 52,
+   "Candidate": "RABINDRA KUMAR JENA",
+   "Constituency": "BALASORE",
+   "Party": "BJD",
+   "Expenditure":  3667162
+ },
+ {
+   "Sno": 53,
+   "Candidate": "Bharat Singh",
+   "Constituency": "BALLIA",
+   "Party": "BJP",
+   "Expenditure":  4332893
+ },
+ {
+   "Sno": 54,
+   "Candidate": "ARPITA GHOSH",
+   "Constituency": "BALURGHAT",
+   "Party": "AITC",
+   "Expenditure":  5051072
+ },
+ {
+   "Sno": 55,
+   "Candidate": "CHAUDHRY HARIBHAI PARTHIBHAI",
+   "Constituency": "BANASKANTHA",
+   "Party": "BJP",
+   "Expenditure":  5124798
+ },
+ {
+   "Sno": 56,
+   "Candidate": "BHAIRON PRASAD MISHRA",
+   "Constituency": "BANDA",
+   "Party": "BJP",
+   "Expenditure":  4704207
+ },
+ {
+   "Sno": 57,
+   "Candidate": "P.C. MOHAN",
+   "Constituency": "BANGALORE CENTRAL",
+   "Party": "BJP",
+   "Expenditure":  2001978
+ },
+ {
+   "Sno": 58,
+   "Candidate": "D.V. Sadananda Gowda",
+   "Constituency": "BANGALORE NORTH",
+   "Party": "BJP",
+   "Expenditure":  5935101
+ },
+ {
+   "Sno": 59,
+   "Candidate": "D.K.SURESH",
+   "Constituency": "BANGALORE RURAL",
+   "Party": "INC",
+   "Expenditure":  3857720
+ },
+ {
+   "Sno": 60,
+   "Candidate": "ANANTH KUMAR",
+   "Constituency": "BANGALORE SOUTH",
+   "Party": "BJP",
+   "Expenditure":  3794109
+ },
+ {
+   "Sno": 61,
+   "Candidate": "KAPIL KRISHNA THAKUR",
+   "Constituency": "BANGAON",
+   "Party": "AITC",
+   "Expenditure":  5339451
+ },
+ {
+   "Sno": 62,
+   "Candidate": "JAIPRAKASH NARAYAN YADAV",
+   "Constituency": "BANKA",
+   "Party": "RJD",
+   "Expenditure":  2188957
+ },
+ {
+   "Sno": 63,
+   "Candidate": "SREEMATI DEV VARMA (MOON MOON SEN)",
+   "Constituency": "BANKURA",
+   "Party": "AITC",
+   "Expenditure":  5866460
+ },
+ {
+   "Sno": 64,
+   "Candidate": "KAMLESH PASWAN",
+   "Constituency": "BANSGAON",
+   "Party": "BJP",
+   "Expenditure":  3822106
+ },
+ {
+   "Sno": 65,
+   "Candidate": "MANSHANKAR NINAMA",
+   "Constituency": "BANSWARA",
+   "Party": "BJP",
+   "Expenditure":  6035545
+ },
+ {
+   "Sno": 66,
+   "Candidate": "MALYADRI SRIRAM",
+   "Constituency": "BAPATLA",
+   "Party": "TDP",
+   "Expenditure":  3274023
+ },
+ {
+   "Sno": 67,
+   "Candidate": "PRIYANKA SINGH RAWAT",
+   "Constituency": "BARABANKI",
+   "Party": "BJP",
+   "Expenditure":  3880849
+ },
+ {
+   "Sno": 68,
+   "Candidate": "SUPRIYA SULE",
+   "Constituency": "BARAMATI",
+   "Party": "NCP",
+   "Expenditure":  6429409
+ },
+ {
+   "Sno": 69,
+   "Candidate": "MUZAFFAR HUSSAIN BAIG",
+   "Constituency": "BARAMULLA",
+   "Party": "JKPDP",
+   "Expenditure":  2597732
+ },
+ {
+   "Sno": 70,
+   "Candidate": "DR. KAKALI GHOSHDOSTIDAR",
+   "Constituency": "BARASAT",
+   "Party": "AITC",
+   "Expenditure":  3675157
+ },
+ {
+   "Sno": 71,
+   "Candidate": "SUNIL KUMAR MONDAL",
+   "Constituency": "BARDHAMAN PURBA",
+   "Party": "AITC",
+   "Expenditure":  6229378
+ },
+ {
+   "Sno": 72,
+   "Candidate": "MAMTAZ SANGHAMITA",
+   "Constituency": "BARDHAMAN-DURGAPUR",
+   "Party": "AITC",
+   "Expenditure":  6192023
+ },
+ {
+   "Sno": 73,
+   "Candidate": "PARBHUBHAI NAGARBHAI VASAVA",
+   "Constituency": "BARDOLI",
+   "Party": "BJP",
+   "Expenditure":  4370625
+ },
+ {
+   "Sno": 74,
+   "Candidate": "SANTOSH GANGWAR",
+   "Constituency": "BAREILLY",
+   "Party": "BJP",
+   "Expenditure":  3896390
+ },
+ {
+   "Sno": 75,
+   "Candidate": "PRABHAS KUMAR SINGH",
+   "Constituency": "BARGARH",
+   "Party": "BJD",
+   "Expenditure":  1796400
+ },
+ {
+   "Sno": 76,
+   "Candidate": "COL. SONA RAM",
+   "Constituency": "BARMER",
+   "Party": "BJP",
+   "Expenditure":  6063084
+ },
+ {
+   "Sno": 77,
+   "Candidate": "SIRAJ UDDIN AJMAL",
+   "Constituency": "BARPETA",
+   "Party": "AIUDF",
+   "Expenditure":  3755440
+ },
+ {
+   "Sno": 78,
+   "Candidate": "DINESH TRIVEDI",
+   "Constituency": "BARRACKPUR",
+   "Party": "AITC",
+   "Expenditure":  4257180
+ },
+ {
+   "Sno": 79,
+   "Candidate": "IDRIS ALI",
+   "Constituency": "BASIRHAT",
+   "Party": "AITC",
+   "Expenditure":  5635150
+ },
+ {
+   "Sno": 80,
+   "Candidate": "DINESH KASHYAP",
+   "Constituency": "BASTAR",
+   "Party": "BJP",
+   "Expenditure":  4518888
+ },
+ {
+   "Sno": 81,
+   "Candidate": "HARISH CHANDRA",
+   "Constituency": "BASTI",
+   "Party": "BJP",
+   "Expenditure":  3032753
+ },
+ {
+   "Sno": 82,
+   "Candidate": "HARSIMRAT KAUR BADAL",
+   "Constituency": "BATHINDA",
+   "Party": "SAD",
+   "Expenditure":  5228950
+ },
+ {
+   "Sno": 83,
+   "Candidate": "BHOLA SINGH",
+   "Constituency": "BEGUSARAI",
+   "Party": "BJP",
+   "Expenditure":  3094184
+ },
+ {
+   "Sno": 84,
+   "Candidate": "SURESH ANGADI",
+   "Constituency": "BELGAUM",
+   "Party": "BJP",
+   "Expenditure":  3802865
+ },
+ {
+   "Sno": 85,
+   "Candidate": "B SREERAMULU",
+   "Constituency": "BELLARY",
+   "Party": "BJP",
+   "Expenditure":  4996069
+ },
+ {
+   "Sno": 86,
+   "Candidate": "SIDHANT MOHAPATRA",
+   "Constituency": "BERHAMPUR",
+   "Party": "BJD",
+   "Expenditure":  1700382
+ },
+ {
+   "Sno": 87,
+   "Candidate": "JYOTI DHURVE",
+   "Constituency": "BETUL",
+   "Party": "BJP",
+   "Expenditure":  3572185
+ },
+ {
+   "Sno": 88,
+   "Candidate": "VIRENDRA SINGH",
+   "Constituency": "BHADOHI",
+   "Party": "BJP",
+   "Expenditure":  3775229
+ },
+ {
+   "Sno": 89,
+   "Candidate": "ARJUN CHARAN SETHI",
+   "Constituency": "BHADRAK",
+   "Party": "BJD",
+   "Expenditure":  2045021
+ },
+ {
+   "Sno": 90,
+   "Candidate": "SHAILESH KUMAR URPH BULO MANDAL",
+   "Constituency": "BHAGALPUR",
+   "Party": "RJD",
+   "Expenditure":  3731236
+ },
+ {
+   "Sno": 91,
+   "Candidate": "NANABHAU FALGUNRAO PATOLE",
+   "Constituency": "BHANDARA-GONDIYA",
+   "Party": "BJP",
+   "Expenditure":  3448188
+ },
+ {
+   "Sno": 92,
+   "Candidate": "BAHADUR SINGH",
+   "Constituency": "BHARATPUR",
+   "Party": "BJP",
+   "Expenditure":  4615400
+ },
+ {
+   "Sno": 93,
+   "Candidate": "MANSUKHBHAI DHANJIBHAI VASAVA",
+   "Constituency": "BHARUCH",
+   "Party": "BJP",
+   "Expenditure":  6731280
+ },
+ {
+   "Sno": 94,
+   "Candidate": "SHYAL BHARTIBEN DHIRUBHAI",
+   "Constituency": "BHAVNAGAR",
+   "Party": "BJP",
+   "Expenditure":  5096678
+ },
+ {
+   "Sno": 95,
+   "Candidate": "SUBHASH CHANDRA BAHERIA",
+   "Constituency": "BHILWARA",
+   "Party": "BJP",
+   "Expenditure":  3377931
+ },
+ {
+   "Sno": 96,
+   "Candidate": "BHAGIRATH PRASAD",
+   "Constituency": "BHIND",
+   "Party": "BJP",
+   "Expenditure":  3195053
+ },
+ {
+   "Sno": 97,
+   "Candidate": "KAPIL MORESHWAR PATIL",
+   "Constituency": "BHIWANDI",
+   "Party": "BJP",
+   "Expenditure":  6081510
+ },
+ {
+   "Sno": 98,
+   "Candidate": "DHARAMBIR",
+   "Constituency": "BHIWANI-MAHENDRAGARH",
+   "Party": "BJP",
+   "Expenditure":  2540762
+ },
+ {
+   "Sno": 99,
+   "Candidate": "DR. NARSAIAH BOORA",
+   "Constituency": "BHONGIR",
+   "Party": "TRS",
+   "Expenditure":  3149937
+ },
+ {
+   "Sno": 100,
+   "Candidate": "ALOK SANJAR",
+   "Constituency": "BHOPAL",
+   "Party": "BJP",
+   "Expenditure":  4560296
+ },
+ {
+   "Sno": 101,
+   "Candidate": "PRASANNA KUMAR PATASANI,",
+   "Constituency": "BHUBANESWAR",
+   "Party": "BJD",
+   "Expenditure":  1968801
+ },
+ {
+   "Sno": 102,
+   "Candidate": "BHAGWANTH",
+   "Constituency": "BIDAR",
+   "Party": "BJP",
+   "Expenditure":  4125745
+ },
+ {
+   "Sno": 103,
+   "Candidate": "RAMESH JIGAJINAGI",
+   "Constituency": "BIJAPUR",
+   "Party": "BJP",
+   "Expenditure":  4065458
+ },
+ {
+   "Sno": 104,
+   "Candidate": "KUNWAR BHARTENDRA",
+   "Constituency": "BIJNOR",
+   "Party": "BJP",
+   "Expenditure":  3531059
+ },
+ {
+   "Sno": 105,
+   "Candidate": "ARJUN RAM MEGHWAL",
+   "Constituency": "BIKANER",
+   "Party": "BJP",
+   "Expenditure":  5054141
+ },
+ {
+   "Sno": 106,
+   "Candidate": "Lakhanlal Sau S/o Kalyan Lal Sahu",
+   "Constituency": "BILASPUR",
+   "Party": "BJP",
+   "Expenditure":  4749544
+ },
+ {
+   "Sno": 107,
+   "Candidate": "SATABDI ROY(BANERJEE)",
+   "Constituency": "BIRBHUM",
+   "Party": "AITC",
+   "Expenditure":  4938393
+ },
+ {
+   "Sno": 108,
+   "Candidate": "SAUMITRA KHAN",
+   "Constituency": "BISHNUPUR",
+   "Party": "AITC",
+   "Expenditure":  4556442
+ },
+ {
+   "Sno": 109,
+   "Candidate": "KALIKESH NARAYAN SINGH DEO",
+   "Constituency": "BOLANGIR",
+   "Party": "BJD",
+   "Expenditure":  3615198
+ },
+ {
+   "Sno": 110,
+   "Candidate": "ANUPAM HAZRA",
+   "Constituency": "BOLPUR",
+   "Party": "AITC",
+   "Expenditure":  4567288
+ },
+ {
+   "Sno": 111,
+   "Candidate": "Dr. Bhola Singh",
+   "Constituency": "BULANDSHAHR",
+   "Party": "BJP",
+   "Expenditure":  3348367
+ },
+ {
+   "Sno": 112,
+   "Candidate": "JADHAV PRATAPRAO GANPATRAO",
+   "Constituency": "BULDHANA",
+   "Party": "SHS",
+   "Expenditure":  3891850
+ },
+ {
+   "Sno": 113,
+   "Candidate": "ASHWINI KUMAR CHOUBEY",
+   "Constituency": "BUXAR",
+   "Party": "BJP",
+   "Expenditure":  4557948
+ },
+ {
+   "Sno": 114,
+   "Candidate": "INNOCENT",
+   "Constituency": "CHALAKUDY",
+   "Party": "IND",
+   "Expenditure":  2909791
+ },
+ {
+   "Sno": 115,
+   "Candidate": "R. DHRUVANARAYANA",
+   "Constituency": "CHAMARAJANAGAR",
+   "Party": "INC",
+   "Expenditure":  4941134
+ },
+ {
+   "Sno": 116,
+   "Candidate": "MAHENDRA NATH",
+   "Constituency": "CHANDAULI",
+   "Party": "BJP",
+   "Expenditure":  5478787
+ },
+ {
+   "Sno": 117,
+   "Candidate": "Smt. Kirron Kher",
+   "Constituency": "CHANDIGARH",
+   "Party": "BJP",
+   "Expenditure":  2947779
+ },
+ {
+   "Sno": 118,
+   "Candidate": "Dr. Harsh Vardhan",
+   "Constituency": "CHANDNI CHOWK",
+   "Party": "BJP",
+   "Expenditure":  4652465
+ },
+ {
+   "Sno": 119,
+   "Candidate": "AHIR HANSRAJ GANGARAM",
+   "Constituency": "CHANDRAPUR",
+   "Party": "BJP",
+   "Expenditure":  5718392
+ },
+ {
+   "Sno": 120,
+   "Candidate": "SUNIL KUMAR SINGH",
+   "Constituency": "CHATRA",
+   "Party": "BJP",
+   "Expenditure":  2778976
+ },
+ {
+   "Sno": 121,
+   "Candidate": "S.R. VIJAYAKUMAR",
+   "Constituency": "CHENNAI CENTRAL",
+   "Party": "AIADMK",
+   "Expenditure":  2117904
+ },
+ {
+   "Sno": 122,
+   "Candidate": "VENKATESH BABU .T.G",
+   "Constituency": "CHENNAI NORTH",
+   "Party": "AIADMK",
+   "Expenditure":  2802979
+ },
+ {
+   "Sno": 123,
+   "Candidate": "DR. J. JAYAVARDHAN",
+   "Constituency": "CHENNAI SOUTH",
+   "Party": "AIADMK",
+   "Expenditure":  4520640
+ },
+ {
+   "Sno": 124,
+   "Candidate": "KONDA VISHWESHWAR REDDY",
+   "Constituency": "CHEVELLA",
+   "Party": "TRS",
+   "Expenditure":  5243504
+ },
+ {
+   "Sno": 125,
+   "Candidate": "KAMAL NATH",
+   "Constituency": "CHHINDWARA",
+   "Party": "INC",
+   "Expenditure":  4655389
+ },
+ {
+   "Sno": 126,
+   "Candidate": "RATHWA RAMSINGBHAI PATALBHAI",
+   "Constituency": "CHHOTA UDAIPUR",
+   "Party": "BJP",
+   "Expenditure":  4716166
+ },
+ {
+   "Sno": 127,
+   "Candidate": "M.CHANDRAKASI",
+   "Constituency": "CHIDAMBARAM",
+   "Party": "AIADMK",
+   "Expenditure":  3427925
+ },
+ {
+   "Sno": 128,
+   "Candidate": "M VEERAPPA MOILY",
+   "Constituency": "CHIKKBALLAPUR",
+   "Party": "INC",
+   "Expenditure":  3248462
+ },
+ {
+   "Sno": 129,
+   "Candidate": "PRAKASH HUKKERI",
+   "Constituency": "CHIKKODI",
+   "Party": "INC",
+   "Expenditure":  3955297
+ },
+ {
+   "Sno": 130,
+   "Candidate": "B.N.CHANDRAPPA",
+   "Constituency": "CHITRADURGA",
+   "Party": "INC",
+   "Expenditure":  4779763
+ },
+ {
+   "Sno": 131,
+   "Candidate": "NARAMALLI SIVAPRASAD",
+   "Constituency": "CHITTOOR",
+   "Party": "TDP",
+   "Expenditure":  2380040
+ },
+ {
+   "Sno": 132,
+   "Candidate": "CHANDRA PRAKASH",
+   "Constituency": "CHITTORGARH",
+   "Party": "BJP",
+   "Expenditure":  3190664
+ },
+ {
+   "Sno": 133,
+   "Candidate": "RAHUL KASWAN",
+   "Constituency": "CHURU",
+   "Party": "BJP",
+   "Expenditure":  5934821
+ },
+ {
+   "Sno": 134,
+   "Candidate": "NAGARAJAN, P.",
+   "Constituency": "COIMBATORE",
+   "Party": "AIADMK",
+   "Expenditure":  5812351
+ },
+ {
+   "Sno": 135,
+   "Candidate": "RENUKA SINHA",
+   "Constituency": "COOCHBEHAR",
+   "Party": "AITC",
+   "Expenditure":  4488915
+ },
+ {
+   "Sno": 136,
+   "Candidate": "A.ARUNMOZHITHEVAN",
+   "Constituency": "CUDDALORE",
+   "Party": "AIADMK",
+   "Expenditure":  1754137
+ },
+ {
+   "Sno": 137,
+   "Candidate": "BHARTRUHARI MAHATAB",
+   "Constituency": "CUTTACK",
+   "Party": "BJD",
+   "Expenditure":  1709001
+ },
+ {
+   "Sno": 138,
+   "Candidate": "Natubhai G. Patel",
+   "Constituency": "DADRA & NAGAR HAVELI",
+   "Party": "BJP",
+   "Expenditure":  4364301
+ },
+ {
+   "Sno": 139,
+   "Candidate": "BHABHOR JASVANTSINH SUMANBHAI",
+   "Constituency": "DAHOD",
+   "Party": "BJP",
+   "Expenditure":  4294617
+ },
+ {
+   "Sno": 140,
+   "Candidate": "Nalin Kumar Katil",
+   "Constituency": "DAKSHINA KANNADA",
+   "Party": "BJP",
+   "Expenditure":  4821472
+ },
+ {
+   "Sno": 141,
+   "Candidate": "PATEL LALUBHAI BABUBHAI",
+   "Constituency": "DAMAN & DIU",
+   "Party": "BJP",
+   "Expenditure":  2303850
+ },
+ {
+   "Sno": 142,
+   "Candidate": "PRAHALAD SINGH PATEL",
+   "Constituency": "DAMOH",
+   "Party": "BJP",
+   "Expenditure":  3300734
+ },
+ {
+   "Sno": 143,
+   "Candidate": "KIRTI AZAD",
+   "Constituency": "DARBHANGA",
+   "Party": "BJP",
+   "Expenditure":  5126260
+ },
+ {
+   "Sno": 144,
+   "Candidate": "SURENDRAJEET SINGH AHLUWALIA",
+   "Constituency": "DARJEELING",
+   "Party": "BJP",
+   "Expenditure":  5901936
+ },
+ {
+   "Sno": 145,
+   "Candidate": "HARISH CHANDRA",
+   "Constituency": "DAUSA",
+   "Party": "BJP",
+   "Expenditure":  3866655
+ },
+ {
+   "Sno": 146,
+   "Candidate": "G.M. Siddeshwara",
+   "Constituency": "DAVANAGERE",
+   "Party": "BJP",
+   "Expenditure":  3786976
+ },
+ {
+   "Sno": 147,
+   "Candidate": "KALRAJ MISHRA",
+   "Constituency": "DEORIA",
+   "Party": "BJP",
+   "Expenditure":  3074161
+ },
+ {
+   "Sno": 148,
+   "Candidate": "MANOHAR UNTWAL",
+   "Constituency": "DEWAS",
+   "Party": "BJP",
+   "Expenditure":  1982979
+ },
+ {
+   "Sno": 149,
+   "Candidate": "PASHUPATI NATH SINGH",
+   "Constituency": "DHANBAD",
+   "Party": "BJP",
+   "Expenditure":  2802578
+ },
+ {
+   "Sno": 150,
+   "Candidate": "SAVITRI THAKUR",
+   "Constituency": "DHAR",
+   "Party": "BJP",
+   "Expenditure":  4174556
+ },
+ {
+   "Sno": 151,
+   "Candidate": "ANBUMANI RAMADOSS",
+   "Constituency": "DHARMAPURI",
+   "Party": "PMK",
+   "Expenditure":  1059142
+ },
+ {
+   "Sno": 152,
+   "Candidate": "PRALHAD JOSHI",
+   "Constituency": "DHARWAD",
+   "Party": "BJP",
+   "Expenditure":  4776479
+ },
+ {
+   "Sno": 153,
+   "Candidate": "REKHA",
+   "Constituency": "DHAURAHRA",
+   "Party": "BJP",
+   "Expenditure":  4819927
+ },
+ {
+   "Sno": 154,
+   "Candidate": "TATHAGATA SATPATHY",
+   "Constituency": "DHENKANAL",
+   "Party": "BJD",
+   "Expenditure":  5687731
+ },
+ {
+   "Sno": 155,
+   "Candidate": "BADRUDDIN AJMAL",
+   "Constituency": "DHUBRI",
+   "Party": "AIUDF",
+   "Expenditure":  4749974
+ },
+ {
+   "Sno": 156,
+   "Candidate": "BHAMARE SUBHASH RAMRAO",
+   "Constituency": "DHULE",
+   "Party": "BJP",
+   "Expenditure":  3473111
+ },
+ {
+   "Sno": 157,
+   "Candidate": "ABHISHEK BANERJEE",
+   "Constituency": "DIAMOND HARBOUR",
+   "Party": "AITC",
+   "Expenditure":  4014752
+ },
+ {
+   "Sno": 158,
+   "Candidate": "Rameshwar Teli",
+   "Constituency": "DIBRUGARH",
+   "Party": "BJP",
+   "Expenditure":  2121814
+ },
+ {
+   "Sno": 159,
+   "Candidate": "UDHAYA KUMAR .M",
+   "Constituency": "DINDIGUL",
+   "Party": "AIADMK",
+   "Expenditure":  4057260
+ },
+ {
+   "Sno": 160,
+   "Candidate": "CHAVAN HARISHCHANDRA DEORAM",
+   "Constituency": "DINDORI",
+   "Party": "BJP",
+   "Expenditure":  3176036
+ },
+ {
+   "Sno": 161,
+   "Candidate": "JAGDAMBIKA PAL",
+   "Constituency": "DOMARIYAGANJ",
+   "Party": "BJP",
+   "Expenditure":  4014442
+ },
+ {
+   "Sno": 162,
+   "Candidate": "SAUGATA ROY",
+   "Constituency": "DUM DUM",
+   "Party": "AITC",
+   "Expenditure":  6553399
+ },
+ {
+   "Sno": 163,
+   "Candidate": "SHIBU SOREN",
+   "Constituency": "DUMKA",
+   "Party": "JMM",
+   "Expenditure":  3951666
+ },
+ {
+   "Sno": 164,
+   "Candidate": "TAMRADWAJ SAHU",
+   "Constituency": "DURG",
+   "Party": "INC",
+   "Expenditure":  2656006
+ },
+ {
+   "Sno": 165,
+   "Candidate": "Mahesh Giri",
+   "Constituency": "EAST DELHI",
+   "Party": "BJP",
+   "Expenditure":  4006826
+ },
+ {
+   "Sno": 166,
+   "Candidate": "VENKATESWARA RAO MAGANTI",
+   "Constituency": "ELURU",
+   "Party": "TDP",
+   "Expenditure":  2872605
+ },
+ {
+   "Sno": 167,
+   "Candidate": "K.V. THOMAS",
+   "Constituency": "ERNAKULAM",
+   "Party": "INC",
+   "Expenditure":  5137855
+ },
+ {
+   "Sno": 168,
+   "Candidate": "SELVAKUMARA CHINNAYAN S",
+   "Constituency": "ERODE",
+   "Party": "AIADMK",
+   "Expenditure":  1700748
+ },
+ {
+   "Sno": 169,
+   "Candidate": "RAJVIR SINGH",
+   "Constituency": "ETAH",
+   "Party": "BJP",
+   "Expenditure":  4713150
+ },
+ {
+   "Sno": 170,
+   "Candidate": "ASHOK KUMAR DOHAREY",
+   "Constituency": "ETAWAH",
+   "Party": "BJP",
+   "Expenditure":  3323576
+ },
+ {
+   "Sno": 171,
+   "Candidate": "LALLU SINGH",
+   "Constituency": "FAIZABAD",
+   "Party": "BJP",
+   "Expenditure":  4797920
+ },
+ {
+   "Sno": 172,
+   "Candidate": "KRISHAN PAL",
+   "Constituency": "FARIDABAD",
+   "Party": "BJP",
+   "Expenditure":  3322657
+ },
+ {
+   "Sno": 173,
+   "Candidate": "PROF. SADHU SINGH",
+   "Constituency": "FARIDKOT",
+   "Party": "AAP",
+   "Expenditure":  3076041
+ },
+ {
+   "Sno": 174,
+   "Candidate": "MUKESH RAJPUT",
+   "Constituency": "FARRUKHABAD",
+   "Party": "BJP",
+   "Expenditure":  4321014
+ },
+ {
+   "Sno": 175,
+   "Candidate": "HARINDER SINGH KHALSA",
+   "Constituency": "FATEHGARH SAHIB",
+   "Party": "AAP",
+   "Expenditure":  2864666
+ },
+ {
+   "Sno": 176,
+   "Candidate": "SADHAVI NIRANJAN JYOTI",
+   "Constituency": "FATEHPUR",
+   "Party": "BJP",
+   "Expenditure":  4524481
+ },
+ {
+   "Sno": 177,
+   "Candidate": "BABULAL",
+   "Constituency": "FATEHPUR SIKRI",
+   "Party": "BJP",
+   "Expenditure":  2527318
+ },
+ {
+   "Sno": 178,
+   "Candidate": "AKSHAY YADAV",
+   "Constituency": "FIROZABAD",
+   "Party": "SP",
+   "Expenditure":  5482489
+ },
+ {
+   "Sno": 179,
+   "Candidate": "Sher Singh Ghubaya",
+   "Constituency": "FIROZPUR",
+   "Party": "SAD",
+   "Expenditure":  4599995
+ },
+ {
+   "Sno": 180,
+   "Candidate": "ASHOK MAHADEORAO NETE",
+   "Constituency": "GADCHIROLI-CHIMUR",
+   "Party": "BJP",
+   "Expenditure":  2525320
+ },
+ {
+   "Sno": 181,
+   "Candidate": "LAL KRISHNA ADVANI",
+   "Constituency": "GANDHINAGAR",
+   "Party": "BJP",
+   "Expenditure":  3413079
+ },
+ {
+   "Sno": 182,
+   "Candidate": "NIHALCHAND",
+   "Constituency": "GANGANAGAR",
+   "Party": "BJP",
+   "Expenditure":  4294542
+ },
+ {
+   "Sno": 183,
+   "Candidate": "(MAJ GEN (RETD.) ) BHUWAN CHANDRA KHANDURI (AVSM)",
+   "Constituency": "GARHWAL",
+   "Party": "BJP",
+   "Expenditure":  3867703
+ },
+ {
+   "Sno": 184,
+   "Candidate": "Smt. Bijoya Chakraborty",
+   "Constituency": "GAUHATI",
+   "Party": "BJP",
+   "Expenditure":  4906737
+ },
+ {
+   "Sno": 185,
+   "Candidate": "Mahesh Sharma",
+   "Constituency": "GAUTAM BUDHHA NAGAR",
+   "Party": "BJP",
+   "Expenditure":  3537669
+ },
+ {
+   "Sno": 186,
+   "Candidate": "Hari Manjhi",
+   "Constituency": "GAYA",
+   "Party": "BJP",
+   "Expenditure":  3765110
+ },
+ {
+   "Sno": 187,
+   "Candidate": "DEEPAK ADHIKARI (DEV)",
+   "Constituency": "GHATAL",
+   "Party": "AITC",
+   "Expenditure":  5728143
+ },
+ {
+   "Sno": 188,
+   "Candidate": "VIJAY KUMAR SINGH",
+   "Constituency": "GHAZIABAD",
+   "Party": "BJP",
+   "Expenditure":  4455388
+ },
+ {
+   "Sno": 189,
+   "Candidate": "MANOJ SINHA",
+   "Constituency": "GHAZIPUR",
+   "Party": "BJP",
+   "Expenditure":  2991312
+ },
+ {
+   "Sno": 190,
+   "Candidate": "Harinarayan Rajbhar",
+   "Constituency": "GHOSI",
+   "Party": "BJP",
+   "Expenditure":  3541000
+ },
+ {
+   "Sno": 191,
+   "Candidate": "RAVINDRA KUMAR PANDEY",
+   "Constituency": "GIRIDIH",
+   "Party": "BJP",
+   "Expenditure":  3689493
+ },
+ {
+   "Sno": 192,
+   "Candidate": "NISHIKANT DUBEY",
+   "Constituency": "GODDA",
+   "Party": "BJP",
+   "Expenditure":  3876032
+ },
+ {
+   "Sno": 193,
+   "Candidate": "KIRTI VARDHAN SINGH",
+   "Constituency": "GONDA",
+   "Party": "BJP",
+   "Expenditure":  4603442
+ },
+ {
+   "Sno": 194,
+   "Candidate": "JANAK RAM",
+   "Constituency": "GOPALGANJ",
+   "Party": "BJP",
+   "Expenditure":  4921183
+ },
+ {
+   "Sno": 195,
+   "Candidate": "ADITYANATH",
+   "Constituency": "GORAKHPUR",
+   "Party": "BJP",
+   "Expenditure":  3828373
+ },
+ {
+   "Sno": 196,
+   "Candidate": "MALLIKARJUN KHARGE",
+   "Constituency": "GULBARGA",
+   "Party": "INC",
+   "Expenditure":  2646847
+ },
+ {
+   "Sno": 197,
+   "Candidate": "JYOTIRADITYA M. SCINDIA",
+   "Constituency": "GUNA",
+   "Party": "INC",
+   "Expenditure":  5156162
+ },
+ {
+   "Sno": 198,
+   "Candidate": "JAYADEV GALLA",
+   "Constituency": "GUNTUR",
+   "Party": "TDP",
+   "Expenditure":  5356255
+ },
+ {
+   "Sno": 199,
+   "Candidate": "VINOD KHANNA",
+   "Constituency": "GURDASPUR",
+   "Party": "BJP",
+   "Expenditure":  6395916
+ },
+ {
+   "Sno": 200,
+   "Candidate": "INDERJIT SINGH",
+   "Constituency": "GURGAON",
+   "Party": "BJP",
+   "Expenditure":  3705824
+ },
+ {
+   "Sno": 201,
+   "Candidate": "NARENDRA SINGH TOMAR",
+   "Constituency": "GWALIOR",
+   "Party": "BJP",
+   "Expenditure":  3314590
+ },
+ {
+   "Sno": 202,
+   "Candidate": "RAM VILAS PASWAN",
+   "Constituency": "HAJIPUR",
+   "Party": "LJP",
+   "Expenditure":  5320653
+ },
+ {
+   "Sno": 203,
+   "Candidate": "KUNWAR PUSHPENDRA SINGH",
+   "Constituency": "HAMIRPUR",
+   "Party": "BJP",
+   "Expenditure":  3439577
+ },
+ {
+   "Sno": 204,
+   "Candidate": "ANURAG SINGH THAKUR",
+   "Constituency": "HAMIRPUR",
+   "Party": "BJP",
+   "Expenditure":  4897633
+ },
+ {
+   "Sno": 205,
+   "Candidate": "ANSHUL VERMA",
+   "Constituency": "HARDOI",
+   "Party": "BJP",
+   "Expenditure":  4562333
+ },
+ {
+   "Sno": 206,
+   "Candidate": "RAMESH POKHARIYAL NISHANK",
+   "Constituency": "HARDWAR",
+   "Party": "BJP",
+   "Expenditure":  4387699
+ },
+ {
+   "Sno": 207,
+   "Candidate": "H.D. DEVEGOWDA",
+   "Constituency": "HASSAN",
+   "Party": "JD(S)",
+   "Expenditure":  3451810
+ },
+ {
+   "Sno": 208,
+   "Candidate": "RAJESH KUMAR",
+   "Constituency": "HATHRAS",
+   "Party": "BJP",
+   "Expenditure":  2783777
+ },
+ {
+   "Sno": 209,
+   "Candidate": "RAJU SHETTY",
+   "Constituency": "HATKANANGLE",
+   "Party": "Swabhimani Paksha",
+   "Expenditure":  5238301
+ },
+ {
+   "Sno": 210,
+   "Candidate": "UDASI SHIVAKUMAR CHANNABASAPPA",
+   "Constituency": "HAVERI",
+   "Party": "BJP",
+   "Expenditure":  5863347
+ },
+ {
+   "Sno": 211,
+   "Candidate": "JAYANT SINHA",
+   "Constituency": "HAZARIBAGH",
+   "Party": "BJP",
+   "Expenditure":  5394656
+ },
+ {
+   "Sno": 212,
+   "Candidate": "KRISTAPPA NIMMALA",
+   "Constituency": "HINDUPUR",
+   "Party": "TDP",
+   "Expenditure":  2113256
+ },
+ {
+   "Sno": 213,
+   "Candidate": "RAJEEV SHANKARRAO SATAV",
+   "Constituency": "HINGOLI",
+   "Party": "INC",
+   "Expenditure":  4917723
+ },
+ {
+   "Sno": 214,
+   "Candidate": "Dushyant Chautala",
+   "Constituency": "HISAR",
+   "Party": "INLD",
+   "Expenditure":  3566081
+ },
+ {
+   "Sno": 215,
+   "Candidate": "RATNA DE",
+   "Constituency": "HOOGHLY",
+   "Party": "AITC",
+   "Expenditure":  4786911
+ },
+ {
+   "Sno": 216,
+   "Candidate": "UDAY PRATAP SINGH",
+   "Constituency": "HOSHANGABAD",
+   "Party": "BJP",
+   "Expenditure":  2698710
+ },
+ {
+   "Sno": 217,
+   "Candidate": "Vijay Sampla",
+   "Constituency": "HOSHIARPUR",
+   "Party": "BJP",
+   "Expenditure":  4559399
+ },
+ {
+   "Sno": 218,
+   "Candidate": "PRASUN BANERJEE",
+   "Constituency": "HOWRAH",
+   "Party": "AITC",
+   "Expenditure":  5462789
+ },
+ {
+   "Sno": 219,
+   "Candidate": "ASADUDDIN OWAISI",
+   "Constituency": "HYDERABAD",
+   "Party": "All India Majlis-E-Ittehadul Muslimeen",
+   "Expenditure":  1104462
+ },
+ {
+   "Sno": 220,
+   "Candidate": "ADV.JOICE GEORGE",
+   "Constituency": "IDUKKI",
+   "Party": "IND",
+   "Expenditure":  5767958
+ },
+ {
+   "Sno": 221,
+   "Candidate": "SUMITRA MAHAJAN",
+   "Constituency": "INDORE",
+   "Party": "BJP",
+   "Expenditure":  3501385
+ },
+ {
+   "Sno": 222,
+   "Candidate": "DR. THOKCHOM MEINYA",
+   "Constituency": "INNER MANIPUR",
+   "Party": "INC",
+   "Expenditure":  1254939
+ },
+ {
+   "Sno": 223,
+   "Candidate": "RAKESH SINGH URF GHANSHYAM SINGH",
+   "Constituency": "JABALPUR",
+   "Party": "BJP",
+   "Expenditure":  3893044
+ },
+ {
+   "Sno": 224,
+   "Candidate": "SUGATA BOSE",
+   "Constituency": "JADAVPUR",
+   "Party": "AITC",
+   "Expenditure":  3865608
+ },
+ {
+   "Sno": 225,
+   "Candidate": "DR. ARUN KUMAR",
+   "Constituency": "JAHANABAD",
+   "Party": "Rashtriya Lok Samta Party",
+   "Expenditure":  5294992
+ },
+ {
+   "Sno": 226,
+   "Candidate": "RAMCHARAN BOHARA",
+   "Constituency": "JAIPUR",
+   "Party": "BJP",
+   "Expenditure":  4917149
+ },
+ {
+   "Sno": 227,
+   "Candidate": "RAJYAVARDHAN SINGH RATHORE",
+   "Constituency": "JAIPUR RURAL",
+   "Party": "BJP",
+   "Expenditure":  4573317
+ },
+ {
+   "Sno": 228,
+   "Candidate": "RITA TARAI",
+   "Constituency": "JAJPUR",
+   "Party": "BJD",
+   "Expenditure":  2613918
+ },
+ {
+   "Sno": 229,
+   "Candidate": "SANTOKH SINGH CHAUDHARY",
+   "Constituency": "JALANDHAR",
+   "Party": "INC",
+   "Expenditure":  3532385
+ },
+ {
+   "Sno": 230,
+   "Candidate": "BHANU PRATAP SINGH",
+   "Constituency": "JALAUN",
+   "Party": "BJP",
+   "Expenditure":  5463048
+ },
+ {
+   "Sno": 231,
+   "Candidate": "PATIL ASHOK TAPIRAM",
+   "Constituency": "JALGAON",
+   "Party": "BJP",
+   "Expenditure":  5590316
+ },
+ {
+   "Sno": 232,
+   "Candidate": "DANVE RAOSAHEB DADARAO",
+   "Constituency": "JALNA",
+   "Party": "BJP",
+   "Expenditure":  4462477
+ },
+ {
+   "Sno": 233,
+   "Candidate": "DEVJI PATEL",
+   "Constituency": "JALORE",
+   "Party": "BJP",
+   "Expenditure":  5452370
+ },
+ {
+   "Sno": 234,
+   "Candidate": "BIJOY CHANDRA BARMAN",
+   "Constituency": "JALPAIGURI",
+   "Party": "AITC",
+   "Expenditure":  3314002
+ },
+ {
+   "Sno": 235,
+   "Candidate": "JUGAL KISHORE",
+   "Constituency": "JAMMU",
+   "Party": "BJP",
+   "Expenditure":  2026000
+ },
+ {
+   "Sno": 236,
+   "Candidate": "MAADAM POONAMBEN HEMATBHAI",
+   "Constituency": "JAMNAGAR",
+   "Party": "BJP",
+   "Expenditure":  4673514
+ },
+ {
+   "Sno": 237,
+   "Candidate": "BIDYUT BARAN MAHATO",
+   "Constituency": "JAMSHEDPUR",
+   "Party": "BJP",
+   "Expenditure":  4523885
+ },
+ {
+   "Sno": 238,
+   "Candidate": "Chirag Kumar Paswan",
+   "Constituency": "JAMUI",
+   "Party": "LJP",
+   "Expenditure":  2601091
+ },
+ {
+   "Sno": 239,
+   "Candidate": "ABHIJIT MUKHERJEE",
+   "Constituency": "JANGIPUR",
+   "Party": "INC",
+   "Expenditure":  2101239
+ },
+ {
+   "Sno": 240,
+   "Candidate": "Smt. Kamla Patle",
+   "Constituency": "JANJGIR-CHAMPA",
+   "Party": "BJP",
+   "Expenditure":  4027909
+ },
+ {
+   "Sno": 241,
+   "Candidate": "KRISHNA PRATAP",
+   "Constituency": "JAUNPUR",
+   "Party": "BJP",
+   "Expenditure":  5116721
+ },
+ {
+   "Sno": 242,
+   "Candidate": "PRATIMA MONDAL",
+   "Constituency": "JAYNAGAR",
+   "Party": "AITC",
+   "Expenditure":  4365885
+ },
+ {
+   "Sno": 243,
+   "Candidate": "DUSHYANT",
+   "Constituency": "JHALAWAR-BARAN",
+   "Party": "BJP",
+   "Expenditure":  5266964
+ },
+ {
+   "Sno": 244,
+   "Candidate": "BIRENDRA KUMAR CHAUDHARY",
+   "Constituency": "JHANJHARPUR",
+   "Party": "BJP",
+   "Expenditure":  4611608
+ },
+ {
+   "Sno": 245,
+   "Candidate": "UMA BHARTI",
+   "Constituency": "JHANSI",
+   "Party": "BJP",
+   "Expenditure":  5964640
+ },
+ {
+   "Sno": 246,
+   "Candidate": "UMA SAREN",
+   "Constituency": "JHARGRAM",
+   "Party": "AITC",
+   "Expenditure":  3319250
+ },
+ {
+   "Sno": 247,
+   "Candidate": "SANTOSH AHLAWAT",
+   "Constituency": "JHUNJHUNU",
+   "Party": "BJP",
+   "Expenditure":  4982843
+ },
+ {
+   "Sno": 248,
+   "Candidate": "GAJENDRASINGH SHEKHAWAT",
+   "Constituency": "JODHPUR",
+   "Party": "BJP",
+   "Expenditure":  4927063
+ },
+ {
+   "Sno": 249,
+   "Candidate": "KAMAKHYA PRASAD TASA",
+   "Constituency": "JORHAT",
+   "Party": "BJP",
+   "Expenditure":  5821089
+ },
+ {
+   "Sno": 250,
+   "Candidate": "CHUDASAMA RAJESHBHAI NARANBHAI",
+   "Constituency": "JUNAGADH",
+   "Party": "BJP",
+   "Expenditure":  4242390
+ },
+ {
+   "Sno": 251,
+   "Candidate": "CHAVDA VINOD LAKHMASHI",
+   "Constituency": "KACHCHH",
+   "Party": "BJP",
+   "Expenditure":  5571638
+ },
+ {
+   "Sno": 252,
+   "Candidate": "AVINASH REDDY YEDUGURI SANDINTI",
+   "Constituency": "KADAPA",
+   "Party": "Yuvajana Sramika Rythu Congress Party",
+   "Expenditure":  1551670
+ },
+ {
+   "Sno": 253,
+   "Candidate": "HUKUM SINGH",
+   "Constituency": "KAIRANA",
+   "Party": "BJP",
+   "Expenditure":  4068383
+ },
+ {
+   "Sno": 254,
+   "Candidate": "BRIJ BHUSAN SHARAN SINGH",
+   "Constituency": "KAISERGANJ",
+   "Party": "BJP",
+   "Expenditure":  5231553
+ },
+ {
+   "Sno": 255,
+   "Candidate": "THOTA VENKATA NARASIMHAM",
+   "Constituency": "KAKINADA",
+   "Party": "TDP",
+   "Expenditure":  2688695
+ },
+ {
+   "Sno": 256,
+   "Candidate": "ARKA KESHARI DEO",
+   "Constituency": "KALAHANDI",
+   "Party": "BJD",
+   "Expenditure":  4458307
+ },
+ {
+   "Sno": 257,
+   "Candidate": "GOURAV GOGOI",
+   "Constituency": "KALIABOR",
+   "Party": "INC",
+   "Expenditure":  8240641
+ },
+ {
+   "Sno": 258,
+   "Candidate": "K. KAMARAJ",
+   "Constituency": "KALLAKURICHI",
+   "Party": "AIADMK",
+   "Expenditure":  2068200
+ },
+ {
+   "Sno": 259,
+   "Candidate": "DR.SHRIKANT EKNATH SHINDE",
+   "Constituency": "KALYAN",
+   "Party": "SHS",
+   "Expenditure":  5134254
+ },
+ {
+   "Sno": 260,
+   "Candidate": "MARAGATHAM K",
+   "Constituency": "KANCHEEPURAM",
+   "Party": "AIADMK",
+   "Expenditure":  4851665
+ },
+ {
+   "Sno": 261,
+   "Candidate": "HEMENDRA CHANDRA SINGH",
+   "Constituency": "KANDHAMAL",
+   "Party": "BJD",
+   "Expenditure":  5298077
+ },
+ {
+   "Sno": 262,
+   "Candidate": "SHANTA KUMAR",
+   "Constituency": "KANGRA",
+   "Party": "BJP",
+   "Expenditure":  5567824
+ },
+ {
+   "Sno": 263,
+   "Candidate": "Vikram Usendi",
+   "Constituency": "KANKER",
+   "Party": "BJP",
+   "Expenditure":  3655114
+ },
+ {
+   "Sno": 264,
+   "Candidate": "DIMPLE YADAV",
+   "Constituency": "KANNAUJ",
+   "Party": "SP",
+   "Expenditure":  3528861
+ },
+ {
+   "Sno": 265,
+   "Candidate": "RADHAKRISHNAN P.",
+   "Constituency": "KANNIYAKUMARI",
+   "Party": "BJP",
+   "Expenditure":  4201680
+ },
+ {
+   "Sno": 266,
+   "Candidate": "P K SREEMATHI",
+   "Constituency": "KANNUR",
+   "Party": "CPI(M)",
+   "Expenditure":  4096957
+ },
+ {
+   "Sno": 267,
+   "Candidate": "DR.MURLI MANOHAR JOSHI",
+   "Constituency": "KANPUR",
+   "Party": "BJP",
+   "Expenditure":  4205388
+ },
+ {
+   "Sno": 268,
+   "Candidate": "SISIR KUMAR ADHIKARI",
+   "Constituency": "KANTHI",
+   "Party": "AITC",
+   "Expenditure":  5575582
+ },
+ {
+   "Sno": 269,
+   "Candidate": "UPENDRA KUSHWAHA",
+   "Constituency": "KARAKAT",
+   "Party": "Rashtriya Lok Samta Party",
+   "Expenditure":  4348142
+ },
+ {
+   "Sno": 270,
+   "Candidate": "MANOJ RAJORIA",
+   "Constituency": "KARAULI-DHOLPUR",
+   "Party": "BJP",
+   "Expenditure":  5927933
+ },
+ {
+   "Sno": 271,
+   "Candidate": "RADHESHYAM BISWAS",
+   "Constituency": "KARIMGANJ",
+   "Party": "AIUDF",
+   "Expenditure":  3708496
+ },
+ {
+   "Sno": 272,
+   "Candidate": "VINOD KUMAR BOINAPALLY",
+   "Constituency": "KARIMNAGAR",
+   "Party": "TRS",
+   "Expenditure":  2410690
+ },
+ {
+   "Sno": 273,
+   "Candidate": "ASHWINI KUMAR",
+   "Constituency": "KARNAL",
+   "Party": "BJP",
+   "Expenditure":  5414386
+ },
+ {
+   "Sno": 274,
+   "Candidate": "THAMBIDURAI.M",
+   "Constituency": "KARUR",
+   "Party": "AIADMK",
+   "Expenditure":  3490684
+ },
+ {
+   "Sno": 275,
+   "Candidate": "P KARUNAKARAN",
+   "Constituency": "KASARAGOD",
+   "Party": "CPI(M)",
+   "Expenditure":  6006456
+ },
+ {
+   "Sno": 276,
+   "Candidate": "SHAH TARIQ ANWAR",
+   "Constituency": "KATIHAR",
+   "Party": "NCP",
+   "Expenditure":  3288238
+ },
+ {
+   "Sno": 277,
+   "Candidate": "VINOD KUMAR",
+   "Constituency": "KAUSHAMBI",
+   "Party": "BJP",
+   "Expenditure":  4060827
+ },
+ {
+   "Sno": 278,
+   "Candidate": "SRI BAIJAYANT PANDA",
+   "Constituency": "KENDRAPARA",
+   "Party": "BJD",
+   "Expenditure":  5314579
+ },
+ {
+   "Sno": 279,
+   "Candidate": "SAKUNTALA LAGURI",
+   "Constituency": "KEONJHAR",
+   "Party": "BJD",
+   "Expenditure":  3802237
+ },
+ {
+   "Sno": 280,
+   "Candidate": "RANJIT SINGH BRAHMPURA",
+   "Constituency": "KHADOOR SAHIB",
+   "Party": "SAD",
+   "Expenditure":  4429980
+ },
+ {
+   "Sno": 281,
+   "Candidate": "CHOUDHARY MAHBOOB ALI KAISER",
+   "Constituency": "KHAGARIA",
+   "Party": "LJP",
+   "Expenditure":  4427528
+ },
+ {
+   "Sno": 282,
+   "Candidate": "NAGENDRA SINGH",
+   "Constituency": "KHAJURAHO",
+   "Party": "BJP",
+   "Expenditure":  3953082
+ },
+ {
+   "Sno": 283,
+   "Candidate": "PONGULETI SRINIVASA REDDY",
+   "Constituency": "KHAMMAM",
+   "Party": "Yuvajana Sramika Rythu Congress Party",
+   "Expenditure":  4758222
+ },
+ {
+   "Sno": 284,
+   "Candidate": "NANDKUMAR SINGH CHOUHAN",
+   "Constituency": "KHANDWA",
+   "Party": "BJP",
+   "Expenditure":  4122421
+ },
+ {
+   "Sno": 285,
+   "Candidate": "SUBHASH PATEL",
+   "Constituency": "KHARGONE",
+   "Party": "BJP",
+   "Expenditure":  1930987
+ },
+ {
+   "Sno": 286,
+   "Candidate": "CHAUHAN DEVUSINH JESINGBHAI",
+   "Constituency": "KHEDA",
+   "Party": "BJP",
+   "Expenditure":  4661992
+ },
+ {
+   "Sno": 287,
+   "Candidate": "AJAY KUMAR",
+   "Constituency": "KHERI",
+   "Party": "BJP",
+   "Expenditure":  4124363
+ },
+ {
+   "Sno": 288,
+   "Candidate": "KARIA MUNDA",
+   "Constituency": "KHUNTI",
+   "Party": "BJP",
+   "Expenditure":  4970229
+ },
+ {
+   "Sno": 289,
+   "Candidate": "MOHAMMAD ASRARUL HAQUE",
+   "Constituency": "KISHANGANJ",
+   "Party": "INC",
+   "Expenditure":  3012628
+ },
+ {
+   "Sno": 290,
+   "Candidate": "Ravindra Kumar Ray",
+   "Constituency": "KODARMA",
+   "Party": "BJP",
+   "Expenditure":  2919702
+ },
+ {
+   "Sno": 291,
+   "Candidate": "NABA KUMAR SARANIA",
+   "Constituency": "KOKRAJHAR",
+   "Party": "IND",
+   "Expenditure":  1491662
+ },
+ {
+   "Sno": 292,
+   "Candidate": "K H MUNIYAPPA",
+   "Constituency": "KOLAR",
+   "Party": "INC",
+   "Expenditure":  3634108
+ },
+ {
+   "Sno": 293,
+   "Candidate": "DHANANJAY BHIMRAO MAHADIK",
+   "Constituency": "KOLHAPUR",
+   "Party": "NCP",
+   "Expenditure":  6034674
+ },
+ {
+   "Sno": 294,
+   "Candidate": "SUBRATA BAKSHI",
+   "Constituency": "KOLKATA DAKSHIN",
+   "Party": "AITC",
+   "Expenditure":  2839843
+ },
+ {
+   "Sno": 295,
+   "Candidate": "SUDIP BANDYOPADHYAY",
+   "Constituency": "KOLKATA UTTAR",
+   "Party": "AITC",
+   "Expenditure":  4833737
+ },
+ {
+   "Sno": 296,
+   "Candidate": "N.K.PREMACHANDRAN",
+   "Constituency": "KOLLAM",
+   "Party": "RSP",
+   "Expenditure":  6121882
+ },
+ {
+   "Sno": 297,
+   "Candidate": "Sanganna A. Karadi",
+   "Constituency": "KOPPAL",
+   "Party": "BJP",
+   "Expenditure":  3183078
+ },
+ {
+   "Sno": 298,
+   "Candidate": "JHINA HIKAKA",
+   "Constituency": "KORAPUT",
+   "Party": "BJD",
+   "Expenditure":  2297160
+ },
+ {
+   "Sno": 299,
+   "Candidate": "Dr. Banshilal Mahato",
+   "Constituency": "KORBA",
+   "Party": "BJP",
+   "Expenditure":  3992344
+ },
+ {
+   "Sno": 300,
+   "Candidate": "OM BIRLA",
+   "Constituency": "KOTA",
+   "Party": "BJP",
+   "Expenditure":  3364982
+ },
+ {
+   "Sno": 301,
+   "Candidate": "JOSE K MANI",
+   "Constituency": "KOTTAYAM",
+   "Party": "KC(M)",
+   "Expenditure":  5038680
+ },
+ {
+   "Sno": 302,
+   "Candidate": "M .K RAGHAVAN",
+   "Constituency": "KOZHIKODE",
+   "Party": "INC",
+   "Expenditure":  5239932
+ },
+ {
+   "Sno": 303,
+   "Candidate": "ASHOK KUMAR.K",
+   "Constituency": "KRISHNAGIRI",
+   "Party": "AIADMK",
+   "Expenditure":  4655459
+ },
+ {
+   "Sno": 304,
+   "Candidate": "TAPAS PAUL",
+   "Constituency": "KRISHNANAGAR",
+   "Party": "AITC",
+   "Expenditure":  4598175
+ },
+ {
+   "Sno": 305,
+   "Candidate": "BUTTA RENUKA",
+   "Constituency": "KURNOOL",
+   "Party": "Yuvajana Sramika Rythu Congress Party",
+   "Expenditure":  1201108
+ },
+ {
+   "Sno": 306,
+   "Candidate": "Rajkumar Saini",
+   "Constituency": "KURUKSHETRA",
+   "Party": "BJP",
+   "Expenditure":  3823283
+ },
+ {
+   "Sno": 307,
+   "Candidate": "RAJESH PANDEY URF GUDDU",
+   "Constituency": "KUSHI NAGAR",
+   "Party": "BJP",
+   "Expenditure":  4515000
+ },
+ {
+   "Sno": 308,
+   "Candidate": "THUPSTAN CHHEWANG",
+   "Constituency": "LADAKH",
+   "Party": "BJP",
+   "Expenditure":  3361768
+ },
+ {
+   "Sno": 309,
+   "Candidate": "SARBANANDA SONOWAL",
+   "Constituency": "LAKHIMPUR",
+   "Party": "BJP",
+   "Expenditure":  5356168
+ },
+ {
+   "Sno": 310,
+   "Candidate": "Mohammed Faizal.P.P",
+   "Constituency": "LAKSHADWEEP",
+   "Party": "NCP",
+   "Expenditure":  1391359
+ },
+ {
+   "Sno": 311,
+   "Candidate": "NEELAM",
+   "Constituency": "LALGANJ",
+   "Party": "BJP",
+   "Expenditure":  4023572
+ },
+ {
+   "Sno": 312,
+   "Candidate": "GAIKWAD SUNIL BALIRAM",
+   "Constituency": "LATUR",
+   "Party": "BJP",
+   "Expenditure":  4536045
+ },
+ {
+   "Sno": 313,
+   "Candidate": "SUDARSHAN BHAGAT",
+   "Constituency": "LOHARDAGA",
+   "Party": "BJP",
+   "Expenditure":  2682368
+ },
+ {
+   "Sno": 314,
+   "Candidate": "RAJ NATH SINGH",
+   "Constituency": "LUCKNOW",
+   "Party": "BJP",
+   "Expenditure":  1776952
+ },
+ {
+   "Sno": 315,
+   "Candidate": "RAVNEET SINGH BITTU",
+   "Constituency": "LUDHIANA",
+   "Party": "INC",
+   "Expenditure":  5081960
+ },
+ {
+   "Sno": 316,
+   "Candidate": "RAM CHARITRA NISHAD",
+   "Constituency": "MACHHLISHAHR",
+   "Party": "BJP",
+   "Expenditure":  5566904
+ },
+ {
+   "Sno": 317,
+   "Candidate": "KONAKALLA NARAYANA RAO",
+   "Constituency": "MACHILIPATNAM",
+   "Party": "TDP",
+   "Expenditure":  3282890
+ },
+ {
+   "Sno": 318,
+   "Candidate": "MOHITE PATIL VIJAYSINH SHANKARRAO",
+   "Constituency": "MADHA",
+   "Party": "NCP",
+   "Expenditure":  5087177
+ },
+ {
+   "Sno": 319,
+   "Candidate": "RAJESH RANJAN URF PAPPU YADAV",
+   "Constituency": "MADHEPURA",
+   "Party": "RJD",
+   "Expenditure":  4733830
+ },
+ {
+   "Sno": 320,
+   "Candidate": "HUKUM DEO NARAYAN YADAV",
+   "Constituency": "MADHUBANI",
+   "Party": "BJP",
+   "Expenditure":  2772143
+ },
+ {
+   "Sno": 321,
+   "Candidate": "R.GOPALAKRISHNAN",
+   "Constituency": "MADURAI",
+   "Party": "AIADMK",
+   "Expenditure":  3072843
+ },
+ {
+   "Sno": 322,
+   "Candidate": "PROF. AZMEERA SEETARAM NAIK",
+   "Constituency": "MAHABUBABAD",
+   "Party": "TRS",
+   "Expenditure":  1574172
+ },
+ {
+   "Sno": 323,
+   "Candidate": "PANKAJ",
+   "Constituency": "MAHARAJGANJ",
+   "Party": "BJP",
+   "Expenditure":  2937379
+ },
+ {
+   "Sno": 324,
+   "Candidate": "Janardan Singh Sigriwal",
+   "Constituency": "MAHARAJGANJ",
+   "Party": "BJP",
+   "Expenditure":  4179928
+ },
+ {
+   "Sno": 325,
+   "Candidate": "CHANDU LAL SAHU (CHANDU BHAIYA) S/o Late Puneen Ram",
+   "Constituency": "MAHASAMUND",
+   "Party": "BJP",
+   "Expenditure":  6100471
+ },
+ {
+   "Sno": 326,
+   "Candidate": "A P JITHENDER REDDY",
+   "Constituency": "MAHBUBNAGAR",
+   "Party": "TRS",
+   "Expenditure":  4316478
+ },
+ {
+   "Sno": 327,
+   "Candidate": "PATEL JAYSHREEBEN KANUBHAI",
+   "Constituency": "MAHESANA",
+   "Party": "BJP",
+   "Expenditure":  2850142
+ },
+ {
+   "Sno": 328,
+   "Candidate": "MULAYAM SINGH YADAV",
+   "Constituency": "MAINPURI",
+   "Party": "SP",
+   "Expenditure":  5202498
+ },
+ {
+   "Sno": 329,
+   "Candidate": "E. AHAMED",
+   "Constituency": "MALAPPURAM",
+   "Party": "IUML",
+   "Expenditure":  6021571
+ },
+ {
+   "Sno": 330,
+   "Candidate": "ABU HASEM KAHN CHOWDHURY",
+   "Constituency": "MALDAHA DAKSHIN",
+   "Party": "INC",
+   "Expenditure":  3959508
+ },
+ {
+   "Sno": 331,
+   "Candidate": "MAUSAM NOOR",
+   "Constituency": "MALDAHA UTTAR",
+   "Party": "INC",
+   "Expenditure":  3328863
+ },
+ {
+   "Sno": 332,
+   "Candidate": "CH.MALLA REDDY",
+   "Constituency": "MALKAJGIRI",
+   "Party": "TDP",
+   "Expenditure":  5122999
+ },
+ {
+   "Sno": 333,
+   "Candidate": "RAM SWAROOP SHARMA",
+   "Constituency": "MANDI",
+   "Party": "BJP",
+   "Expenditure":  5125152
+ },
+ {
+   "Sno": 334,
+   "Candidate": "Faggan Singh Kulaste",
+   "Constituency": "MANDLA",
+   "Party": "BJP",
+   "Expenditure":  3855421
+ },
+ {
+   "Sno": 335,
+   "Candidate": "SUDHIR GUPTA",
+   "Constituency": "MANDSOUR",
+   "Party": "BJP",
+   "Expenditure":  3749734
+ },
+ {
+   "Sno": 336,
+   "Candidate": "C.S.PUTTARAJU",
+   "Constituency": "MANDYA",
+   "Party": "JD(S)",
+   "Expenditure":  5727250
+ },
+ {
+   "Sno": 337,
+   "Candidate": "Ramen Deka",
+   "Constituency": "MANGALDOI",
+   "Party": "BJP",
+   "Expenditure":  1780917
+ },
+ {
+   "Sno": 338,
+   "Candidate": "DEOL HEMA MALINI DHARMENDRA",
+   "Constituency": "MATHURA",
+   "Party": "BJP",
+   "Expenditure":  6335663
+ },
+ {
+   "Sno": 339,
+   "Candidate": "CHOUDHURY MOHAN JATUA",
+   "Constituency": "MATHURAPUR",
+   "Party": "AITC",
+   "Expenditure":  3821118
+ },
+ {
+   "Sno": 340,
+   "Candidate": "BARNE SHRIRANG CHANDU",
+   "Constituency": "MAVAL",
+   "Party": "SHS",
+   "Expenditure":  4279150
+ },
+ {
+   "Sno": 341,
+   "Candidate": "KODIKUNNIL SURESH",
+   "Constituency": "MAVELIKKARA",
+   "Party": "INC",
+   "Expenditure":  6145888
+ },
+ {
+   "Sno": 342,
+   "Candidate": "BHARATHI MOHAN R.K",
+   "Constituency": "MAYILADUTHURAI",
+   "Party": "AIADMK",
+   "Expenditure":  3775835
+ },
+ {
+   "Sno": 343,
+   "Candidate": "RAMA CHANDRA HANSDAH",
+   "Constituency": "MAYURBHANJ",
+   "Party": "BJD",
+   "Expenditure":  5121171
+ },
+ {
+   "Sno": 344,
+   "Candidate": "KALVAKUNTLA CHANDRASHEKAR RAO",
+   "Constituency": "MEDAK",
+   "Party": "TRS",
+   "Expenditure":  3228840
+ },
+ {
+   "Sno": 345,
+   "Candidate": "SANDHYA ROY",
+   "Constituency": "MEDINIPUR",
+   "Party": "AITC",
+   "Expenditure":  5144035
+ },
+ {
+   "Sno": 346,
+   "Candidate": "RAJENDRA AGARWAL",
+   "Constituency": "MEERUT",
+   "Party": "BJP",
+   "Expenditure":  3541142
+ },
+ {
+   "Sno": 347,
+   "Candidate": "ANUPRIYA SINGH PATEL",
+   "Constituency": "MIRZAPUR",
+   "Party": "Apna Dal",
+   "Expenditure":  5027547
+ },
+ {
+   "Sno": 348,
+   "Candidate": "ANJU BALA",
+   "Constituency": "MISRIKH",
+   "Party": "BJP",
+   "Expenditure":  4852748
+ },
+ {
+   "Sno": 349,
+   "Candidate": "C. L. RUALA",
+   "Constituency": "MIZORAM",
+   "Party": "INC",
+   "Expenditure":  1518144
+ },
+ {
+   "Sno": 350,
+   "Candidate": "KAUSHAL KISHORE",
+   "Constituency": "MOHANLALGANJ",
+   "Party": "BJP",
+   "Expenditure":  3135895
+ },
+ {
+   "Sno": 351,
+   "Candidate": "KUNWAR SARVESH KUMAR",
+   "Constituency": "MORADABAD",
+   "Party": "BJP",
+   "Expenditure":  3216656
+ },
+ {
+   "Sno": 352,
+   "Candidate": "ANOOP MISHRA",
+   "Constituency": "MORENA",
+   "Party": "BJP",
+   "Expenditure":  3865939
+ },
+ {
+   "Sno": 353,
+   "Candidate": "GOPAL CHINAYYA SHETTY",
+   "Constituency": "MUMBAI NORTH",
+   "Party": "BJP",
+   "Expenditure":  4580834
+ },
+ {
+   "Sno": 354,
+   "Candidate": "POONAM MAHAJAN ALIAS POONAM VAJENDLA RAO",
+   "Constituency": "MUMBAI NORTH CENTRAL",
+   "Party": "BJP",
+   "Expenditure":  4064192
+ },
+ {
+   "Sno": 355,
+   "Candidate": "KIRIT SOMAIYA",
+   "Constituency": "MUMBAI NORTH EAST",
+   "Party": "BJP",
+   "Expenditure":  3712776
+ },
+ {
+   "Sno": 356,
+   "Candidate": "GAJANAN CHANDRAKANT KIRTIKAR",
+   "Constituency": "MUMBAI NORTH WEST",
+   "Party": "SHS",
+   "Expenditure":  4805667
+ },
+ {
+   "Sno": 357,
+   "Candidate": "SAWANT ARVIND GANPAT",
+   "Constituency": "MUMBAI SOUTH",
+   "Party": "SHS",
+   "Expenditure":  6027577
+ },
+ {
+   "Sno": 358,
+   "Candidate": "SHEWALE RAHUL RAMESH",
+   "Constituency": "MUMBAI SOUTH CENTRAL",
+   "Party": "SHS",
+   "Expenditure":  5301694
+ },
+ {
+   "Sno": 359,
+   "Candidate": "VEENA DEVI",
+   "Constituency": "MUNGER",
+   "Party": "LJP",
+   "Expenditure":  5698415
+ },
+ {
+   "Sno": 360,
+   "Candidate": "BADARUDDOZA KHAN",
+   "Constituency": "MURSHIDABAD",
+   "Party": "CPI(M)",
+   "Expenditure":  3001588
+ },
+ {
+   "Sno": 361,
+   "Candidate": "DR. SANJEEV KUMAR BALYAN",
+   "Constituency": "MUZAFFARNAGAR",
+   "Party": "BJP",
+   "Expenditure":  2925128
+ },
+ {
+   "Sno": 362,
+   "Candidate": "AJAY NISHAD",
+   "Constituency": "MUZAFFARPUR",
+   "Party": "BJP",
+   "Expenditure":  4619698
+ },
+ {
+   "Sno": 363,
+   "Candidate": "Prathap Simha",
+   "Constituency": "MYSORE",
+   "Party": "BJP",
+   "Expenditure":  3083447
+ },
+ {
+   "Sno": 364,
+   "Candidate": "BALABHADRA MAJHI",
+   "Constituency": "NABARANGPUR",
+   "Party": "BJD",
+   "Expenditure":  87857
+ },
+ {
+   "Sno": 365,
+   "Candidate": "NEIPHIU RIO",
+   "Constituency": "NAGALAND",
+   "Party": "NPF",
+   "Expenditure":  2246290
+ },
+ {
+   "Sno": 366,
+   "Candidate": "GOPAL. DR. K",
+   "Constituency": "NAGAPATTINAM",
+   "Party": "AIADMK",
+   "Expenditure":  4982301
+ },
+ {
+   "Sno": 367,
+   "Candidate": "NANDI YELLAIAH",
+   "Constituency": "NAGARKURNOOL",
+   "Party": "INC",
+   "Expenditure":  1786406
+ },
+ {
+   "Sno": 368,
+   "Candidate": "C R CHOUDHARY",
+   "Constituency": "NAGAUR",
+   "Party": "BJP",
+   "Expenditure":  3714237
+ },
+ {
+   "Sno": 369,
+   "Candidate": "YASHWANT SINGH",
+   "Constituency": "NAGINA",
+   "Party": "BJP",
+   "Expenditure":  4069700
+ },
+ {
+   "Sno": 370,
+   "Candidate": "GADKARI NITIN JAIRAM",
+   "Constituency": "NAGPUR",
+   "Party": "BJP",
+   "Expenditure":  4026079
+ },
+ {
+   "Sno": 371,
+   "Candidate": "BHAGAT SINGH KOSHYARI",
+   "Constituency": "NAINITAL-UDHAMSINGH NAGAR",
+   "Party": "BJP",
+   "Expenditure":  6083232
+ },
+ {
+   "Sno": 372,
+   "Candidate": "KAUSHLENDRA KUMAR",
+   "Constituency": "NALANDA",
+   "Party": "JD(U)",
+   "Expenditure":  2653825
+ },
+ {
+   "Sno": 373,
+   "Candidate": "GUTHA SUKHENDER REDDY",
+   "Constituency": "NALGONDA",
+   "Party": "INC",
+   "Expenditure":  5919915
+ },
+ {
+   "Sno": 374,
+   "Candidate": "SUNDARAM P.R",
+   "Constituency": "NAMAKKAL",
+   "Party": "AIADMK",
+   "Expenditure":  5207400
+ },
+ {
+   "Sno": 375,
+   "Candidate": "SHRI CHAVAN ASHOKRAO SHANKARRAO",
+   "Constituency": "NANDED",
+   "Party": "INC",
+   "Expenditure":  5544831
+ },
+ {
+   "Sno": 376,
+   "Candidate": "DR.GAVIT HEENA VAIJAYKUMAR",
+   "Constituency": "NANDURBAR",
+   "Party": "BJP",
+   "Expenditure":  4890429
+ },
+ {
+   "Sno": 377,
+   "Candidate": "S.P.Y REDDY",
+   "Constituency": "NANDYAL",
+   "Party": "Yuvajana Sramika Rythu Congress Party",
+   "Expenditure":  2869785
+ },
+ {
+   "Sno": 378,
+   "Candidate": "RAYAPATI SAMBASIVA RAO",
+   "Constituency": "NARASARAOPET",
+   "Party": "TDP",
+   "Expenditure":  6088031
+ },
+ {
+   "Sno": 379,
+   "Candidate": "GOKARAJU GANGA RAJU",
+   "Constituency": "NARSAPURAM",
+   "Party": "BJP",
+   "Expenditure":  4924096
+ },
+ {
+   "Sno": 380,
+   "Candidate": "GODSE HEMENT TUKARAM",
+   "Constituency": "NASHIK",
+   "Party": "SHS",
+   "Expenditure":  5591875
+ },
+ {
+   "Sno": 381,
+   "Candidate": "PATIL CHANDRAKANT RAGHUNATH",
+   "Constituency": "NAVSARI",
+   "Party": "BJP",
+   "Expenditure":  4828383
+ },
+ {
+   "Sno": 382,
+   "Candidate": "Giriraj Singh",
+   "Constituency": "NAWADA",
+   "Party": "BJP",
+   "Expenditure":  5008751
+ },
+ {
+   "Sno": 383,
+   "Candidate": "MEKAPATI RAJAMOHAN REDDY",
+   "Constituency": "NELLORE",
+   "Party": "Yuvajana Sramika Rythu Congress Party",
+   "Expenditure":  3532333
+ },
+ {
+   "Sno": 384,
+   "Candidate": "Smt. Meenakshi Lekhi",
+   "Constituency": "NEW DELHI",
+   "Party": "BJP",
+   "Expenditure":  3756459
+ },
+ {
+   "Sno": 385,
+   "Candidate": "GOPALAKRISHNAN, C.",
+   "Constituency": "NILGIRIS",
+   "Party": "AIADMK",
+   "Expenditure":  4782211
+ },
+ {
+   "Sno": 386,
+   "Candidate": "KALVAKUNTLA KAVITHA",
+   "Constituency": "NIZAMABAD",
+   "Party": "TRS",
+   "Expenditure":  2239845
+ },
+ {
+   "Sno": 387,
+   "Candidate": "Manoj Tiwari",
+   "Constituency": "NORTH EAST DELHI",
+   "Party": "BJP",
+   "Expenditure":  4114851
+ },
+ {
+   "Sno": 388,
+   "Candidate": "SHRIPAD YESSO NAIK",
+   "Constituency": "NORTH GOA",
+   "Party": "BJP",
+   "Expenditure":  3201042
+ },
+ {
+   "Sno": 389,
+   "Candidate": "Udit Raj",
+   "Constituency": "NORTH WEST DELHI",
+   "Party": "BJP",
+   "Expenditure":  4672408
+ },
+ {
+   "Sno": 390,
+   "Candidate": "Rajen Gohain",
+   "Constituency": "NOWGONG",
+   "Party": "BJP",
+   "Expenditure":  5011084
+ },
+ {
+   "Sno": 391,
+   "Candidate": "YARRAM VENKATA SUBBAREDDY",
+   "Constituency": "ONGOLE",
+   "Party": "Yuvajana Sramika Rythu Congress Party",
+   "Expenditure":  1861923
+ },
+ {
+   "Sno": 392,
+   "Candidate": "GAIKWAD RAVINDRA VISHWANATH",
+   "Constituency": "OSMANABAD",
+   "Party": "SHS",
+   "Expenditure":  2575995
+ },
+ {
+   "Sno": 393,
+   "Candidate": "THANGSO BAITE",
+   "Constituency": "OUTER MANIPUR",
+   "Party": "INC",
+   "Expenditure":  2776238
+ },
+ {
+   "Sno": 394,
+   "Candidate": "M B RAJESH",
+   "Constituency": "PALAKKAD",
+   "Party": "CPI(M)",
+   "Expenditure":  5072878
+ },
+ {
+   "Sno": 395,
+   "Candidate": "VISHNU DAYAL RAM",
+   "Constituency": "PALAMAU",
+   "Party": "BJP",
+   "Expenditure":  3207401
+ },
+ {
+   "Sno": 396,
+   "Candidate": "WANAGA CHINTAMAN NAVASHA",
+   "Constituency": "PALGHAR",
+   "Party": "BJP",
+   "Expenditure":  5279237
+ },
+ {
+   "Sno": 397,
+   "Candidate": "P P CHOUDHARY",
+   "Constituency": "PALI",
+   "Party": "BJP",
+   "Expenditure":  4062383
+ },
+ {
+   "Sno": 398,
+   "Candidate": "CHAUHAN PRABHATSINH PRATAPSINH",
+   "Constituency": "PANCHMAHAL",
+   "Party": "BJP",
+   "Expenditure":  5465342
+ },
+ {
+   "Sno": 399,
+   "Candidate": "JADHAV SANJAY (BANDU) HARIBHAU",
+   "Constituency": "PARBHANI",
+   "Party": "SHS",
+   "Expenditure":  5544440
+ },
+ {
+   "Sno": 400,
+   "Candidate": "Dr. Sanjay Jayaswal",
+   "Constituency": "PASCHIM CHAMPARAN",
+   "Party": "BJP",
+   "Expenditure":  4445787
+ },
+ {
+   "Sno": 401,
+   "Candidate": "RAM KRIPAL YADAV",
+   "Constituency": "PATALIPUTRA",
+   "Party": "BJP",
+   "Expenditure":  5068614
+ },
+ {
+   "Sno": 402,
+   "Candidate": "VAGHELA LILADHARBHAI KHODAJI",
+   "Constituency": "PATAN",
+   "Party": "BJP",
+   "Expenditure":  5752339
+ },
+ {
+   "Sno": 403,
+   "Candidate": "ANTO ANTONY",
+   "Constituency": "PATHANAMTHITTA",
+   "Party": "INC",
+   "Expenditure":  5956695
+ },
+ {
+   "Sno": 404,
+   "Candidate": "DR.DHARAM VIRA GANDHI",
+   "Constituency": "PATIALA",
+   "Party": "AAP",
+   "Expenditure":  3615549
+ },
+ {
+   "Sno": 405,
+   "Candidate": "Shatrughan Sinha",
+   "Constituency": "PATNA SAHIB",
+   "Party": "BJP",
+   "Expenditure":  5102295
+ },
+ {
+   "Sno": 406,
+   "Candidate": "BALKA SUMAN",
+   "Constituency": "PEDDAPALLE",
+   "Party": "TRS",
+   "Expenditure":  3732293
+ },
+ {
+   "Sno": 407,
+   "Candidate": "R.P.MARUTHARAJAA",
+   "Constituency": "PERAMBALUR",
+   "Party": "AIADMK",
+   "Expenditure":  4903007
+ },
+ {
+   "Sno": 408,
+   "Candidate": "KESHAV PRASAD",
+   "Constituency": "PHULPUR",
+   "Party": "BJP",
+   "Expenditure":  5933698
+ },
+ {
+   "Sno": 409,
+   "Candidate": "MANEKA SANJAY GANDHI",
+   "Constituency": "PILIBHIT",
+   "Party": "BJP",
+   "Expenditure":  3816118
+ },
+ {
+   "Sno": 410,
+   "Candidate": "MAHENDRAN.C",
+   "Constituency": "POLLACHI",
+   "Party": "AIADMK",
+   "Expenditure":  6439442
+ },
+ {
+   "Sno": 411,
+   "Candidate": "R. RADHAKRISHNAN",
+   "Constituency": "PONDICHERRY",
+   "Party": "All India N.R. Congress",
+   "Expenditure":  2080684
+ },
+ {
+   "Sno": 412,
+   "Candidate": "E. T. MOHAMMED BASHEER",
+   "Constituency": "PONNANI",
+   "Party": "IUML",
+   "Expenditure":  6496880
+ },
+ {
+   "Sno": 413,
+   "Candidate": "RADADIYA VITHALBHAI HANSRAJBHAI",
+   "Constituency": "PORBANDAR",
+   "Party": "BJP",
+   "Expenditure":  4843400
+ },
+ {
+   "Sno": 414,
+   "Candidate": "KUWAR HARIVANSH SINGH",
+   "Constituency": "PRATAPGARH",
+   "Party": "Apna Dal",
+   "Expenditure":  5624300
+ },
+ {
+   "Sno": 415,
+   "Candidate": "ANIL SHIROLE",
+   "Constituency": "PUNE",
+   "Party": "BJP",
+   "Expenditure":  3654011
+ },
+ {
+   "Sno": 416,
+   "Candidate": "PINAKI MISHRA",
+   "Constituency": "PURI",
+   "Party": "BJD",
+   "Expenditure":  3668197
+ },
+ {
+   "Sno": 417,
+   "Candidate": "SANTOSH KUMAR",
+   "Constituency": "PURNIA",
+   "Party": "JD(U)",
+   "Expenditure":  3487060
+ },
+ {
+   "Sno": 418,
+   "Candidate": "MRIGANKA MAHATO",
+   "Constituency": "PURULIA",
+   "Party": "AITC",
+   "Expenditure":  2835500
+ },
+ {
+   "Sno": 419,
+   "Candidate": "RADHA MOHAN SINGH",
+   "Constituency": "PURVI CHAMPARAN",
+   "Party": "BJP",
+   "Expenditure":  4008216
+ },
+ {
+   "Sno": 420,
+   "Candidate": "SONIA GANDHI",
+   "Constituency": "RAE BARELI",
+   "Party": "INC",
+   "Expenditure":  3060120
+ },
+ {
+   "Sno": 421,
+   "Candidate": "B.V.NAYAK",
+   "Constituency": "RAICHUR",
+   "Party": "INC",
+   "Expenditure":  4591212
+ },
+ {
+   "Sno": 422,
+   "Candidate": "GEETE ANANT GANGARAM",
+   "Constituency": "RAIGAD",
+   "Party": "SHS",
+   "Expenditure":  4425016
+ },
+ {
+   "Sno": 423,
+   "Candidate": "MD. SALIM",
+   "Constituency": "RAIGANJ",
+   "Party": "CPI(M)",
+   "Expenditure":  1863211
+ },
+ {
+   "Sno": 424,
+   "Candidate": "Vishnudev Sai",
+   "Constituency": "RAIGARH",
+   "Party": "BJP",
+   "Expenditure":  5559119
+ },
+ {
+   "Sno": 425,
+   "Candidate": "Ramesh Bais",
+   "Constituency": "RAIPUR",
+   "Party": "BJP",
+   "Expenditure":  4379767
+ },
+ {
+   "Sno": 426,
+   "Candidate": "MURALI MOHAN MAGANTI",
+   "Constituency": "RAJAHMUNDRY",
+   "Party": "TDP",
+   "Expenditure":  2917518
+ },
+ {
+   "Sno": 427,
+   "Candidate": "P.V.MIDHUN REDDY",
+   "Constituency": "RAJAMPET",
+   "Party": "Yuvajana Sramika Rythu Congress Party",
+   "Expenditure":  1182729
+ },
+ {
+   "Sno": 428,
+   "Candidate": "RODMAL NAGAR",
+   "Constituency": "RAJGARH",
+   "Party": "BJP",
+   "Expenditure":  3906701
+ },
+ {
+   "Sno": 429,
+   "Candidate": "MOHANBHAI KALYANJIBHAI KUNDARIYA",
+   "Constituency": "RAJKOT",
+   "Party": "BJP",
+   "Expenditure":  5418258
+ },
+ {
+   "Sno": 430,
+   "Candidate": "VIJAY KUMAR HANSDAK",
+   "Constituency": "RAJMAHAL",
+   "Party": "JMM",
+   "Expenditure":  2759756
+ },
+ {
+   "Sno": 431,
+   "Candidate": "Abhishek Singh",
+   "Constituency": "RAJNANDGAON",
+   "Party": "BJP",
+   "Expenditure":  5397081
+ },
+ {
+   "Sno": 432,
+   "Candidate": "HARI OM SINGH RATHORE",
+   "Constituency": "RAJSAMAND",
+   "Party": "BJP",
+   "Expenditure":  5755251
+ },
+ {
+   "Sno": 433,
+   "Candidate": "ANWHAR RAAJHAA.A",
+   "Constituency": "RAMANATHAPURAM",
+   "Party": "AIADMK",
+   "Expenditure":  5259720
+ },
+ {
+   "Sno": 434,
+   "Candidate": "DR. NEPAL SINGH",
+   "Constituency": "RAMPUR",
+   "Party": "BJP",
+   "Expenditure":  2806640
+ },
+ {
+   "Sno": 435,
+   "Candidate": "KRUPAL BALAJI TUMANE",
+   "Constituency": "RAMTEK",
+   "Party": "SHS",
+   "Expenditure":  3110930
+ },
+ {
+   "Sno": 436,
+   "Candidate": "TAPAS MANDAL",
+   "Constituency": "RANAGHAT",
+   "Party": "AITC",
+   "Expenditure":  3195819
+ },
+ {
+   "Sno": 437,
+   "Candidate": "RAMTAHAL CHOUDHARY",
+   "Constituency": "RANCHI",
+   "Party": "BJP",
+   "Expenditure":  4788017
+ },
+ {
+   "Sno": 438,
+   "Candidate": "DILEEP SINGH BHURIYA",
+   "Constituency": "RATLAM",
+   "Party": "BJP",
+   "Expenditure":  4398135
+ },
+ {
+   "Sno": 439,
+   "Candidate": "VINAYAK BHAURAO RAUT",
+   "Constituency": "RATNAGIRI SINDHUDURG",
+   "Party": "SHS",
+   "Expenditure":  3704171
+ },
+ {
+   "Sno": 440,
+   "Candidate": "KHADASE RAKSHA NIKHIL",
+   "Constituency": "RAVER",
+   "Party": "BJP",
+   "Expenditure":  4859493
+ },
+ {
+   "Sno": 441,
+   "Candidate": "JANARDAN MISHRA",
+   "Constituency": "REWA",
+   "Party": "BJP",
+   "Expenditure":  3452402
+ },
+ {
+   "Sno": 442,
+   "Candidate": "CHHOTE LAL",
+   "Constituency": "ROBERTSGANJ",
+   "Party": "BJP",
+   "Expenditure":  3309352
+ },
+ {
+   "Sno": 443,
+   "Candidate": "DEEPENDER SINGH",
+   "Constituency": "ROHTAK",
+   "Party": "INC",
+   "Expenditure":  3951306
+ },
+ {
+   "Sno": 444,
+   "Candidate": "RATHOD DIPSINH SHANKARSINH",
+   "Constituency": "SABARKANTHA",
+   "Party": "BJP",
+   "Expenditure":  5415088
+ },
+ {
+   "Sno": 445,
+   "Candidate": "LAXMI NARAYAN YADAV",
+   "Constituency": "SAGAR",
+   "Party": "BJP",
+   "Expenditure":  6105003
+ },
+ {
+   "Sno": 446,
+   "Candidate": "RAGHAV LAKHANPAL",
+   "Constituency": "SAHARANPUR",
+   "Party": "BJP",
+   "Expenditure":  3712582
+ },
+ {
+   "Sno": 447,
+   "Candidate": "PANNERSELVAM.V",
+   "Constituency": "SALEM",
+   "Party": "AIADMK",
+   "Expenditure":  4023880
+ },
+ {
+   "Sno": 448,
+   "Candidate": "RAVINDRA KUSHAWAHA",
+   "Constituency": "SALEMPUR",
+   "Party": "BJP",
+   "Expenditure":  3203231
+ },
+ {
+   "Sno": 449,
+   "Candidate": "RAM CHANDRA PASWAN",
+   "Constituency": "SAMASTIPUR",
+   "Party": "LJP",
+   "Expenditure":  2859294
+ },
+ {
+   "Sno": 450,
+   "Candidate": "NAGENDRA KUMAR PRADHAN",
+   "Constituency": "SAMBALPUR",
+   "Party": "BJD",
+   "Expenditure":  1120870
+ },
+ {
+   "Sno": 451,
+   "Candidate": "SATYA PAL SINGH",
+   "Constituency": "SAMBHAL",
+   "Party": "BJP",
+   "Expenditure":  2095065
+ },
+ {
+   "Sno": 452,
+   "Candidate": "SANJAYKAKA PATIL",
+   "Constituency": "SANGLI",
+   "Party": "BJP",
+   "Expenditure":  4930922
+ },
+ {
+   "Sno": 453,
+   "Candidate": "BHAGWANT MANN",
+   "Constituency": "SANGRUR",
+   "Party": "AAP",
+   "Expenditure":  1743540
+ },
+ {
+   "Sno": 454,
+   "Candidate": "Sharad Tripathi",
+   "Constituency": "SANT KABIR NAGAR",
+   "Party": "BJP",
+   "Expenditure":  2173267
+ },
+ {
+   "Sno": 455,
+   "Candidate": "RAJIV PRATAP RUDY",
+   "Constituency": "SARAN",
+   "Party": "BJP",
+   "Expenditure":  3733967
+ },
+ {
+   "Sno": 456,
+   "Candidate": "Chhedi Paswan",
+   "Constituency": "SASARAM",
+   "Party": "BJP",
+   "Expenditure":  3218439
+ },
+ {
+   "Sno": 457,
+   "Candidate": "SHRIMANT CHH. UDAYANRAJE PRATAPSINHA BHONSALE",
+   "Constituency": "SATARA",
+   "Party": "NCP",
+   "Expenditure":  4680601
+ },
+ {
+   "Sno": 458,
+   "Candidate": "GANESH SINGH",
+   "Constituency": "SATNA",
+   "Party": "BJP",
+   "Expenditure":  4462315
+ },
+ {
+   "Sno": 459,
+   "Candidate": "BANDARU DATTATREYA",
+   "Constituency": "SECUNDERABAD",
+   "Party": "BJP",
+   "Expenditure":  2247908
+ },
+ {
+   "Sno": 460,
+   "Candidate": "DALPAT SINGH PARASTE",
+   "Constituency": "SHAHDOL",
+   "Party": "BJP",
+   "Expenditure":  3854052
+ },
+ {
+   "Sno": 461,
+   "Candidate": "KRISHNA RAJ",
+   "Constituency": "SHAHJAHANPUR",
+   "Party": "BJP",
+   "Expenditure":  3057231
+ },
+ {
+   "Sno": 462,
+   "Candidate": "RAMA DEVI",
+   "Constituency": "SHEOHAR",
+   "Party": "BJP",
+   "Expenditure":  5728840
+ },
+ {
+   "Sno": 463,
+   "Candidate": "Vincent H. Pala",
+   "Constituency": "SHILLONG",
+   "Party": "INC",
+   "Expenditure":  5612492
+ },
+ {
+   "Sno": 464,
+   "Candidate": "VIRENDER KASHYAP",
+   "Constituency": "SHIMLA",
+   "Party": "BJP",
+   "Expenditure":  2956786
+ },
+ {
+   "Sno": 465,
+   "Candidate": "B.S. YEDDYURAPPA",
+   "Constituency": "SHIMOGA",
+   "Party": "BJP",
+   "Expenditure":  2424728
+ },
+ {
+   "Sno": 466,
+   "Candidate": "LOKHANDE SADASHIV KISAN",
+   "Constituency": "SHIRDI",
+   "Party": "SHS",
+   "Expenditure":  5558941
+ },
+ {
+   "Sno": 467,
+   "Candidate": "ADHALRAO SHIVAJI DATTATREY",
+   "Constituency": "SHIRUR",
+   "Party": "SHS",
+   "Expenditure":  5414471
+ },
+ {
+   "Sno": 468,
+   "Candidate": "DADDAN MISHRA",
+   "Constituency": "SHRAWASTI",
+   "Party": "BJP",
+   "Expenditure":  4000535
+ },
+ {
+   "Sno": 469,
+   "Candidate": "RITI PATHAK",
+   "Constituency": "SIDHI",
+   "Party": "BJP",
+   "Expenditure":  4229512
+ },
+ {
+   "Sno": 470,
+   "Candidate": "SUMEDHA NAND SARASWATI",
+   "Constituency": "SIKAR",
+   "Party": "BJP",
+   "Expenditure":  4614188
+ },
+ {
+   "Sno": 471,
+   "Candidate": "PREM DAS RAI",
+   "Constituency": "SIKKIM",
+   "Party": "SDF",
+   "Expenditure":  5130387
+ },
+ {
+   "Sno": 472,
+   "Candidate": "SUSHMITA DEV",
+   "Constituency": "SILCHAR",
+   "Party": "INC",
+   "Expenditure":  4648919
+ },
+ {
+   "Sno": 473,
+   "Candidate": "CHARANJEET SINGH",
+   "Constituency": "SIRSA",
+   "Party": "INLD",
+   "Expenditure":  3037659
+ },
+ {
+   "Sno": 474,
+   "Candidate": "RAM KUMAR SHARMA",
+   "Constituency": "SITAMARHI",
+   "Party": "Rashtriya Lok Samta Party",
+   "Expenditure":  1358758
+ },
+ {
+   "Sno": 475,
+   "Candidate": "RAJESH KUMAR SINGH",
+   "Constituency": "SITAPUR",
+   "Party": "BJP",
+   "Expenditure":  3146640
+ },
+ {
+   "Sno": 476,
+   "Candidate": "PR SENTHILNATHAN",
+   "Constituency": "SIVAGANGA",
+   "Party": "AIADMK",
+   "Expenditure":  3091939
+ },
+ {
+   "Sno": 477,
+   "Candidate": "OM PRAKASH YADAV",
+   "Constituency": "SIWAN",
+   "Party": "BJP",
+   "Expenditure":  6177237
+ },
+ {
+   "Sno": 478,
+   "Candidate": "SHARAD BANSODE",
+   "Constituency": "SOLAPUR",
+   "Party": "BJP",
+   "Expenditure":  4535165
+ },
+ {
+   "Sno": 479,
+   "Candidate": "Ramesh Kaushik",
+   "Constituency": "SONIPAT",
+   "Party": "BJP",
+   "Expenditure":  3191998
+ },
+ {
+   "Sno": 480,
+   "Candidate": "Ramesh Bidhuri",
+   "Constituency": "SOUTH DELHI",
+   "Party": "BJP",
+   "Expenditure":  4919694
+ },
+ {
+   "Sno": 481,
+   "Candidate": "Adv. Narendra Keshav Sawaikar",
+   "Constituency": "SOUTH GOA",
+   "Party": "BJP",
+   "Expenditure":  3223261
+ },
+ {
+   "Sno": 482,
+   "Candidate": "KALYAN BANERJEE",
+   "Constituency": "SREERAMPUR",
+   "Party": "AITC",
+   "Expenditure":  4024758
+ },
+ {
+   "Sno": 483,
+   "Candidate": "RAMMOHANNAIDU KINJARAPU",
+   "Constituency": "SRIKAKULAM",
+   "Party": "TDP",
+   "Expenditure":  2699200
+ },
+ {
+   "Sno": 484,
+   "Candidate": "TARIQ HAMEED KARRA",
+   "Constituency": "SRINAGAR",
+   "Party": "JKPDP",
+   "Expenditure":  1734321
+ },
+ {
+   "Sno": 485,
+   "Candidate": "RAMACHANDRAN, K.N. THIRU",
+   "Constituency": "SRIPERUMBUDUR",
+   "Party": "AIADMK",
+   "Expenditure":  99615
+ },
+ {
+   "Sno": 486,
+   "Candidate": "FEROZE VARUN GANDHI",
+   "Constituency": "SULTANPUR",
+   "Party": "BJP",
+   "Expenditure":  5655871
+ },
+ {
+   "Sno": 487,
+   "Candidate": "JUAL ORAM",
+   "Constituency": "SUNDARGARH",
+   "Party": "BJP",
+   "Expenditure":  3963064
+ },
+ {
+   "Sno": 488,
+   "Candidate": "RANJEET RANJAN",
+   "Constituency": "SUPAUL",
+   "Party": "INC",
+   "Expenditure":  3074639
+ },
+ {
+   "Sno": 489,
+   "Candidate": "JARDOSH DARSHNABEN VIKRAMBHAI",
+   "Constituency": "SURAT",
+   "Party": "BJP",
+   "Expenditure":  2538887
+ },
+ {
+   "Sno": 490,
+   "Candidate": "FATEPARA DEVAJIBHAI GOVINDBHAI",
+   "Constituency": "SURENDRANAGAR",
+   "Party": "BJP",
+   "Expenditure":  4588392
+ },
+ {
+   "Sno": 491,
+   "Candidate": "Kamalbhan Singh",
+   "Constituency": "SURGUJA",
+   "Party": "BJP",
+   "Expenditure":  5719833
+ },
+ {
+   "Sno": 492,
+   "Candidate": "SUVENDU ADHIKARI",
+   "Constituency": "TAMLUK",
+   "Party": "AITC",
+   "Expenditure":  4174743
+ },
+ {
+   "Sno": 493,
+   "Candidate": "MALA RAJYA LAXMI SHAH",
+   "Constituency": "TEHRI GARHWAL",
+   "Party": "BJP",
+   "Expenditure":  5516134
+ },
+ {
+   "Sno": 494,
+   "Candidate": "VASANTHI.M",
+   "Constituency": "TENKASI",
+   "Party": "AIADMK",
+   "Expenditure":  2515086
+ },
+ {
+   "Sno": 495,
+   "Candidate": "RAM PRASAD SARMAH",
+   "Constituency": "TEZPUR",
+   "Party": "BJP",
+   "Expenditure":  5058512
+ },
+ {
+   "Sno": 496,
+   "Candidate": "VICHARE RAJAN BABURAO",
+   "Constituency": "THANE",
+   "Party": "SHS",
+   "Expenditure":  5254561
+ },
+ {
+   "Sno": 497,
+   "Candidate": "PARASURAMAN.K",
+   "Constituency": "THANJAVUR",
+   "Party": "AIADMK",
+   "Expenditure":  2071180
+ },
+ {
+   "Sno": 498,
+   "Candidate": "PARTHIPAN, R.",
+   "Constituency": "THENI",
+   "Party": "AIADMK",
+   "Expenditure":  3984113
+ },
+ {
+   "Sno": 499,
+   "Candidate": "DR. SHASHI THAROOR",
+   "Constituency": "THIRUVANANTHAPURAM",
+   "Party": "INC",
+   "Expenditure":  5042650
+ },
+ {
+   "Sno": 500,
+   "Candidate": "JEYASINGH THIYAGARAJ NATTERJEE.J",
+   "Constituency": "THOOTHUKKUDI",
+   "Party": "AIADMK",
+   "Expenditure":  4801900
+ },
+ {
+   "Sno": 501,
+   "Candidate": "C N JAYADEVAN",
+   "Constituency": "THRISSUR",
+   "Party": "CPI",
+   "Expenditure":  3970439
+ },
+ {
+   "Sno": 502,
+   "Candidate": "DR. VIRENDRA KUMAR",
+   "Constituency": "TIKAMGARH",
+   "Party": "BJP",
+   "Expenditure":  3600230
+ },
+ {
+   "Sno": 503,
+   "Candidate": "P.KUMAR S/o Palanivel",
+   "Constituency": "TIRUCHIRAPPALLI",
+   "Party": "AIADMK",
+   "Expenditure":  3053264
+ },
+ {
+   "Sno": 504,
+   "Candidate": "PRABAKARAN.K.R.P",
+   "Constituency": "TIRUNELVELI",
+   "Party": "AIADMK",
+   "Expenditure":  2330535
+ },
+ {
+   "Sno": 505,
+   "Candidate": "VARAPRASAD RAO VELAGAPALLI",
+   "Constituency": "TIRUPATI",
+   "Party": "Yuvajana Sramika Rythu Congress Party",
+   "Expenditure":  1445273
+ },
+ {
+   "Sno": 506,
+   "Candidate": "V.SATHYABAMA",
+   "Constituency": "TIRUPPUR",
+   "Party": "AIADMK",
+   "Expenditure":  2275040
+ },
+ {
+   "Sno": 507,
+   "Candidate": "Venugopal. P. Dr.",
+   "Constituency": "TIRUVALLUR",
+   "Party": "AIADMK",
+   "Expenditure":  5385169
+ },
+ {
+   "Sno": 508,
+   "Candidate": "VANAROJA R",
+   "Constituency": "TIRUVANNAMALAI",
+   "Party": "AIADMK",
+   "Expenditure":  548800
+ },
+ {
+   "Sno": 509,
+   "Candidate": "SUKHBIR SINGH JAUNAPURIA",
+   "Constituency": "TONK-SAWAI MADHOPUR",
+   "Party": "BJP",
+   "Expenditure":  4499924
+ },
+ {
+   "Sno": 510,
+   "Candidate": "JITENDRA CHOUDHURY",
+   "Constituency": "TRIPURA EAST",
+   "Party": "CPI(M)",
+   "Expenditure":  5603874
+ },
+ {
+   "Sno": 511,
+   "Candidate": "Sankar Prasad Datta",
+   "Constituency": "TRIPURA WEST",
+   "Party": "CPI(M)",
+   "Expenditure":  3891863
+ },
+ {
+   "Sno": 512,
+   "Candidate": "S.P.MUDDAHANUMEGOWDA",
+   "Constituency": "TUMKUR",
+   "Party": "INC",
+   "Expenditure":  3033922
+ },
+ {
+   "Sno": 513,
+   "Candidate": "Purno Agitok Sangma",
+   "Constituency": "TURA",
+   "Party": "NPP",
+   "Expenditure":  5965828
+ },
+ {
+   "Sno": 514,
+   "Candidate": "ARJUNLAL MEENA",
+   "Constituency": "UDAIPUR",
+   "Party": "BJP",
+   "Expenditure":  6244806
+ },
+ {
+   "Sno": 515,
+   "Candidate": "DR. JITENDRA SINGH",
+   "Constituency": "UDHAMPUR",
+   "Party": "BJP",
+   "Expenditure":  2197000
+ },
+ {
+   "Sno": 516,
+   "Candidate": "SHOBHA KARANDLAJE",
+   "Constituency": "UDUPI CHIKMAGALUR",
+   "Party": "BJP",
+   "Expenditure":  5718545
+ },
+ {
+   "Sno": 517,
+   "Candidate": "NITYANAND RAI",
+   "Constituency": "UJIARPUR",
+   "Party": "BJP",
+   "Expenditure":  3506023
+ },
+ {
+   "Sno": 518,
+   "Candidate": "CHINTAMANI MALVIYA",
+   "Constituency": "UJJAIN",
+   "Party": "BJP",
+   "Expenditure":  3458483
+ },
+ {
+   "Sno": 519,
+   "Candidate": "SULTAN AHMED",
+   "Constituency": "ULUBERIA",
+   "Party": "AITC",
+   "Expenditure":  3797663
+ },
+ {
+   "Sno": 520,
+   "Candidate": "SWAMI SACHCHIDANAND HARI SAKSHI",
+   "Constituency": "UNNAO",
+   "Party": "BJP",
+   "Expenditure":  2782656
+ },
+ {
+   "Sno": 521,
+   "Candidate": "ANANTKUMAR HEGDE",
+   "Constituency": "UTTARA KANNADA",
+   "Party": "BJP",
+   "Expenditure":  4104996
+ },
+ {
+   "Sno": 522,
+   "Candidate": "MULLAPPALLY RAMACHANDRAN",
+   "Constituency": "VADAKARA",
+   "Party": "INC",
+   "Expenditure":  4560648
+ },
+ {
+   "Sno": 523,
+   "Candidate": "NARENDRA MODI",
+   "Constituency": "VADODARA",
+   "Party": "BJP",
+   "Expenditure":  5003598
+ },
+ {
+   "Sno": 524,
+   "Candidate": "RAMA KISHORE SINGH",
+   "Constituency": "VAISHALI",
+   "Party": "LJP",
+   "Expenditure":  2306049
+ },
+ {
+   "Sno": 525,
+   "Candidate": "Satish Dubey",
+   "Constituency": "VALMIKI NAGAR",
+   "Party": "BJP",
+   "Expenditure":  3977869
+ },
+ {
+   "Sno": 526,
+   "Candidate": "DR. K.C.PATEL",
+   "Constituency": "VALSAD",
+   "Party": "BJP",
+   "Expenditure":  4012460
+ },
+ {
+   "Sno": 527,
+   "Candidate": "NARENDRA MODI",
+   "Constituency": "VARANASI",
+   "Party": "BJP",
+   "Expenditure":  3762351
+ },
+ {
+   "Sno": 528,
+   "Candidate": "SENGUTTUVAN, B.",
+   "Constituency": "VELLORE",
+   "Party": "AIADMK",
+   "Expenditure":  4300744
+ },
+ {
+   "Sno": 529,
+   "Candidate": "SUSHMA SWARAJ",
+   "Constituency": "VIDISHA",
+   "Party": "BJP",
+   "Expenditure":  3422853
+ },
+ {
+   "Sno": 530,
+   "Candidate": "SRINIVAS KESINENI",
+   "Constituency": "VIJAYAWADA",
+   "Party": "TDP",
+   "Expenditure":  2444142
+ },
+ {
+   "Sno": 531,
+   "Candidate": "S. RAJENDRAN",
+   "Constituency": "VILUPPURAM",
+   "Party": "AIADMK",
+   "Expenditure":  5062917
+ },
+ {
+   "Sno": 532,
+   "Candidate": "Radhakrishnan",
+   "Constituency": "VIRUDHUNAGAR",
+   "Party": "AIADMK",
+   "Expenditure":  3118960
+ },
+ {
+   "Sno": 533,
+   "Candidate": "DR. KAMBHAMPATI HARI BABU",
+   "Constituency": "VISAKHAPATNAM",
+   "Party": "BJP",
+   "Expenditure":  2551607
+ },
+ {
+   "Sno": 534,
+   "Candidate": "ASHOK GAJAPATHI RAJU PUSAPATI",
+   "Constituency": "VIZIANAGARAM",
+   "Party": "TDP",
+   "Expenditure":  410280
+ },
+ {
+   "Sno": 535,
+   "Candidate": "KADIYAM SRIHARI",
+   "Constituency": "WARANGAL",
+   "Party": "TRS",
+   "Expenditure":  2112280
+ },
+ {
+   "Sno": 536,
+   "Candidate": "RAMDAS CHANDRABHANJI TADAS",
+   "Constituency": "WARDHA",
+   "Party": "BJP",
+   "Expenditure":  4906920
+ },
+ {
+   "Sno": 537,
+   "Candidate": "M I SHANAVAS",
+   "Constituency": "WAYANAD",
+   "Party": "INC",
+   "Expenditure":  5115210
+ },
+ {
+   "Sno": 538,
+   "Candidate": "PARVESH SAHIB SINGH",
+   "Constituency": "WEST DELHI",
+   "Party": "BJP",
+   "Expenditure":  2977127
+ },
+ {
+   "Sno": 539,
+   "Candidate": "GAWALI BHAVANA PUNDLIKRAO",
+   "Constituency": "YAVATMAL-WASHIM",
+   "Party": "SHS",
+   "Expenditure":  4065553
+ },
+ {
+   "Sno": 540,
+   "Candidate": "B.B.PATIL",
+   "Constituency": "ZAHIRABAD",
+   "Party": "TRS",
+   "Expenditure":  4636339
+ }
+]

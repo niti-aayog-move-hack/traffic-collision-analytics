@@ -1,0 +1,4 @@
+import Progs
+import FetchTwitterData
+line_list = FetchTwitterData.main("ChandrababuNaidu")
+Progs.IssueSent_main("ChandrababuNaidu", "DefIssueWords", "NewIssueWords",line_list)

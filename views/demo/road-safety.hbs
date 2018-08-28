@@ -1,0 +1,222 @@
+	<link rel="stylesheet" type="text/css" href="css/component.css" />
+	<link href="/css/dash.css" rel="stylesheet">
+
+	<script src="/js/lib/d3.v3.min.js"></script>
+    <script src="/js/lib/d3.tip.v0.6.3.js"></script>
+	<div id="main-content">
+		<div class = "container-fluid">
+			<div class = "deets">
+				<h1 class=  "capo">BENGALURU TRAFFIC ANALYTICS DASHBOARD</h1>
+				<h2 class = "capo "><span class = "code">JUNE 2018</span></h2><br />
+				<button class= "btn start-btn" id = "start_button" onclick = "startClick()">Analyze Data</button>
+				<button class= "btn start-btn" id = "start_button" onclick = "startClick()">Predict Accident Probability</button>
+			</div>
+		</div>
+		<div class="workflow" id="flow1">
+			<div class="center">`
+				<h1 class = "capo">Graphical visualization</h1>
+				<p class="lead">Overall map of Bengaluru CAS data, near collisions.</p>
+			</div>
+			<div class="row">
+				<div class="col-md-8">
+					<div class="graph col-md-12">
+						<div id="map_canvas" style="width:100%;height:550px;"></div>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="info col-md-12">
+						<h2 class="header">Map Options</h2><hr>
+						<div>
+							<button class= "btn moder-opts" id = "heatmap_map_one" onclick = "heat_one()">Show Heat Map</button>
+							<br />
+							<button class= "btn moder-opts" id = "distribution_map_one" onclick = "distribution_one()">Hide Markers</button>
+							<br />
+							<button class= "btn moder-opts" id = "show_traffic_one" onclick = "dispTraffic_one()">Toggle Live Traffic</button>
+
+						</div>
+					</div>
+					<div class="info col-md-12">
+						<h2 class="header">ROAD SAFETY - ACCIDENT PROBABILITY OVERALL</h2><hr>
+						<div>
+							<p>The overall accident probability score tells you how dangerous the road in given areas are. The score has three divisions: <span class = "capo" style = "color: #44b444">Normal</span>, <span class = "capo" style = "color: #615ee6">PLAUSIBLE</span> and <span class = "capo" style = "color: #882D2B">Critical</span>. With NORMAL being the best and critical being the worst. These probabilities are calculated using historical data. </p>
+							<h2 class = "good_score center">NORMAL</h2>
+						</div>
+					</div>
+				</div>
+		</div>
+		<div class="workflow-secondary" id="flow2">
+			<div class="center">
+				<h1 class = "capo">LOCATION BASED ANALYSIS</h1>
+				<p class="lead">Distribution of the near collision with respect to the wards.</p>
+			</div>
+			<div class="row">
+				<div class="col-md-12">
+					<div class="graph col-md-12">
+						<h2 class="header">Wards in Bengaluru</h2><hr>
+						<div id="bar_wards"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="workflow-secondary">
+			<div class="center">
+				<h1 class = "capo">LOCATION BASED ANOMALIES - Danger Zones</h1>
+				<p class="lead">Here are some of the <strong class = "capo">Anomalous</strong> zones in the region where accidents are occuring more than normal rate.</p>
+			</div>
+			<div class="row">
+				<div class="col-md-8">
+					<div class="graph col-md-12">
+						<div id="map_canvas_two" style="width:100%;height:550px;"></div>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="info col-md-12">
+						<h2 class="header">Map Options</h2><hr>
+						<div>
+							<button class= "btn moder-opts" id = "heatmap_map_two" onclick = "heat_two()">Show Heat Map</button>
+							<br />
+							<button class= "btn moder-opts" id = "distribution_map_two" onclick = "distribution_two()">Hide Markers</button>
+							<br />
+							<button class= "btn moder-opts" id = "show_traffic_two" onclick = "dispTraffic_two()">Toggle Live Traffic</button>
+
+						</div>
+					</div>
+					<div class="info col-md-12">
+						<h2 class="header">ROAD SAFETY - ACCIDENT PROBABILITY LOCATION</h2><hr>
+						<div>
+							<p>The overall accident probability score tells you how dangerous the road in given areas are. The score has three divisions: <span class = "capo" style = "color: #44b444">Normal</span>, <span class = "capo" style = "color: #615ee6">PLAUSIBLE</span> and <span class = "capo" style = "color: #882D2B">Critical</span>. With NORMAL being the best and critical being the worst. These probabilities are calculated using historical data. </p>
+							<h2 class = "critical_score center">CRITICAL</h2>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="workflow-secondary" id="flow3" hidden>
+			<div class="center">
+				<h1 class = "capo">VEHICLE SPEED BASED ANALYSIS</h1>
+				<p class="lead">Distribution of the near collision with respect to the speed of the vehicle.</p>
+			</div>
+			<div class="row">
+				<div class="col-md-12">
+					<div class="graph col-md-12">
+						<h2 class="header">Vehicle Speed when near collision in Bengaluru</h2><hr>
+						<div id="bar_speed"></div>
+
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="workflow-secondary">
+			<div class="center">
+				<h1 class = "capo">VEHICLE SPEED BASED ANOMALIES - Danger Zones</h1>
+				<p class="lead">Here are some of the <strong class = "capo">Anomalous</strong> zones in the region where accidents are occuring more than normal rate, mainly due to higher <strong class = "capo">speeds</strong>.</p>
+			</div>
+			<div class="row">
+				<div class="col-md-8">
+					<div class="graph col-md-12">
+						<div id="map_canvas_three" style="width:100%;height:550px;"></div>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="info col-md-12">
+						<h2 class="header">Map Options</h2><hr>
+						<div>
+							<button class= "btn moder-opts" id = "heatmap_map_three" onclick = "heat_three()">Show Heat Map</button>
+							<br />
+							<button class= "btn moder-opts" id = "distribution_map_three" onclick = "distribution_three()">Hide Markers</button>
+							<br />
+							<button class= "btn moder-opts" id = "show_traffic_three" onclick = "dispTraffic_three()">Toggle Live Traffic</button>
+
+						</div>
+					</div>
+					<div class="info col-md-12">
+						<h2 class="header">ROAD SAFETY - ACCIDENT PROBABILITY SPEED</h2><hr>
+						<div>
+							<p>The overall accident probability score tells you how dangerous the road in given areas are. The score has three divisions: <span class = "capo" style = "color: #44b444">Normal</span>, <span class = "capo" style = "color: #615ee6">PLAUSIBLE</span> and <span class = "capo" style = "color: #882D2B">Critical</span>. With NORMAL being the best and critical being the worst. These probabilities are calculated using historical data. </p>
+							<h2 class = "normal_score center">PLAUSIBLE</h2>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="workflow-secondary">
+			<div class="center">
+				<h1 class = "capo">WEATHER BASED ANOMALIES</h1>
+				<p class="lead">Here are some of the <strong class = "capo">Anomalous</strong> zones in the region where accidents are occuring more than normal rate, mainly due to higher <strong class = "capo">rainfall </strong> and <strong class = "capo"> humidity</strong> .</p>
+			</div>
+			<div class="row">
+				<div class="col-md-8">
+					<div class="graph col-md-12">
+						<div id="map_canvas_four" style="width:100%;height:550px;"></div>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="info col-md-12">
+						<h2 class="header">Map Options</h2><hr>
+						<div>
+							<button class= "btn moder-opts" id = "heatmap_map_four" onclick = "heat_four()">Show Heat Map</button>
+							<br />
+							<button class= "btn moder-opts" id = "distribution_map_four" onclick = "distribution_four()">Hide Markers</button>
+							<br />
+							<button class= "btn moder-opts" id = "show_traffic_four" onclick = "dispTraffic_four()">Toggle Live Traffic</button>
+
+						</div>
+					</div>
+					<div class="info col-md-12">
+						<h2 class="header">ROAD SAFETY - ACCIDENT PROBABILITY WEATHER</h2><hr>
+						<div>
+							<p>The overall accident probability score tells you how dangerous the road in given areas are. The score has three divisions: <span class = "capo" style = "color: #44b444">Normal</span>, <span class = "capo" style = "color: #615ee6">PLAUSIBLE</span> and <span class = "capo" style = "color: #882D2B">Critical</span>. With NORMAL being the best and critical being the worst. These probabilities are calculated using historical data. </p>
+							<h2 class = "normal_score center">PLAUSIBLE</h2>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class = "workflow-secondary">
+			<div class="main clearfix">
+				<form id="nl-form" class="nl-form">
+					Travelling in ward
+					<select>
+						<option value="1" selected>Hagadur</option>
+						<option value="2">Varthuru</option>
+						<option value="3">Hudi</option>
+						<option value="4">Kadugodi</option>
+						<option value="5">Bellanduru</option>
+					</select>
+					<br /> with speed
+					<select>
+						<option value="1" selected>less than 10</option>
+						<option value="2">10-30</option>
+						<option value="3">30-50</option>
+						<option value="4">50-60</option>
+						<option value="5">More than 60</option>
+					</select>
+					
+					<br /> 
+					<select> with rainfall
+						<option value="1" selected>less than 10 mm</option>
+					 	<option value="2">10-100 mm</option>
+					 	<option value="3">100-300 mm</option>
+					 	<option value="4">More than 300 mm</option>
+					</select>
+					
+						<button class="nl-submit">Estimate Safety</button>
+					</div>
+					<div class="nl-overlay"></div>
+				</form>
+			</div>
+		</div>
+		
+		</div>
+	</div>
+	<script src="/js/dash.js"></script>
+	<script type = "text/javascript" src = "/js/d3/bar.js"></script>
+    <script src="http://maps.google.com/maps/api/js?key=AIzaSyBjA35dapCPMOflf9D_WMXeVszVVxhfGc8&libraries=visualization" type="text/javascript"></script>
+    <script src="/js/roadmap.js"></script>
+    <script src="/js/roadmap_two.js"></script>
+    <script src="/js/roadmap_three.js"></script>
+    <script src="/js/roadmap_four.js"></script>
+    <script src="js/nlform.js"></script>
+    <script>
+    	var nlform = new NLForm( document.getElementById( 'nl-form' ) );
+    </script>

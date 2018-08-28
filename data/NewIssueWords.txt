@@ -1,0 +1,9 @@
+nationalism	DCW,0.78
+corruption
+poverty
+defense	SALUTE,0.98
+industries
+religion	GURU,0.22
+agriculture	SOIL,-0.02
+economy
+education	#EXAMWARRIORS,0.94

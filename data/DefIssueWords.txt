@@ -1,0 +1,9 @@
+corruption	corruption;corruptions;corrupt;blackmoney;scam;scams;bribe
+poverty	poverty;poor
+industries	industries;industry;industrial;factory;factories;manufacture;manufacturing;production
+agriculture	agriculture;crops;farmer;farmers;kisan;agriculturist;plantation
+defense	defense;army;soldier;soldiers;pilot;pilots;navy;airforce
+economy	economy;inflation;prices;deficit;fiscal;springs;investment;investments
+nationalism	nationalism;patriot;patriotism;nationalist;jaihind;bharatmatakijai
+education	education;school;schools;students;student;university;NEET;exam;exams;teachers;professors;IIT;IIM;engineering;medical
+religion	religion;muslim;muslims;hindu;hindus;christian;christians;jains;sikh;sikhs;temple;temples;masjid;mosque;mosques;church;gurudwara

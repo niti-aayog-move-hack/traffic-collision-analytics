@@ -1,0 +1,89 @@
+html, body{margin:0;height: 100%;min-height:100%;}
+
+/*Header*/
+
+header .navbar {
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top:30px;
+  padding-bottom:20px;
+  transition: all .5s ease-out;
+}
+header .navbar-brand {
+  background-repeat: no-repeat;
+  background-position: 15px 0;
+  height: auto;
+  margin-left:0px;
+}
+header .navbar-default {
+  background-color: transparent;
+  border:none !important;
+}
+
+header .navbar-default .navbar-nav li {
+  color: white;
+  font-size: 22px;
+  padding: 5px 8px;
+  font-weight: 100;
+}
+
+header .navbar-default .navbar-nav a {
+  color: white;
+  font-size: 14px;
+  padding: 5px 8px;
+}
+
+header .navbar-default .navbar-nav a:active {
+  color: white;
+  font-size: 14px;
+  padding: 5px 8px;
+  border-radius: 20px;
+}
+/**  Navbar Brand **/
+
+header .navbar-brand {
+	margin-left:0px;
+	padding: 0px;	
+}
+
+
+
+
+@media only screen
+and (max-width: 768px) {
+  header .navbar-collapse.in {
+    background-color: rgba(0,0,0, .5);
+  }
+}
+/*Links Navbar*/
+header .navbar-default .navbar-nav a:hover {
+  color: rgba(0,0,0,0.5);
+  background-color: white;
+}
+header .navbar-default .navbar-nav a:focus{
+   color: white;
+}
+header .navbar-default .navbar-nav a:hover {
+  color: rgba(0,0,0,0.5);
+  background-color: white;
+}
+
+#demo{
+	color: #b3b300;
+	border: 1px solid #b3b300;
+}
+#demo:hover{
+	background-color: #b3b300;
+	color:white;
+}
+
+footer{
+	min-height:60px;
+	color: #fff;
+	background-color: #000;
+	font-size: 2rem;
+}
+
+footer span{
+	padding-top: 25px;
+}

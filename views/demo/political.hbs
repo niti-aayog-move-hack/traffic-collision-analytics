@@ -1,0 +1,57 @@
+<link rel="stylesheet" type="text/css" href="/css/srch.css" />
+    <div class = "container">  
+      <section class="content">
+        <div class= "most-popular">
+        <h2 class = "capo">MOST POPULAR</h2>
+          <span>  
+            <form action = "/demo/result" method = "POST">
+              <input class = "lnk-std" type = "submit" value = "NARENDRA MODI" style ="float:left;"/>
+              <input style = "display:none" name = "pol_name" type="text" id="input-1" value = "Narendra Modi" />  
+            </form>
+          </span>
+          <span>  
+            <form action = "/demo/result" method = "POST">
+              <input class = "lnk-std" type = "submit" value = "RAHUL GANDHI"  style ="float:left;" />
+              <input style = "display:none" name = "pol_name" type="text" id="input-1" value = "Rahul Gandhi" />  
+            </form>
+          </span>
+          <span>  
+            <form action = "/demo/result" method = "POST">
+              <input class = "lnk-std" type = "submit" value = "ARVIND KEJRIWAL" style ="float:left;" />
+              <input style = "display:none" name = "pol_name" type="text" id="input-1" value = "Arvind Kejriwal" />  
+            </form>
+          </span>
+          <span>  
+            <form action = "/demo/result" method = "POST">
+              <input class = "lnk-std" type = "submit" value = "SUBRAMANIAN SWAMY" />
+              <input style = "display:none" name = "pol_name" type="text" id="input-1" value = "Subramanian Swamy" />  
+            </form>
+          </span>
+          <span>  
+            <form action = "/demo/result" method = "POST">
+              <input class = "lnk-std" type = "submit" value = "ARUN JAITLEY" />
+              <input style = "display:none" name = "pol_name" type="text" id="input-1" value = "Arun Jaitley" />  
+            </form>
+          </span>
+
+      </div>
+        <hr />
+        <h2 class= "capo">SEARCH FOR THE POLITICIAN</h2>
+        <p>Enter the politician's name to get in-depth insights.</p>
+        <div>
+          <form  action="/demo/search" style="display:inline;" method="get">  
+            <span class="input input--srch">
+              <input class="input__field" name = "q" type="text" id="input-1" required/>
+              <label class="input__label" for="input-1">
+                <span class="input__label-content input__label-content--srch">Name</span>
+              </label>
+            </span>          
+            <br />
+              <input type = "submit" id = "go-button" class = "lnk-std" value = "Go!"></input>
+          </div>
+          </form>
+
+      </section>
+
+      </div>
+<script src="/js/demo-index.js"></script>

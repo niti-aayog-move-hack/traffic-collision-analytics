@@ -1,0 +1,102 @@
+<link rel="stylesheet" type="text/css" href="/css/demo.css" />
+    <div class = "container">  
+     <div class = "content">
+    		<h1 class = "capo">character Analysis</h1>
+              <p>We have applied our generic text analytics technology to analyze the Indian Political ecosystem. 
+              Character analysis lets you get indepth insights about the statements made by Indian politicians. You can
+              analyze the politicians with just your browser. The heavy-weight processing is done remotely over cloud.
+              </p>
+              <a class = "option" href = "/demo/political">
+              	<div class = "lnk-std capo" >EXPLORE Character analysis</div>
+              </a>
+              <a id = "feat_scroll" class = "option" href = "#features">
+              	<div class = "lnk-inverse capo" >Features</div>
+              </a>
+              
+
+    </div>
+  </div>
+
+    <div class = "container-fluid" id = "features">  
+     <div class = "ft_content">
+     	<h1 class = "capo"> POLITICAL ANALYTICS FEATURES</h1>
+     	
+     	<div class= "row">
+     		<div class = "col-md-4">
+     			<div class = "card">
+     				<h3 class = "capo">FREQUENT TERMS</h3>
+     				<p>Find out the most frequent terms used by the politician along with his/her sentiment associated with each term, with option to dig deeper into each term.</p>
+     			</div>
+     		</div>
+     		<div class = "col-md-4">
+     			<div class = "card">
+     				<h3 class = "capo">ISSUES</h3>
+     				<p>Enables you to explore about the issues the politician concentrates on, along with his/her sentiment associated with each issue, with option to dig deeper into each issue.</p>
+     			</div>
+     		</div>
+     		<div class = "col-md-4">
+     			<div class = "card">
+     				<h3 class = "capo">TIMELINE</h3>
+     				<p>A line graph pertaining to the frequency of the terms and the issues spoken about by the politician over time, with option to selectively analyze a specific timeframe.</p>
+     			</div>
+     		</div>	
+     	</div>
+     	     	
+     	<div class= "row">
+     		<div class = "col-md-4">
+     			<div class = "card">
+     				<h3 class = "capo">GEOLOCATION</h3>
+     				<p>All the places mentioned by the politicians are plotted on a map, with sentiment overlay. You can find the most prominent places mentioned by the politician along with the associated sentiment.</p>
+     			</div>
+     		</div>
+     		<div class = "col-md-4">
+     			<div class = "card">
+     				<h3 class = "capo">FUll text query</h3>
+     				<p>Serach throughout the entire politician dataset to dig deeper into the terms that you are interested to more about know about, in the context of the politician's statements.</p>
+     			</div>
+     		</div>
+     		<div class = "col-md-4">
+     			<div class = "card">
+     				<h3 class = "capo">WORD ASSOCIATION</h3>
+     				<p>Find how closely a given pair of terms are inter-related in the statements made by the politician.</p>
+     			</div>
+     		</div>	
+     	</div>
+
+     	<div class = "row">
+     		<div class = "col-md-4"></div>
+     		<div class = "col-md-4">
+     			<div class = "card">
+     				<h3 class = "capo">PREDICTion</h3>
+     				<p>Enter a sentence and find out what the politician's expected sentiment will be towards the given sentence.</p>
+     			</div>
+     		</div>	
+     	</div>
+
+     </div>
+    </div>
+
+<script>
+$(document).ready(function(){
+	
+	
+  $("#feat_scroll").on('click', function(event) {
+    if (this.hash !== "") {
+      event.preventDefault();
+      var hash = this.hash;
+
+      // Using jQuery's animate() method to add smooth page scroll
+      // The optional number (800) specifies the number of milliseconds it takes to scroll to the specified area
+      $('html, body').animate({
+        scrollTop: $(hash).offset().top
+      }, 800, function(){
+   
+        // Add hash (#) to URL when done scrolling (default click behavior)
+        window.location.hash = hash;
+      });
+    } // End if
+  });
+});
+</script>
+
+<script src="/js/demo-index.js"></script>

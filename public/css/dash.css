@@ -1,0 +1,507 @@
+
+body{
+  /*background-color: #6c496f;*/
+  font-family: 'Raleway';
+}
+
+h1, h2, h4, h5, h6 {
+    font-weight: 600;
+    font-family: 'Rajdhani','Open Sans', sans-serif;
+    color: #4e4e4e;
+}
+
+h1{
+	font-size: 3.75em;
+	color: #E34B48;
+}
+
+h2 {
+    font-weight: 2000;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+h3{
+	margin-top: 0px;
+}
+
+table{
+	margin: 0px auto;
+	color: #000;
+}
+
+td, th{
+	padding: 4px;
+}
+
+#main-content{
+	margin-top: 0px;
+	min-height:100%;
+	padding-right:-20px;
+}
+
+#main-content h3 {
+    font-size: 16px;
+    color: #787878;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.container-fluid{
+	height: 100%;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+.deets{
+	height: 100%;
+	text-align:center;
+	padding-top: 150px;
+	background: rgb(2,0,36);
+	background: linear-gradient(6deg, rgba(2,0,36,1) 0%, rgba(227,75,72,1) 0%, rgba(136,45,43,1) 100%);
+	color: #882d2b;
+	padding-bottom: 80px;
+}
+
+.deets p{
+	font-size: 1.1em;
+}
+
+.deets h1, .deets h2, .deets p{
+	color: #5a1e1c;
+}
+
+.capo{
+	text-transform: uppercase;
+}
+
+.code{
+	border: 3px solid #882d2b;
+	padding: 4px;
+}
+
+.start-btn{
+	width: 200px;
+	background-color: #000;
+	color: #fff;
+	margin:2px;
+	border-radius: 0px;
+	border: 2px solid #000;
+	font-weight: 700;
+
+}
+
+.start-btn:hover{
+	background-color: #882d2b;
+	color: #000;
+}
+
+.header{
+  text-align: center;
+  /*background-color: #f2f2f2;*/
+}
+
+
+
+.center h2 {
+    font-size: 36px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+.center {
+    text-align: center;
+}
+.lead {
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+}
+.graph{
+  /*background-color: #f2f2f2;*/
+  background-color: #fff;
+  padding: 30px;
+  padding-left: 100px;
+  box-shadow: 2px 2px 5px #888888;
+}
+.workflow{
+  background-color: #f2f2f2;
+	padding: 90px;
+}
+
+.workflow-secondary{
+	display:block;
+	padding-top: 70px;
+}
+
+.info{
+  background-color: #fff;
+  padding: 10px;
+  padding-left: 30px;
+  width: 100%;
+  box-shadow: 2px 2px 5px #888888;
+  margin-bottom: 20px;
+}
+
+
+.info button{
+  display: block;
+  margin: auto;
+  padding: 10px;
+}
+
+.info .numeric{
+	color: #E34B48;
+}
+
+.numeric-secondary{
+	font-size: 120%;
+	color: #E34B48;
+}
+
+.normal_score{
+	/*color: #44b444;*/
+	/*color: #882d2b;*/
+	color: #615ee6;
+	font-size: 2.5em;
+	border: 3px solid #615ee6;
+}
+
+.critical_score{
+	/*color: #;*/
+	/*color: #882d2b;*/
+	color: #882d2b;
+	font-size: 2.5em;
+	border: 3px solid #882d2b;
+}
+
+
+.good_score{
+	/*color: #;*/
+	/*color: #882d2b;*/
+	color: #44b444;
+	font-size: 2.5em;
+	border: 3px solid #44b444;
+}
+
+.next{
+	display: block;
+	margin: auto;
+  background-color: #E34B48;
+  border-bottom: 5px solid #882d2b;
+  color: white;
+  border-radius: 0;
+	margin-top: 30px;
+  margin-bottom: 100px;
+	font-size: 20px;
+  padding: 10px 30px 10px 30px;
+  transition: all 0.3s;
+}
+.next:hover{
+  background-color: #882d2b;
+  color: #fff;
+  transition: all 0.3s;
+}
+
+
+/* RANGE SLIDER */
+
+#range{
+	border:none;
+	height:37px;
+}
+
+#slider:before{
+	display:block;
+	/*background-image: url('../img/rangeBar.png');	*/
+	background-position:0px 10px;
+	background-repeat: repeat-x;
+	margin-left:9px;
+	width:560px;
+	height:30px;
+	position:relative;
+	position:absolute;
+	content:""
+}
+
+#range td{
+	border-right: 3px solid #fff;
+	text-align: center;
+	font-size: 20px;
+	padding:0px;
+	color: #fff;
+	font-size: 0.8em;
+	
+}
+
+.rangeGrip{
+	width:10px;
+	height:19px;
+	cursor:e-resize;
+	/*background-image: url('/images/slider.png');*/
+	background: transparent;
+	z-index:8;
+	margin-top: -15px;
+}
+
+
+.rangeDrag .rangeGrip, .rangeGrip:hover{
+	background-position:right;
+}
+
+.gradeScale{
+	border: 1px solid #000;
+}
+
+#text{
+	color:#034a92;
+	float:right;
+
+}
+
+#S{
+	background-color: #A7DBD8;
+}
+#A{
+	background-color: #CFF09E;
+}
+#B{
+	background-color: #A8DBA8;
+}
+#C{
+	background-color: #79BD9A;
+}
+#D{
+	background-color: #3B8686;
+}
+#E{
+	background-color: #0B486B;
+}
+#F{
+	background-color: #556270;
+	border-left: none!important;
+}
+
+
+#gradeAxis{
+	height: 50px;
+}
+
+.range-wrapper{
+	width: 14.28%;
+	display: inline-block;
+
+}
+
+.range-display{
+	width:100%;
+	display: inline;
+	margin-bottom: 30px;
+}
+
+.grade-label{
+	font-size: 1.8rem;
+}
+
+.grade-label2{
+	font-size: 1.8rem;
+	color: #4e4e4e;
+}
+
+.grade-range{
+	text-align: center;
+	font-size: 1rem;
+	margin: 4px;
+	
+}
+
+.large-numeric{
+	font-size: 2rem;
+}
+
+.large-numeric2{
+	font-size: 3.5rem;
+}
+
+.moder-opts{
+	width: 100%;
+	margin: 0px auto;
+	margin-bottom: 20px;
+}
+
+.moder-opts input[type="number"]{
+	width: 100%;
+	background-color: #f2f2f2;
+	padding:7px;
+	border: 0px;
+	margin: 0px auto;
+	margin-top: 15px;
+}
+
+.moder-opts{
+	width: 50%;
+	background-color: transparent;
+	border: 2px solid #E34B48;
+	color: #E34B48;
+	margin-top: 5px;
+	margin-bottom: 15px;
+}
+
+.moder-opts:hover{
+	background-color: #E34B48;
+	color: #fff;
+}
+
+
+/*Summary*/
+
+.yes{
+	color: #44b444;
+}
+
+.no{
+	color: #E34B48;
+}
+
+
+.summary-info td{
+	padding-right:50px;
+}
+
+.summary-info2{
+	margin-left:10%;
+}
+.summary-info2 td{
+	padding-right:50px;
+}
+
+.percent-val{
+	border: 2px solid #4e4e4e;
+	color: #44b444;
+}
+
+.val-S{
+	color: #A7DBD8;
+	border: 2px solid #A7DBD8;
+}
+
+.val-A{
+	color: #CFF09E;
+	border: 2px solid #CFF09E;
+
+}
+
+.val-B{
+	color: #A8DBA8;
+	border: 2px solid #A8DBA8;
+
+}
+
+.val-C{
+	color: #79BD9A;
+	border: 2px solid #79BD9A;
+}
+
+.val-D{
+	color: #3B8686;
+	border: 2px solid #3B8686;
+}
+
+.val-E{
+	color: #0B486B;
+	border: 2px solid #0B486B;
+}
+
+.val-F{
+	color: #556270;
+	border: 2px solid #556270;
+}
+
+
+/*Viz related*/
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #a1a1a1;
+  shape-rendering: crispEdges;
+  color: #a1a1a1;
+  }
+
+  
+.bar:hover {
+  fill: #882d2b;
+}
+
+
+.d3-tip {
+  line-height: 1;
+  font-weight: bold;
+  padding: 12px;
+  background: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  border-radius: 2px;
+}
+
+/* Creates a small triangle extender for the tooltip */
+.d3-tip:after {
+  box-sizing: border-box;
+  display: inline;
+  font-size: 10px;
+  width: 100%;
+  line-height: 1;
+  color: rgba(0, 0, 0, 0.8);
+  content: "\25BC";
+  position: absolute;
+  text-align: center;
+}
+
+/* Style northward tooltips differently */
+.d3-tip.n:after {
+  margin: -1px 0 0 0;
+  top: 100%;
+  left: 0;
+}
+
+.overlay {
+  fill: none;
+  pointer-events: all;
+}
+
+.hover-text{
+	border: 1px solid black;
+	fill: #E34B48;
+	stroke-weight: 4px;
+	background-color: #000;
+}
+
+
+.clear-button {
+  font: 14px sans-serif;
+  cursor: pointer;
+  z-index: 10000000;
+}
+
+.clear-button{
+	text-align: center;
+}
+
+#clear-button {
+	background-color: #fff;
+	color: #E34B48;
+	border: 2px solid #E34B48;
+}
+
+#clear-button:hover {
+	background-color: #E34B48;
+	color: #fff;
+	border: 2px solid #E34B48;
+}
+
+.point {
+	opacity:0.75;
+}
+.point:hover {
+	opacity:1;
+	stroke: #000;
+}

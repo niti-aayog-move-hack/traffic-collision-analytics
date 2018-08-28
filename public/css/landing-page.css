@@ -1,0 +1,218 @@
+body,
+html {
+    width: 100%;
+    height: 100%;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Raleway","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+}
+
+.capo{
+	font-family:'Rajdhani'
+}
+
+.super-thin{
+	font-weight:100!important;
+}
+
+
+.topnav {
+    font-size: 14px; 
+}
+
+.lead {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.intro-header {
+    padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(../img/intro-bg.jpg) no-repeat center center;
+    background-size: cover;
+	position:relative;
+}
+
+.layer {
+    background-color: rgba(0, 0, 0, 0.6);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.intro-message {
+    position: relative;
+    padding-top: 13%;
+    padding-bottom: 20%;
+}
+
+.intro-message > h1 {
+    margin: 0;
+    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+    font-size: 5em;
+}
+
+.intro-divider {
+    width: 400px;
+    border-top: 1px solid #f8f8f8;
+    border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+
+.intro-message > h3 {
+    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+}
+
+@media(max-width:767px) {
+    .intro-message {
+        padding-bottom: 15%;
+    }
+
+    .intro-message > h1 {
+        font-size: 3em;
+    }
+
+
+    .intro-divider {
+        width: 100%;
+    }
+}
+
+.network-name {
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 2px;
+}
+
+
+.content-section-a {
+    padding: 50px 0;
+    background-color: #fff;
+	text-align:center
+}
+.content-section-a h1{
+    padding: 5px 0;
+	font-size:3.5em;
+	color:#293742;
+}
+
+.content-section-a h4{
+	color:#394b59;
+	margin-top:10px;
+	margin-bottom:0px;
+	padding-top:10px;
+}
+
+.content-section-a img{
+	width:100%;
+	margin:0px auto;
+}
+
+.content-section-a p{
+	font-size:1.2em;
+	margin:0px auto;
+}
+
+.img-wrap{
+	width:25%;
+	height:100px;
+	margin:0px auto;
+}
+
+.wrap{
+	max-width:600px;
+	text-align:center;
+	margin:0px auto;
+	padding-bottom:30px;
+}
+
+
+.content-section-b {
+    padding: 50px 0;
+    border-top: 1px solid #e7e7e7;
+    border-bottom: 1px solid #e7e7e7;
+}
+
+.section-heading {
+    margin-bottom: 30px;
+}
+
+.content-section-b .img-wrap{
+	width:50%;
+	height:100px;
+	margin:0px auto;
+}
+
+.section-heading-spacer {
+    float: left;
+    width: 100%;
+    border-top: 3px solid #e7e7e7;
+}
+
+.lnk-std{
+	text-decoration:none!important;
+	padding:10px;
+	padding-left:30px;
+	color:#394b59;
+	padding-right:30px;
+	margin:0px auto;
+	border:2px solid #394b59;
+	
+}
+.lnk-std:hover{
+	background-color: #394b59;
+	color:white;
+}
+.banner {
+    padding: 50px 0;
+    color: #f8f8f8;
+    background-size: cover;
+	background-color:#000;
+	text-align:center;
+}
+
+.banner h2 {
+    margin: 0;
+    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+    font-size: 3em;
+	margin-bottom:30px;
+}
+.banner a {
+    color:white;
+}
+
+.banner ul {
+    margin-bottom: 0;
+}
+
+
+
+@media(max-width:1199px) {
+
+}
+
+@media(max-width:767px) {
+    .banner h2 {
+        margin: 0;
+        text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+        font-size: 3em;
+    }
+
+}
+
+
+p.copyright {
+    margin: 15px 0 0;
+}

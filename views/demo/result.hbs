@@ -1,0 +1,586 @@
+    <link type="text/css" href="/css/dashboard.css" rel="stylesheet" media="all" />
+    <script src="http://d3js.org/d3.v3.js"></script>
+    <script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
+ <style>
+    
+    html, body{
+      height: 100%;
+    }
+
+    .navbar-default{
+      background-color:black!important;
+    }
+
+    circle:hover{
+    fill:#bbcff0!important;
+    stroke: black;
+    stroke-width:5px;
+    }
+    
+    circle:active{
+    fill:#bbcff0!important;
+    stroke: black;
+    stroke-width:6px;
+    }
+    
+  .d3-tip {
+    line-height: 1;
+    font-weight: bold;
+    padding: 12px;
+    background: rgba(0, 0, 0, 0.8);
+    color: #fff;
+    border-radius: 2px;
+  }
+
+  .d3-tip:after {
+    box-sizing: border-box;
+    display: inline;
+    font-size: 10px;
+    width: 100%;
+    line-height: 1;
+    color: rgba(0, 0, 0, 0.8);
+    content: "\25BC";
+    position: absolute;
+    text-align: center;
+  }
+
+  .d3-tip.n:after {
+    margin: -1px 0 0 0;
+    top: 100%;
+    left: 0;
+  }
+  
+    .hover-line {
+    stroke: #000;
+    fill: #000;
+    stroke-width: 1px;
+    left: 10px;
+    shape-rendering: crispEdges;
+    opacity: 1;
+}
+  
+    .axis path,
+    .axis line {
+      fill: none;
+      stroke: #000;
+      shape-rendering: crispEdges;
+    }
+    
+    .x.axis path {
+      display: none;
+    }
+    
+    .line {
+      fill: none;
+      stroke: steelblue;
+      stroke-width: 1.5px;
+    }
+
+    path{
+      stroke: #fff;
+    }
+
+    path:hover {
+      fill: #293742!important;
+      transition-delay: 0;
+    }
+
+  /* Tooltip container */
+  .tooltip {
+      position: relative;
+      display: inline-block;
+      border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
+  }
+
+  /* Tooltip text */
+  .tooltip .tooltiptext {
+      visibility: hidden;
+      width: 120px;
+      background-color: black;
+      color: #fff;
+      text-align: center;
+      padding: 5px 0;
+      border-radius: 6px;
+ 
+      /* Position the tooltip text - see examples below! */
+      position: absolute;
+      z-index: 1;
+  }
+
+  /* Show the tooltip text when you mouse over the tooltip container */
+  .tooltip:hover .tooltiptext {
+    visibility: visible;
+  }
+
+</style>
+
+
+<body>
+
+<div class = "unavailable-screen" id = "unscreen">
+    <h1> The visualizations cannot be rendered on a screen as small as yours, please try with a bigger screen. </h1>
+</div>
+
+<div id="dialog">
+  <h2>Choose the word you'd like to analyze.</h2>
+  <div id = "wordDialog">
+    <br />
+  </div>
+
+    <button id = "toggle" onclick = "toggledialog()" class = "side-btn close-btn">Close</button>
+</div>
+
+<div id="issue-dialog">
+  <h2>Choose the word you'd like to analyze.</h2>
+
+  <button onclick = "redraw_issue('education', true)" class = "side-btn iss">Education</button>
+  <button onclick = "redraw_issue('religion', true)" class = "side-btn iss">Religion</button>
+  <button onclick = "redraw_issue('defense', true)" class = "side-btn iss">Defense</button>
+  <button onclick = "redraw_issue('agriculture', true)" class = "side-btn iss">Agriculture</button>
+  <button onclick = "redraw_issue('corruption', true)" class = "side-btn iss">Corruption</button>
+  <button onclick = "redraw_issue('economy', true)" class = "side-btn iss">Economy</button>
+  <button onclick = "redraw_issue('industries', true)" class = "side-btn iss">Industries</button>
+  <button onclick = "redraw_issue('nationalism', true)" class = "side-btn iss">Nationalism</button>
+  <button onclick = "redraw_issue('poverty', true)" class = "side-btn iss">Poverty</button>
+  
+  <br />
+  
+  <button id = "toggle" onclick = "toggleissuedialog()" class = "side-btn close-btn">Close</button>
+</div>
+
+
+<!-- ACTUAL CONTENT STARTS -->
+
+<div id = "content" class = "container-fluid">
+
+  <!-- OVERVIEW -->
+
+  <div class = "introduction" id = "introduction">
+
+  	<div class= "layer" id = "intro-layer"></div>
+
+
+  <div class = "row intro">
+  <div>
+    <h1 class= "capo hd" id = "capital">{{name}}</h1>
+
+    <div class = "col-md-6">
+      <h3 class= "capo">OVERALL SENTIMENT:</h3>
+      <div id = "sentiment-pie"></div>
+    </div>
+    <div class = "col-md-6">
+          <h3 class= "capo">BRIEF SUMMARY:</h3>
+        <p class = "br-summ" id = "pol-intro">
+        
+        </p>
+    </div>
+    </div>
+  </div>
+ </div>
+
+<!--Secondary navigation menu-->
+
+<div class="cd-secondary-nav">
+		<a href="#0" class="cd-secondary-nav-trigger">Menu<span></span></a> <!-- button visible on small devices -->
+		<nav>
+			<ul>
+				<li>
+					<a href="#comp-two">
+						<b>Top 30</b>
+						<span></span><!-- icon -->
+					</a>
+				</li>
+				<li>
+					<a href="#comp-three">
+						<b>Topics</b>
+						<span></span><!-- icon -->
+					</a>
+				</li>
+				<li>
+					<a href="#comp-four">
+						<b>Timeline</b>
+						<span></span><!-- icon -->
+					</a>
+				</li>
+				<li>
+					<a href="#comp-five">
+						<b>Location</b>
+						<span></span><!-- icon -->
+					</a>
+				</li>
+				<li>
+					<a href="#custom">
+						<b>Custom</b>
+						<span></span><!-- icon -->
+					</a>
+				</li>
+			</ul>
+		</nav>
+	</div> 
+
+<!-- Top 30 -->
+<div class = "comp-two cd-section" id = "comp-two">
+  <h2 id = "wordheading" class = "capo">What {{name}} talks about:</h2>
+    <div class = "row or">
+      <div class = "col-md-9 top30" id = "top30"></div>
+      
+      <div class = "col-md-3 dashboard">
+
+          <h3>Sentiment Scale</h3>
+          <div class = "scale-wrapper dashboard-word-options" id = "top30_gradient">
+
+            <div class="sentiment-gradient"></div>  
+                <p class="scaletext capo" style = " float: left; color: #fdaf8b;">NEGATIVE</p>
+                <p class="scaletext capo" style = " float: right; color: #5ab4ac;">POSITIVE</p>
+            <div style="clear: both;"></div>
+          </div>
+
+      <h3>Options</h3>
+        <div class = "dashboard-word-options">
+          <button class = "side-btn" id = "analyze-word">Analyse each word</button><br /><br />
+          <div id = "showall" style = "display : none">
+            <button class = "side-btn" onclick = "redraw()"> Show All</button><br /><br />
+          </div>
+          <button id = "sentiment" class = "side-btn" onclick = "drawTop30('top30', false, true)">Show sentiment</button>
+        </div>
+        <br />
+        <div id = "sideInfoTop30">
+          <p>Click on the bubble for more information</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+<!-- ISSUE -->
+<div class = "comp-three cd-section" id = "comp-three">
+  <h2 id = "issue_heading" class = "capo">Issues {{name}} covers:</h2>
+    <div class = "row gr">
+      <div class = "col-md-9 issues" id = "issues"></div>
+
+      <div class = "col-md-3 dashboard">
+          
+          <h3>Sentiment Scale</h3>
+          <div class = "scale-wrapper dashboard-issue-options" id = "issues_gradient">
+
+            <div class="sentiment-gradient"></div>  
+                <p class="scaletext capo" style = " float: left; color: #fdaf8b;">NEGATIVE</p>
+                <p class="scaletext capo" style = " float: right; color: #5ab4ac;">POSITIVE</p>
+            <div style="clear: both;"></div>
+          </div>
+
+
+      <h3>Options</h3>
+        <div class = "dashboard-issue-options">
+          <button class = "side-btn" id = "analyze-issue">Analyse each issue</button><br /><br />
+
+          <div id = "showall_issue" style = "display : none">
+            <button class = "side-btn" onclick = "redraw_i()"> Show All</button><br /><br />
+          </div>
+          <button id = "sentiment_issue" class = "side-btn" onclick = "drawIssues('issues', false, true)">Show sentiment</button>
+        </div>
+        <br />
+        <div id = "sideInfoIssues">
+          <p>Click on the bubble for more information</p>
+        </div>
+      </div>
+    </div>
+</div>
+
+<!-- TIMELINE -->
+<div class = "comp-four cd-section" id = "comp-four">
+    <h2  class = "capo">TIMELINE: {{name}}</h2>
+    <div class = "timeline" id = "timeline"></div>
+</div>
+
+<!-- MAPVIEW -->
+
+<div id = "comp-five" class = "comp-five cd-section">
+    <h2  class = "capo">MAP VIEW: {{name}}</h2>
+      <div class = "row">
+        
+        <div class = "col-md-9 mapview">
+          <div id="map_canvas" style="width:100%;height:550px;"></div> 
+        </div>
+
+        <div class = "col-md-3 dashboard">
+          <h3>Sentiment Scale</h3>
+          <div class = "scale-wrapper dashboard-map-options">
+
+            <div class="sentiment-gradient"></div>  
+                <p class="scaletext capo" style = " float: left; color: #fdaf8b;">NEGATIVE</p>
+                <p class="scaletext capo" style = " float: right; color: #5ab4ac;">POSITIVE</p>
+            <div style="clear: both;"></div>
+          </div>
+
+        <h3>Options</h3>
+          <div class = "dashboard-map-options">
+            <div id = "year_issue" >
+            </div>
+            <div id = "sentiment_map">
+              <button class = "side-btn" onclick = "mapsentimentwrapper(true)">Show sentiment</button><br /><br />
+            </div>
+            <div id = "showall_map" style = "display : none">
+              <button class = "side-btn" onclick = "mapsentimentwrapper(false)"> Show without sentiment</button><br /><br />
+            </div>
+            <button id = "distribution_map" class = "side-btn" onclick = "distribution()">Show Distribution</button><br /><br />
+            <button id = "heatmap_map" class = "side-btn" onclick = "heat()">Show Heatmap</button>
+          </div>
+          <br />
+          </div>
+
+      </div>
+</div>
+        <!-- Custom-->
+        <h2 class = "capo"> CUSTOM OPTIONS COMING SOON </h2>
+<div id = "custom" class = "custom cd-section" style = "display:none;">
+    <h1 class = "fourem capo">CUSTOMIZE</h1>
+    
+    <h2 class ="capo">FULL-TEXT QUERY: {{name}}</h2>
+    <div class = "search">
+
+      <div id = "pre-search">
+        <h3>Search for any specific word that you want more information about</h3>
+
+        <div id="wrap" class = "t100">
+
+            <input id="search" name="search" type="text" placeholder="Enter the word"><br /><br />
+          
+        </div>
+          <button id="search_submit" class = "lnk-std w-top capo" onclick = "srch()">SEARCH</button>
+          <br /><span id = "search-error" class = "error"></span>
+      </div>
+      
+      <div id = "fail-search" style = "display:none;">
+        <button class = "lnk-std capo" style = "padding:3px; margin:3px;" onclick = 'toggleCustom("fail-search", "pre-search")'>Search again</button>
+        <h3>Your query did not match any of the {{name}} dataset.</h3>
+
+        <div id="wrap" class = "t100">
+
+            <h2 class = "capo fourem">NO RESULTS</h2>
+      
+      </div>
+    </div>
+
+
+
+    <div id = "load-search" class = "search" style = "display:none;">
+
+        <div id="wrap">
+
+              <h2 class = "capo" style = "color: #FFF; padding-top:13%">LOADING...</h2>
+              <div class="cs-loader">
+                <div class="cs-loader-inner">
+                  <label> ●</label>
+                  <label> ●</label>
+                  <label> ●</label>
+                  <label> ●</label>
+                  <label> ●</label>
+                  <label> ●</label>
+                </div>
+              </div>
+        
+          </div>
+      </div>
+
+      <div class = "search" id = "res-search" style = "display:none;">
+        <button class = "lnk-std capo" style = "padding:3px; margin:3px;" onclick = 'toggleCustom("res-search", "pre-search")'>back to Search</button>
+        <h2 class= "fourem" id = "search-query" style= "margin-top: 5px; margin-left:0px;"></h2>
+        
+        <div class = "row">
+
+          <div class = "col-md-6">
+            <div class="peep" style= "margin-top: 10px;">
+                  <h2>Mentions</h2>
+                  <h3 id = "search-mentions"> </h3>
+            </div>
+            <div class="peep" style= "margin-top: 40px;">
+                  <h2>Relative Frequency</h2>
+                  <h3 id = "search-frequency"></h3>
+            </div>
+          </div>
+        
+          <div class = "col-md-6">
+           <h3 class = "capo">Sentiment</h3>
+            <div id = "search-pie">
+          </div>
+          </div>
+
+        </div>    
+      </div>
+
+    </div>
+    
+    <h2 class ="capo">WORD ASSOCIATION: {{name}}</h2>
+    <div class = "word-association">
+        <div id = "pre-association">
+          <h3>Enter two words and find how closely related they are to each other</h3>
+         
+          <div id="wrap" style="margin-top:60px;">
+              <input id="w1" name="oneword" type="text" placeholder="Enter word one">
+          </div>
+          <div id="wrap" class = "w-top">
+              <input id="w2" name="twoword" type="text" placeholder="Enter word two"><br /><br />
+          </div>
+
+          <button id="search_submit" class = "lnk-std w-top capo" onclick = "wrdassn()">FIND</button>
+                    <br /><span id = "association-error" class = "error"></span>
+
+        </div> 
+
+        <div id = "load-association" class = "search" style = "display:none;">
+
+        <div id="wrap">
+
+              <h2 class = "capo" style = "color: #FFF; padding-top:13%">LOADING...</h2>
+              <div class="cs-loader">
+                <div class="cs-loader-inner">
+                  <label> ●</label>
+                  <label> ●</label>
+                  <label> ●</label>
+                  <label> ●</label>
+                  <label> ●</label>
+                  <label> ●</label>
+                </div>
+              </div>
+        
+          </div>
+        </div>
+
+        <div class = "search" id = "res-association" style = "display:none;">
+          <button class = "lnk-std capo" style = "padding:3px; margin:3px;" onclick = 'toggleCustom("res-association", "pre-association")'>back to Search</button>
+          <h2 class= "fourem" id = "search-query" style= "margin-top: 5px; margin-left:0px;"></h2>
+          
+          <div class = "row">
+
+            <div class = "col-md-2">
+              <div class="peep" style= "margin-top: 10px;">
+                    <h3 id = "word-one"></h3>
+                    <h3 id = "word-two"></h3>
+              </div>
+              <div class="peep" style= "margin-top: 40px;">
+                    <h2 style= "margin-left: 0px;font-size: 30px;">Associated mentions</h2>
+                    <h3 id = "association-frequency">  </h3>
+              </div>
+            </div>
+          
+            <div class = "col-md-5">
+             <h3 class = "capo" id = "word-one-heading"></h3>
+              <div id = "association-one-pie">
+            </div>
+            </div>
+            <div class = "col-md-5">
+             <h3 class = "capo" id = "word-two-heading"></h3>
+              <div id = "association-two-pie">
+            </div>
+            </div>
+
+          </div>    
+        </div>
+
+      </div>
+
+    <h2 class ="capo">ANALYTICS: {{name}}</h2>    
+    <div class = "predict">
+      <div id = "pre-predict">
+        <h3>Enter a news sentence and find the expected sentiment of <strong>{{name}}</strong> towards it</h3>
+
+        <div id="wrap" class = "t100">
+
+            <textarea id="predict" name="predict" placeholder="Type the sentence here"></textarea><br /><br />
+          
+        </div>
+          <button id="search_submit" class = "lnk-std w-top capo" onclick = "prdct()">PREDICT</button>
+          <br /><span id = "predict-error" class = "error"></span>
+
+      </div>
+
+    <div id = "load-predict" class = "search" style = "display:none;">
+
+        <div id="wrap">
+
+            <h2 class = "capo" style = "color: #FFF; padding-top:13%">LOADING...</h2>
+            <div class="cs-loader">
+              <div class="cs-loader-inner">
+                <label> ●</label>
+                <label> ●</label>
+                <label> ●</label>
+                <label> ●</label>
+                <label> ●</label>
+                <label> ●</label>
+              </div>
+            </div>
+      
+      </div>
+    </div>
+
+      <div id = "fail-predict" style = "display:none;">
+        <button class = "lnk-std capo" style = "padding:3px; margin:3px;" onclick = 'toggleCustom("fail-predict", "pre-predict")'>Enter new sentence</button>
+        <h3>Your sentence you entered did not match any of the {{name}} dataset.</h3>
+
+        <div id="wrap" class = "t100">
+
+            <h2 class = "capo fourem">NO RESULTS</h2>
+      
+      </div>
+    </div>
+
+        <div class = "search" id = "res-predict" style = "display:none;">
+        <button class = "lnk-std capo" style = "padding:3px; margin:3px;" onclick = 'toggleCustom("res-predict", "pre-predict")'>enter new sentence</button>
+        
+        <div class= "row">
+          <div class = "col-md-5">
+            <div class="peep" syle= "margin-top: 10px;">
+                  <h2><strong> Your query</strong></h2>
+                  <h3 id = "predict-query"> </h3>
+            </div>
+            <div class="peep" syle= "margin-top: 10px;">
+                  <h2><strong> Likelihood of a response</strong></h2>
+                  <h3 id = "predict-likelyhood"> </h3>
+            </div>
+          </div>
+
+          <div class = "col-md-7">
+           <h3 class = "capo">predicted sentiment</h3>
+            <div id = "predict-pie"></div>
+          </div>
+        </div>
+       </div>
+      </div>    
+<!--End of custom-->
+</div>
+<!-- END of CONTENT-->
+</div>
+
+<script>
+pol_name = "{{name}}"
+ww = document.getElementById('top30').clientWidth - 33;
+hh = document.body.clientHeight * 0.9; 
+
+if(ww<700){
+    ww =800;
+}
+
+
+var width = ww - 60,
+    height = hh - 60,
+    padding = 1.5, // separation between same-color nodes
+    clusterPadding = 6, // separation between different-color nodes
+    mR = ww/70;
+    m = 30;
+
+
+
+// The largest node for each cluster.
+clusters = new Array(m);
+
+</script>
+    <script src="/js/d3/top30force.js"></script>
+    <script src="/js/d3/pie.js"></script>
+    <script src="/js/d3/issues_force.js"></script>
+    <script src="/js/d3/timeline.js"></script>
+    <script src="/js/dashboard.js"></script>
+    <script src="http://maps.google.com/maps/api/js?key=AIzaSyBU7OEzo9CKUpU4rmwTuqnjXXVsL0J-E28&libraries=visualization" type="text/javascript"></script>
+    <script src="/js/mapsi.js"></script>
+    <script src="/js/prefixfree.min.js"></script>
+
+</body>
